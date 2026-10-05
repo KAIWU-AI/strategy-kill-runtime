@@ -1,0 +1,3 @@
+# Only the pinned browser runtime is vendored; these are built modules.
+!runtime/**
+__pycache__/

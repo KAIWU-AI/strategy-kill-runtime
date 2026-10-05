@@ -1,0 +1,56 @@
+Strategy Kill embedded runtime / corresponding source
+
+Upstream: https://github.com/libnoname/noname
+Revision: 2367607e246d21aae168dba15c01151ee0651f30 (v1.11.6)
+Code license: GPL-3.0-only. Preserve LICENSE and UPSTREAM-README.md;
+the latter contains additional non-commercial language whose release impact
+must be reviewed by the release owner. Local integration is not legal clearance.
+No upstream artwork, fonts, voices or sound recordings are included.
+
+Contents
+- upstream-source.tar.gz: pinned readable upstream source and build inputs.
+- source-manifest.json: source paths and upstream Git blob/SHA256 provenance.
+- adapter-source/: modified bootstrap, read-only filesystem and product mapping.
+- vendor/fake-indexeddb-6.2.4/: readable ESM source, with its Apache-2.0 license.
+- licenses/: notices for bundled runtime dependencies.
+- poc-integrity.json: exact inventory of the original reviewed browser build.
+- assemble.py: deterministic source/notice packaging and delivery manifest.
+
+Building the upstream core
+Extract upstream-source.tar.gz to a working directory. With Node.js 24 and
+pnpm, install the supplied workspace using its lockfile (pnpm install
+--frozen-lockfile), then run pnpm --filter noname build. The upstream build
+entry is apps/core/scripts/build.ts. Do not run the upstream dev file server
+in the product. It is not part of the read-only integration.
+
+Adaptation
+Use apps/core/dist as build output. In noname/init/import.js, directly after
+async function importFunction(type, path) {, add:
+  path = new URL('../../' + path.replace(/^\//, ''), import.meta.url).href;
+Copy the four adapter-source files to the runtime root. Copy the readable
+fake-indexeddb 6.2.4 ESM files to vendor/fake-indexeddb-6.2.4. The bootstrap
+replaces browser persistence with memory-only storage before loading noname.
+Only members listed by poc-integrity.json are imported; omit host.html and
+host.js. The original static-files.json is read-only engine lookup metadata,
+not an HTTP allowlist. Original artwork/audio and unlisted modes are excluded.
+A fresh upstream rebuild requires review and a newly approved inventory;
+assemble.py deliberately refuses changed upstream bytes instead of approving
+them automatically. It is not a byte-reproducible upstream build claim.
+
+Product assembly
+The repository's buildStrategySetup('H01') is the authority for
+adapter-source/approved-setup.json. The selected player may vary per game;
+the child validates all 31 character records against this approved mapping.
+Run python3 third_party/strategy-kill/assemble.py from the product checkout.
+It copies approved adapters, packages source.tar.gz and notices, then writes
+manifest.json containing version=1, entry=sandbox.html, path/byteLength/sha256.
+The two product Vite builds emit those exact bytes. The server exposes only
+manifest members via the restricted strategy-runtime namespace, with an opaque
+allow-scripts iframe, runtime-only CSP and no credentialed CORS or API bypass.
+
+Verification
+pnpm exec tsx --test tests/strategy-runtime-assets.test.ts tests/strategy-runtime-package.test.ts
+pnpm --filter @agent-v/cloud-server build:knowledge-card
+pnpm exec tsx --test server/test/strategy-runtime.test.ts server/test/strategy-kill.browser.test.ts
+The product browser tests exercise actual UI and the upstream engine. Native
+AI termination is not replaced by a fabricated finished message or game.over.

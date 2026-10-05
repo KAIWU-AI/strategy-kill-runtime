@@ -1,0 +1,4 @@
+# Hash-verified delivery files must survive Git checkout byte-for-byte.
+runtime/** -text
+adapter-source/** -text
+*.tar.gz -text

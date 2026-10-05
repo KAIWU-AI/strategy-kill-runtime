@@ -1,0 +1,546 @@
+{
+  "selectedCharacter": "liubei",
+  "playerCount": 5,
+  "characters": [
+    {
+      "heroId": "H01",
+      "id": "liubei",
+      "name": "罗伯特·劳特朋",
+      "group": "shu",
+      "sex": "male",
+      "hp": 4,
+      "skills": [
+        "rende",
+        "jijiang"
+      ]
+    },
+    {
+      "heroId": "H02",
+      "id": "guanyu",
+      "name": "根里奇·阿奇舒勒",
+      "group": "qun",
+      "sex": "female",
+      "hp": 4,
+      "skills": [
+        "wusheng"
+      ]
+    },
+    {
+      "heroId": "H03",
+      "id": "zhangfei",
+      "name": "华罗庚",
+      "group": "wei",
+      "sex": "female",
+      "hp": 4,
+      "skills": [
+        "paoxiao"
+      ]
+    },
+    {
+      "heroId": "H04",
+      "id": "zhugeliang",
+      "name": "傅家骥",
+      "group": "wu",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "guanxing",
+        "kongcheng"
+      ]
+    },
+    {
+      "heroId": "H05",
+      "id": "zhaoyun",
+      "name": "野中郁次郎",
+      "group": "qun",
+      "sex": "female",
+      "hp": 4,
+      "skills": [
+        "longdan"
+      ]
+    },
+    {
+      "heroId": "H06",
+      "id": "machao",
+      "name": "戴维·麦克利兰",
+      "group": "shu",
+      "sex": "female",
+      "hp": 4,
+      "skills": [
+        "mashu",
+        "tieji"
+      ]
+    },
+    {
+      "heroId": "H07",
+      "id": "huangyueying",
+      "name": "亚历克斯·奥斯本",
+      "group": "qun",
+      "sex": "male",
+      "hp": 3,
+      "skills": [
+        "jizhi",
+        "qicai"
+      ]
+    },
+    {
+      "heroId": "H08",
+      "id": "sunquan",
+      "name": "布鲁斯·亨德森",
+      "group": "wu",
+      "sex": "male",
+      "hp": 4,
+      "skills": [
+        "zhiheng",
+        "jiuyuan"
+      ]
+    },
+    {
+      "heroId": "H09",
+      "id": "ganning",
+      "name": "大野耐一",
+      "group": "wei",
+      "sex": "male",
+      "hp": 4,
+      "skills": [
+        "qixi"
+      ]
+    },
+    {
+      "heroId": "H10",
+      "id": "lvmeng",
+      "name": "约瑟夫·奥利基",
+      "group": "wei",
+      "sex": "male",
+      "hp": 4,
+      "skills": [
+        "keji"
+      ]
+    },
+    {
+      "heroId": "H11",
+      "id": "huanggai",
+      "name": "唐纳森·布朗",
+      "group": "wu",
+      "sex": "male",
+      "hp": 4,
+      "skills": [
+        "kurou"
+      ]
+    },
+    {
+      "heroId": "H12",
+      "id": "zhouyu",
+      "name": "狩野纪昭",
+      "group": "shu",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "yingzi",
+        "fanjian"
+      ]
+    },
+    {
+      "heroId": "H13",
+      "id": "daqiao",
+      "name": "亨利·甘特",
+      "group": "wei",
+      "sex": "male",
+      "hp": 3,
+      "skills": [
+        "guose",
+        "liuli"
+      ]
+    },
+    {
+      "heroId": "H14",
+      "id": "luxun",
+      "name": "迈克尔·波特",
+      "group": "wu",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "qianxun",
+        "lianying"
+      ]
+    },
+    {
+      "heroId": "H15",
+      "id": "caocao",
+      "name": "爱德华兹·戴明",
+      "group": "wei",
+      "sex": "male",
+      "hp": 4,
+      "skills": [
+        "jianxiong",
+        "hujia"
+      ]
+    },
+    {
+      "heroId": "H16",
+      "id": "simayi",
+      "name": "郑维敏",
+      "group": "wei",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "fankui",
+        "guicai"
+      ]
+    },
+    {
+      "heroId": "H17",
+      "id": "xiahoudun",
+      "name": "帕拉苏拉曼",
+      "group": "shu",
+      "sex": "female",
+      "hp": 4,
+      "skills": [
+        "ganglie"
+      ]
+    },
+    {
+      "heroId": "H18",
+      "id": "zhangliao",
+      "name": "罗伯特·坎普",
+      "group": "wu",
+      "sex": "male",
+      "hp": 4,
+      "skills": [
+        "tuxi"
+      ]
+    },
+    {
+      "heroId": "H19",
+      "id": "xuzhu",
+      "name": "维尔弗雷多·帕累托",
+      "group": "wu",
+      "sex": "female",
+      "hp": 4,
+      "skills": [
+        "luoyi"
+      ]
+    },
+    {
+      "heroId": "H20",
+      "id": "guojia",
+      "name": "威廉·拜汉姆",
+      "group": "shu",
+      "sex": "male",
+      "hp": 3,
+      "skills": [
+        "tiandu",
+        "yiji"
+      ]
+    },
+    {
+      "heroId": "H21",
+      "id": "zhenji",
+      "name": "斯坦尼斯瓦夫·乌拉姆",
+      "group": "wu",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "luoshen",
+        "qingguo"
+      ]
+    },
+    {
+      "heroId": "H22",
+      "id": "huatuo",
+      "name": "赤尾洋二",
+      "group": "shu",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "qingnang",
+        "jijiu"
+      ]
+    },
+    {
+      "heroId": "H23",
+      "id": "lvbu",
+      "name": "杰伊·福雷斯特",
+      "group": "wei",
+      "sex": "female",
+      "hp": 4,
+      "skills": [
+        "wushuang"
+      ]
+    },
+    {
+      "heroId": "H24",
+      "id": "diaochan",
+      "name": "托马斯·萨蒂",
+      "group": "wu",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "lijian",
+        "biyue"
+      ]
+    },
+    {
+      "heroId": "H25",
+      "id": "sunshangxiang",
+      "name": "亚历山大·奥斯特瓦尔德",
+      "group": "qun",
+      "sex": "male",
+      "hp": 3,
+      "skills": [
+        "xiaoji",
+        "jieyin"
+      ]
+    },
+    {
+      "heroId": "H26",
+      "id": "xunyu",
+      "name": "罗伯特·卡普兰",
+      "group": "wu",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "quhu",
+        "jieming"
+      ]
+    },
+    {
+      "heroId": "H27",
+      "id": "re_lusu",
+      "name": "詹姆斯·麦奎因",
+      "group": "qun",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "haoshi",
+        "dimeng"
+      ]
+    },
+    {
+      "heroId": "H28",
+      "id": "pangtong",
+      "name": "弗兰克·吉尔布雷斯",
+      "group": "wei",
+      "sex": "male",
+      "hp": 3,
+      "skills": [
+        "lianhuan",
+        "oldniepan"
+      ]
+    },
+    {
+      "heroId": "H29",
+      "id": "xunyou",
+      "name": "肯尼斯·安德鲁斯",
+      "group": "wu",
+      "sex": "female",
+      "hp": 3,
+      "skills": [
+        "qice",
+        "zhiyu"
+      ]
+    },
+    {
+      "heroId": "H30",
+      "id": "xin_xushu",
+      "name": "琳恩·肖斯塔克",
+      "group": "shu",
+      "sex": "male",
+      "hp": 3,
+      "skills": [
+        "xinwuyan",
+        "xinjujian"
+      ]
+    },
+    {
+      "heroId": "H31",
+      "id": "chengong",
+      "name": "安迪·格鲁夫",
+      "group": "qun",
+      "sex": "male",
+      "hp": 3,
+      "skills": [
+        "mingce",
+        "zhichi"
+      ]
+    }
+  ],
+  "translations": {
+    "male": "产",
+    "female": "研",
+    "cixiong": "产研双刃",
+    "cixiong_skill": "产研双刃",
+    "cixiong_info": "使用杀指定一名与你产研取向不同的目标后，你可令其选择：弃1张手牌，或让你摸1张牌。",
+    "cixiong_skill_info": "使用杀指定一名与你产研取向不同的目标后，你可令其选择：弃1张手牌，或让你摸1张牌。",
+    "wei": "实业集团",
+    "qun": "科创先锋",
+    "shu": "商业联盟",
+    "wu": "战略智库",
+    "liubei": "罗伯特·劳特朋",
+    "liubei_ab": "罗伯特·劳特朋",
+    "rende": "4C 营销理论",
+    "rende_info": "出牌时可把手牌交给其他人；本回合累计给出首次达到2张时，回复自己1点体力。",
+    "jijiang": "德尔菲法（Delphi Method）",
+    "jijiang_info": "仅主公可用：需要使用或打出杀时，询问同规则阵营角色；有人代出便视为由你使用或打出。",
+    "guanyu": "根里奇·阿奇舒勒",
+    "guanyu_ab": "根里奇·阿奇舒勒",
+    "wusheng": "TRIZ 理论",
+    "wusheng_info": "一张红色牌可转换成杀，用于合法的使用或响应；不额外增加出杀次数或距离。",
+    "zhangfei": "华罗庚",
+    "zhangfei_ab": "华罗庚",
+    "paoxiao": "关键路径法（CPM）",
+    "paoxiao_info": "使用杀不受通常的次数上限约束；仍需支付牌、满足距离和目标合法性。",
+    "zhugeliang": "傅家骥",
+    "zhugeliang_ab": "傅家骥",
+    "guanxing": "决策树",
+    "guanxing_info": "准备阶段查看牌堆顶X张牌，X取存活人数与5的较小值；自行排序后分置牌堆顶、底。",
+    "kongcheng": "净现值法",
+    "kongcheng_info": "没有手牌时，不能成为杀或决斗的目标；并非免疫全部伤害。",
+    "zhaoyun": "野中郁次郎",
+    "zhaoyun_ab": "野中郁次郎",
+    "longdan": "SECI 模型",
+    "longdan_info": "杀与闪可相互转换使用或打出；杀变闪用于防御，闪变杀仍遵守杀的使用规则。",
+    "machao": "戴维·麦克利兰",
+    "machao_ab": "戴维·麦克利兰",
+    "mashu": "胜任素质模型",
+    "mashu_info": "你计算到其他人的距离时减1；不改其他人到你的距离。",
+    "tieji": "KPI 考核法",
+    "tieji_info": "用杀指定目标后可进行一次判定；判定为红色时，该目标不能用闪响应这张杀。",
+    "huangyueying": "亚历克斯·奥斯本",
+    "huangyueying_ab": "亚历克斯·奥斯本",
+    "jizhi": "头脑风暴法",
+    "jizhi_info": "每次使用普通锦囊时，可摸1张牌；延时锦囊和单纯重铸不按使用普通锦囊处理。",
+    "qicai": "5W2H 分析法",
+    "qicai_info": "使用锦囊不受距离限制；不绕过锦囊本身的其他目标条件。",
+    "sunquan": "布鲁斯·亨德森",
+    "sunquan_ab": "布鲁斯·亨德森",
+    "zhiheng": "波士顿矩阵",
+    "zhiheng_info": "每个出牌阶段限1次：弃置任意数量自己的牌，再摸相同数量的牌。",
+    "jiuyuan": "顾客满意度 ACSI 测评",
+    "jiuyuan_info": "仅主公可用：其他同规则阵营角色对你使用桃时，其回复值增加1。",
+    "ganning": "大野耐一",
+    "ganning_ab": "大野耐一",
+    "qixi": "5Why 分析法",
+    "qixi_info": "一张黑色牌可转换为过河拆桥，按该锦囊的规则弃置目标区域的一张牌。",
+    "lvmeng": "约瑟夫·奥利基",
+    "lvmeng_ab": "约瑟夫·奥利基",
+    "keji": "物料需求计划（MRP）",
+    "keji_info": "若本回合出牌阶段未使用或打出杀，可跳过弃牌阶段；其他阶段的响应不直接破坏这一条件。",
+    "huanggai": "唐纳森·布朗",
+    "huanggai_ab": "唐纳森·布朗",
+    "kurou": "杜邦分析法",
+    "kurou_info": "出牌阶段可失去1点体力换取摸2张牌；可重复发动，但濒死与死亡照常结算。",
+    "zhouyu": "狩野纪昭",
+    "zhouyu_ab": "狩野纪昭",
+    "yingzi": "问卷调查法",
+    "yingzi_info": "摸牌阶段可比通常数量多摸1张牌。",
+    "fanjian": "KANO 模型",
+    "fanjian_info": "每个出牌阶段限1次：目标先选一种花色，再获得你的一张手牌；猜错花色则受到你造成的1点伤害。",
+    "daqiao": "亨利·甘特",
+    "daqiao_ab": "亨利·甘特",
+    "guose": "甘特图",
+    "guose_info": "一张方片牌可转换为乐不思蜀；是否跳过目标出牌阶段，仍由正常判定决定。",
+    "liuli": "STP 理论",
+    "liuli_info": "成为杀的目标时，可弃1张牌，把杀转给自己攻击范围内的另一合法角色；不能转回原出杀者。",
+    "luxun": "迈克尔·波特",
+    "luxun_ab": "迈克尔·波特",
+    "qianxun": "波特五力 模型",
+    "qianxun_info": "不能成为顺手牵羊和乐不思蜀的目标；其他锦囊仍按各自规则处理。",
+    "lianying": "波特价值链分析模型",
+    "lianying_info": "失去最后一张手牌后，可摸1张牌；使用、打出或被移走导致空手时均可触发。",
+    "caocao": "爱德华兹·戴明",
+    "caocao_ab": "爱德华兹·戴明",
+    "jianxiong": "PDCA 循环",
+    "jianxiong_info": "受到伤害后，可获得造成这次伤害、且仍可取得的实体牌；无对应牌的技能伤害不凭空造牌。",
+    "hujia": "DMAIC",
+    "hujia_info": "仅主公可用：需要闪时，可询问同规则阵营角色代为使用或打出闪。",
+    "simayi": "郑维敏",
+    "simayi_ab": "郑维敏",
+    "fankui": "因果图",
+    "fankui_info": "每次伤害结算后，可从伤害来源处获得1张牌；无伤害来源时不能取得。",
+    "guicai": "模糊综合评价法",
+    "guicai_info": "一张判定牌生效前，可用自己的1张手牌替换它；不是任意指定想要的结果。",
+    "xiahoudun": "帕拉苏拉曼",
+    "xiahoudun_ab": "帕拉苏拉曼",
+    "ganglie": "服务质量差距模型",
+    "ganglie_info": "受到伤害后可判定；非红桃时，伤害来源选择弃2张手牌或受到1点伤害。",
+    "zhangliao": "罗伯特·坎普",
+    "zhangliao_ab": "罗伯特·坎普",
+    "tuxi": "标杆管理",
+    "tuxi_info": "摸牌阶段可放弃通常摸牌，改为从至多2名其他角色手中各获得1张手牌。",
+    "xuzhu": "维尔弗雷多·帕累托",
+    "xuzhu_ab": "维尔弗雷多·帕累托",
+    "luoyi": "二八定律",
+    "luoyi_info": "摸牌阶段可少摸1张；本回合结束阶段开始前，自己使用杀或决斗造成的非传导伤害增加1。",
+    "guojia": "威廉·拜汉姆",
+    "guojia_ab": "威廉·拜汉姆",
+    "tiandu": "STAR 法则",
+    "tiandu_info": "自己的判定牌生效后，可以取得这张牌。",
+    "yiji": "团队复盘",
+    "yiji_info": "每受到1点伤害，可查看牌堆顶2张牌，并将它们任意分配给角色。",
+    "zhenji": "斯坦尼斯瓦夫·乌拉姆",
+    "zhenji_ab": "斯坦尼斯瓦夫·乌拉姆",
+    "luoshen": "蒙特卡洛模拟",
+    "luoshen_info": "准备阶段可反复判定：黑色判定牌归你，并可继续；出现红色则该轮停止。",
+    "qingguo": "PERT 网络分析法",
+    "qingguo_info": "一张黑色手牌可转换为闪；装备区的黑色牌不在此范围。",
+    "huatuo": "赤尾洋二",
+    "huatuo_ab": "赤尾洋二",
+    "jijiu": "SERVQUAL顾客感知服务质量模型",
+    "jijiu_info": "自己的回合之外，可把1张红色牌转为桃；回合内不能用此技能代替桃。",
+    "qingnang": "质量屋（QFD）",
+    "qingnang_info": "每个出牌阶段限1次：弃1张手牌，令一名已受伤角色回复1点体力。",
+    "lvbu": "杰伊·福雷斯特",
+    "lvbu_ab": "杰伊·福雷斯特",
+    "wushuang": "牛鞭效应",
+    "wushuang_info": "你的杀需要目标连续交出2张闪才能抵消；与你决斗的对手每次需要打出2张杀。",
+    "diaochan": "托马斯·萨蒂",
+    "diaochan_ab": "托马斯·萨蒂",
+    "lijian": "层次分析法（AHP）",
+    "lijian_info": "每个出牌阶段限1次：弃1张牌，选择两名其他“产”角色，视为其中一人对另一人使用决斗。此决斗不能被无懈可击响应。",
+    "biyue": "SMART 原则",
+    "biyue_info": "结束阶段可摸1张牌。",
+    "sunshangxiang": "亚历山大·奥斯特瓦尔德",
+    "sunshangxiang_ab": "亚历山大·奥斯特瓦尔德",
+    "jieyin": "价值主张画布",
+    "jieyin_info": "每个出牌阶段限1次：弃2张手牌，选择1名已受伤的其他“产”角色，你与其各回复1点体力。",
+    "xiaoji": "4P 营销理论",
+    "xiaoji_info": "装备区每失去1张牌后，可摸2张牌。",
+    "xunyu": "罗伯特·卡普兰",
+    "xunyu_ab": "罗伯特·卡普兰",
+    "quhu": "TOPSIS",
+    "quhu_info": "每个出牌阶段限1次：与体力比自己高的角色拼点。赢则由其对你选定的、其攻击范围内的角色造成1点伤害；否则其对你造成1点伤害。",
+    "jieming": "平衡计分卡",
+    "jieming_info": "每受到1点伤害，可令1名角色补手牌至其体力上限，最多补至5张。",
+    "re_lusu": "詹姆斯·麦奎因",
+    "re_lusu_ab": "詹姆斯·麦奎因",
+    "haoshi": "工作分解结构",
+    "haoshi_info": "摸牌阶段可多摸2张；若之后手牌超过5张，须把一半手牌（向下取整）交给场上手牌最少的一名角色，可以选择自己。",
+    "dimeng": "聚类分析(K-Means)",
+    "dimeng_info": "每个出牌阶段限1次：弃掉与2名其他角色手牌数差值相等数量的牌，交换这2人的全部手牌；手牌数相同时无需弃牌。",
+    "pangtong": "弗兰克·吉尔布雷斯",
+    "pangtong_ab": "弗兰克·吉尔布雷斯",
+    "lianhuan": "流程图",
+    "lianhuan_info": "出牌阶段，可把1张梅花手牌作为铁索连环使用，或重铸换1张牌；重铸不是使用锦囊。",
+    "oldniepan": "商业模式画布",
+    "oldniepan_info": "整局限1次，濒死时可清空自己区域内的牌，复原人物状态，摸3张牌并把体力恢复至3（不超过上限）。",
+    "xunyou": "肯尼斯·安德鲁斯",
+    "xunyou_ab": "肯尼斯·安德鲁斯",
+    "qice": "SWOT 模型",
+    "qice_info": "每个出牌阶段限1次：将全部手牌（至少1张）作为1张自选普通锦囊使用；必须满足该锦囊目标条件。",
+    "zhiyu": "用户故事地图",
+    "zhiyu_info": "受到伤害后可摸1张并展示全部手牌；若它们颜色相同，伤害来源弃1张手牌。",
+    "xin_xushu": "琳恩·肖斯塔克",
+    "xin_xushu_ab": "琳恩·肖斯塔克",
+    "xinwuyan": "服务蓝图",
+    "xinwuyan_info": "防止你造成的锦囊伤害，以及你受到的锦囊伤害；不把所有锦囊效果一概取消。",
+    "xinjujian": "ABC 成本法",
+    "xinjujian_info": "结束阶段可弃1张非基本牌，令1名其他角色选择：摸2张、回复1体力，或复原人物状态。",
+    "chengong": "安迪·格鲁夫",
+    "chengong_ab": "安迪·格鲁夫",
+    "mingce": "OKR 目标管理体系",
+    "mingce_info": "每个出牌阶段限1次：交给1名其他角色1张杀或装备；其选择摸1张，或视为对其攻击范围内你指定的另一人使用杀。",
+    "zhichi": "PESTEL 分析",
+    "zhichi_info": "回合外受伤后，直到当前回合结束，杀和普通锦囊对你无效；延时锦囊不因此失效。"
+  }
+}

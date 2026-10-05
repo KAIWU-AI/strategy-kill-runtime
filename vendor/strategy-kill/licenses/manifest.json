@@ -1,0 +1,283 @@
+[
+  {
+    "package": "@codemirror/autocomplete@6.20.0",
+    "license": "MIT",
+    "files": [
+      "@codemirror_autocomplete@6.20.0/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/commands@6.10.2",
+    "license": "MIT",
+    "files": [
+      "@codemirror_commands@6.10.2/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/lang-css@6.3.1",
+    "license": "MIT",
+    "files": [
+      "@codemirror_lang-css@6.3.1/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/lang-html@6.4.11",
+    "license": "MIT",
+    "files": [
+      "@codemirror_lang-html@6.4.11/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/lang-javascript@6.2.4",
+    "license": "MIT",
+    "files": [
+      "@codemirror_lang-javascript@6.2.4/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/lang-json@6.0.2",
+    "license": "MIT",
+    "files": [
+      "@codemirror_lang-json@6.0.2/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/lang-markdown@6.5.0",
+    "license": "MIT",
+    "files": [
+      "@codemirror_lang-markdown@6.5.0/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/lang-vue@0.1.3",
+    "license": "MIT",
+    "files": [
+      "@codemirror_lang-vue@0.1.3/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/language@6.12.1",
+    "license": "MIT",
+    "files": [
+      "@codemirror_language@6.12.1/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/lint@6.9.4",
+    "license": "MIT",
+    "files": [
+      "@codemirror_lint@6.9.4/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/search@6.6.0",
+    "license": "MIT",
+    "files": [
+      "@codemirror_search@6.6.0/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/state@6.5.4",
+    "license": "MIT",
+    "files": [
+      "@codemirror_state@6.5.4/LICENSE"
+    ]
+  },
+  {
+    "package": "@codemirror/view@6.39.14",
+    "license": "MIT",
+    "files": [
+      "@codemirror_view@6.39.14/LICENSE"
+    ]
+  },
+  {
+    "package": "@lezer/common@1.5.1",
+    "license": "MIT",
+    "files": [
+      "@lezer_common@1.5.1/LICENSE"
+    ]
+  },
+  {
+    "package": "@lezer/css@1.3.0",
+    "license": "MIT",
+    "files": [
+      "@lezer_css@1.3.0/LICENSE"
+    ]
+  },
+  {
+    "package": "@lezer/highlight@1.2.3",
+    "license": "MIT",
+    "files": [
+      "@lezer_highlight@1.2.3/LICENSE"
+    ]
+  },
+  {
+    "package": "@lezer/html@1.3.13",
+    "license": "MIT",
+    "files": [
+      "@lezer_html@1.3.13/LICENSE"
+    ]
+  },
+  {
+    "package": "@lezer/javascript@1.5.4",
+    "license": "MIT",
+    "files": [
+      "@lezer_javascript@1.5.4/LICENSE"
+    ]
+  },
+  {
+    "package": "@lezer/json@1.0.3",
+    "license": "MIT",
+    "files": [
+      "@lezer_json@1.0.3/LICENSE"
+    ]
+  },
+  {
+    "package": "@lezer/lr@1.4.8",
+    "license": "MIT",
+    "files": [
+      "@lezer_lr@1.4.8/LICENSE"
+    ]
+  },
+  {
+    "package": "@lezer/markdown@1.6.3",
+    "license": "MIT",
+    "files": [
+      "@lezer_markdown@1.6.3/LICENSE"
+    ]
+  },
+  {
+    "package": "@marijn/find-cluster-break@1.0.2",
+    "license": "MIT",
+    "files": [
+      "@marijn_find-cluster-break@1.0.2/LICENSE"
+    ]
+  },
+  {
+    "package": "codemirror@6.0.2",
+    "license": "MIT",
+    "files": [
+      "codemirror@6.0.2/LICENSE"
+    ]
+  },
+  {
+    "package": "core-js-bundle@3.48.0",
+    "license": "MIT",
+    "files": [
+      "core-js-bundle@3.48.0/LICENSE"
+    ]
+  },
+  {
+    "package": "crelt@1.0.6",
+    "license": "MIT",
+    "files": [
+      "crelt@1.0.6/LICENSE"
+    ]
+  },
+  {
+    "package": "crypto-js@4.2.0",
+    "license": "MIT",
+    "files": [
+      "crypto-js@4.2.0/LICENSE"
+    ]
+  },
+  {
+    "package": "dedent@1.7.1",
+    "license": "MIT",
+    "files": [
+      "dedent@1.7.1/LICENSE.md"
+    ]
+  },
+  {
+    "package": "error-stack-parser@2.1.4",
+    "license": "MIT",
+    "files": [
+      "error-stack-parser@2.1.4/LICENSE"
+    ]
+  },
+  {
+    "package": "eslint-linter-browserify@9.39.2",
+    "license": "MIT",
+    "files": [
+      "eslint-linter-browserify@9.39.2/LICENSE"
+    ]
+  },
+  {
+    "package": "jszip@2.7.0",
+    "license": "(MIT OR GPL-3.0)",
+    "files": [
+      "jszip@2.7.0/LICENSE.markdown"
+    ]
+  },
+  {
+    "package": "nosleep.js@0.12.0",
+    "license": "MIT",
+    "files": [
+      "nosleep.js@0.12.0/LICENSE"
+    ]
+  },
+  {
+    "package": "pako@1.0.11",
+    "license": "(MIT AND Zlib)",
+    "files": [
+      "pako@1.0.11/LICENSE"
+    ]
+  },
+  {
+    "package": "path-browserify-esm@1.0.6",
+    "license": "MIT",
+    "files": [
+      "path-browserify-esm@1.0.6/NOTICE"
+    ],
+    "source": "index.esm.js lines 1-23"
+  },
+  {
+    "package": "pinyin-pro@3.28.0",
+    "license": "MIT",
+    "files": [
+      "pinyin-pro@3.28.0/LICENSE"
+    ]
+  },
+  {
+    "package": "source-map@0.5.6",
+    "license": "BSD-3-Clause",
+    "files": [
+      "source-map@0.5.6/LICENSE"
+    ]
+  },
+  {
+    "package": "stackframe@1.3.4",
+    "license": "MIT",
+    "files": [
+      "stackframe@1.3.4/LICENSE"
+    ]
+  },
+  {
+    "package": "stacktrace-gps@3.1.2",
+    "license": "MIT",
+    "files": [
+      "stacktrace-gps@3.1.2/LICENSE"
+    ]
+  },
+  {
+    "package": "style-mod@4.1.3",
+    "license": "MIT",
+    "files": [
+      "style-mod@4.1.3/LICENSE"
+    ]
+  },
+  {
+    "package": "vue@3.5.28",
+    "license": "MIT",
+    "files": [
+      "vue@3.5.28/LICENSE"
+    ]
+  },
+  {
+    "package": "w3c-keyname@2.2.8",
+    "license": "MIT",
+    "files": [
+      "w3c-keyname@2.2.8/LICENSE"
+    ]
+  }
+]

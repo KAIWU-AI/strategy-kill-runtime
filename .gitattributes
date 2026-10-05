@@ -1,0 +1,3 @@
+# Reviewed runtime, manifests, adapters, notices and source stay byte-exact.
+vendor/** -text
+data/** -text

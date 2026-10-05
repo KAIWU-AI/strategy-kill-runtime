@@ -1,0 +1,4216 @@
+{
+  "version": 1,
+  "entry": "sandbox.html",
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "byteLength": 35147,
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.txt",
+      "byteLength": 90355,
+      "sha256": "a5f86700cdf6b5897a2f205c9f67edd5829e721caa1e38b2ae40db8f59404bc2"
+    },
+    {
+      "path": "_virtual/___vite-browser-external.js",
+      "byteLength": 251,
+      "sha256": "efffa27e15c1333d9f44cf8e2c46d38df0ba9e86fa29fec4c0f9544c7742c5b6"
+    },
+    {
+      "path": "_virtual/__vite-browser-external.js",
+      "byteLength": 81,
+      "sha256": "2250e568dffafb83650aac263f3dae34ef7b28acf07fb3ac030a41ed943da31b"
+    },
+    {
+      "path": "_virtual/_commonjs-dynamic-modules.js",
+      "byteLength": 284,
+      "sha256": "512bb06c800d2fc3910fe6b00dd0425a5a916b0b136c072be8418ecb3141c2a8"
+    },
+    {
+      "path": "_virtual/_commonjsHelpers.js",
+      "byteLength": 1599,
+      "sha256": "151ed2079581f29a4e272bd628f44da83d5d0e04e3fe7b689c6cfcad58de9815"
+    },
+    {
+      "path": "_virtual/_plugin-vue_export-helper.js",
+      "byteLength": 197,
+      "sha256": "e3f5588d3ef1bb74668f5e44683b888e75ad68a3b9a23d1d373eca1c363b0be4"
+    },
+    {
+      "path": "_virtual/aes.js",
+      "byteLength": 57,
+      "sha256": "c30099ca216c0b0968c6acebfee40e568d8eb219e5284111161a53d82bc0c565"
+    },
+    {
+      "path": "_virtual/array-set.js",
+      "byteLength": 55,
+      "sha256": "a93eed109d6fd8506ac81c8ba1888afd3e0302d9d8d391bbb2d359f77372b76d"
+    },
+    {
+      "path": "_virtual/base64-vlq.js",
+      "byteLength": 57,
+      "sha256": "4ef8c40b3e661c9a37d6cd272b9ae15511de1356bdb87053c12186fe28b41186"
+    },
+    {
+      "path": "_virtual/base64.js",
+      "byteLength": 51,
+      "sha256": "b9bc70f05ed7c28bcd03931ca2ba8b52377b351cb0182327a9d3086615bd9b67"
+    },
+    {
+      "path": "_virtual/base642.js",
+      "byteLength": 51,
+      "sha256": "b9bc70f05ed7c28bcd03931ca2ba8b52377b351cb0182327a9d3086615bd9b67"
+    },
+    {
+      "path": "_virtual/binary-search.js",
+      "byteLength": 63,
+      "sha256": "bea17d5747b0b9a0a079b7642017b26d8de3b439ec090ceafefa019e8386e460"
+    },
+    {
+      "path": "_virtual/blowfish.js",
+      "byteLength": 67,
+      "sha256": "4433746dff52e0a43ab6b678d2ac6c47b6f6262aeed367c643e8fb52a3048626"
+    },
+    {
+      "path": "_virtual/cipher-core.js",
+      "byteLength": 71,
+      "sha256": "e5aa6aeb28aa4c3e06f84eb85cf5ca7e59c3a62eb83307d1ce68afd07b5cb936"
+    },
+    {
+      "path": "_virtual/common.js",
+      "byteLength": 51,
+      "sha256": "aa75bd407baa37d2ff92b5c1fbb1e7ea5aee6698c4a809197dda446bc1e29197"
+    },
+    {
+      "path": "_virtual/compressions.js",
+      "byteLength": 63,
+      "sha256": "28e1687965b7bea45c1e285b7b46299ddaad2d1b14a74133a119f75a84897173"
+    },
+    {
+      "path": "_virtual/core.js",
+      "byteLength": 59,
+      "sha256": "3526ac9dfd1b15f6f3ed7026a4d98a495e67b47d234c35728f360f147071b222"
+    },
+    {
+      "path": "_virtual/defaults.js",
+      "byteLength": 55,
+      "sha256": "caf9291812cf42e5efdb2c4d6d075bfd3e4636206d0ee63fe5f5ba8aab93d279"
+    },
+    {
+      "path": "_virtual/deflate.js",
+      "byteLength": 53,
+      "sha256": "9e7d1415642815f3f12d7d6e23f3dd77d20565ca8d6b4a6781e8e8ccc9b1d6e5"
+    },
+    {
+      "path": "_virtual/deflate2.js",
+      "byteLength": 53,
+      "sha256": "9e7d1415642815f3f12d7d6e23f3dd77d20565ca8d6b4a6781e8e8ccc9b1d6e5"
+    },
+    {
+      "path": "_virtual/deprecatedPublicUtils.js",
+      "byteLength": 81,
+      "sha256": "66a5ac9e3ecd540c2e4674f063f1600bd622eaec015b378a48dd30af6e85f4d5"
+    },
+    {
+      "path": "_virtual/enc-base64.js",
+      "byteLength": 69,
+      "sha256": "6ce0efec840937ab1eb362f319fab1bbf0e943dd1a33df5c7b4373eeee3e9de7"
+    },
+    {
+      "path": "_virtual/enc-base64url.js",
+      "byteLength": 75,
+      "sha256": "62e99fbcc20ee6810deee00149f68a3e931b53f81b8689d9fad5b9f835118e97"
+    },
+    {
+      "path": "_virtual/enc-utf16.js",
+      "byteLength": 67,
+      "sha256": "4978fe469547ef3e95b80607ee5217b90081f6b8a23f268f96fba1d6e94f8c37"
+    },
+    {
+      "path": "_virtual/error-stack-parser.js",
+      "byteLength": 412,
+      "sha256": "d9fded5cac2e9013dd4e15066bbf852a3418d5733db2a032623150c3524f795d"
+    },
+    {
+      "path": "_virtual/error-stack-parser2.js",
+      "byteLength": 83,
+      "sha256": "c7a22a643322ddf1bca6fe071e312cdb46aed19e78f4c8ccf776d52face6ff38"
+    },
+    {
+      "path": "_virtual/evpkdf.js",
+      "byteLength": 63,
+      "sha256": "719a30450e9ba41dbe3f9552283910a0ef6b80967c50bab6a2c5298463a04453"
+    },
+    {
+      "path": "_virtual/flate.js",
+      "byteLength": 49,
+      "sha256": "92129366f525ccb2a6d02cdedf46e8c56c019d83511ac926aea795b3fa6e6b04"
+    },
+    {
+      "path": "_virtual/format-hex.js",
+      "byteLength": 69,
+      "sha256": "8ab4a1ca31f986b5dddaeb1a48825df298f299855f7fcadfac647045df679d09"
+    },
+    {
+      "path": "_virtual/hmac.js",
+      "byteLength": 59,
+      "sha256": "ce800231b180ea87283a24cb3752487f9b54d3c1622eca4ea738b1414065b34b"
+    },
+    {
+      "path": "_virtual/index.js",
+      "byteLength": 354,
+      "sha256": "3351def55064f97502d8cb4f065fa6a25640a8fbfc4a49827dffbba4a0e2a18d"
+    },
+    {
+      "path": "_virtual/index2.js",
+      "byteLength": 303,
+      "sha256": "ab9452cfb4e2288aa9046af29b3ebe8bd832d6e215f153d86918c94c3e6a5f1a"
+    },
+    {
+      "path": "_virtual/index3.js",
+      "byteLength": 996,
+      "sha256": "366c5b7bacac63c9f9e2a9028c26759c0fd4ff4e78339fb2bfdf1e80baba44a0"
+    },
+    {
+      "path": "_virtual/index4.js",
+      "byteLength": 351,
+      "sha256": "f6cc41682eda3e9f501c761f0e3fdaaab9d2cf4f3c94b4e991f2e2e96b38db0a"
+    },
+    {
+      "path": "_virtual/index5.js",
+      "byteLength": 67,
+      "sha256": "b2e59335918c7eb36d5d93525afd94c1685aaf2cb19b15117e917439b310f818"
+    },
+    {
+      "path": "_virtual/index6.js",
+      "byteLength": 63,
+      "sha256": "afff4835f95e81acb546274c4638e64cb54ea05984bbb51b74a7c7ef09d72b32"
+    },
+    {
+      "path": "_virtual/inflate.js",
+      "byteLength": 53,
+      "sha256": "89511c2389d03b9a16bd472f02bbfbbdb40711d470476d382bf9cf971730b1a5"
+    },
+    {
+      "path": "_virtual/inflate2.js",
+      "byteLength": 53,
+      "sha256": "89511c2389d03b9a16bd472f02bbfbbdb40711d470476d382bf9cf971730b1a5"
+    },
+    {
+      "path": "_virtual/lib-typedarrays.js",
+      "byteLength": 79,
+      "sha256": "81cf11972cb0f3d37a9a420d0717320135cf7451e99d483c7c2a9412d770d101"
+    },
+    {
+      "path": "_virtual/md5.js",
+      "byteLength": 57,
+      "sha256": "18f2d3a39570b15b98ed6a14f1735d4d60bdae931e8866db874948fab6740692"
+    },
+    {
+      "path": "_virtual/mode-cfb.js",
+      "byteLength": 65,
+      "sha256": "dbf439faa74378f5050ce1184db9853c103ec6628e66bab5f78a0a2c8aa05d2a"
+    },
+    {
+      "path": "_virtual/mode-ctr-gladman.js",
+      "byteLength": 79,
+      "sha256": "46abe5477dc65a7e0203c0bb95ae68e264702944fc12a5061157a2099618c7be"
+    },
+    {
+      "path": "_virtual/mode-ctr.js",
+      "byteLength": 65,
+      "sha256": "781469049fb871595980da887cce38fc82315a9128be4354e7bbd73b275f914d"
+    },
+    {
+      "path": "_virtual/mode-ecb.js",
+      "byteLength": 65,
+      "sha256": "dd41f7ae31c7998b77ce31bbb4ddade2ca0c52c44a17206e2b3dd29084010d59"
+    },
+    {
+      "path": "_virtual/mode-ofb.js",
+      "byteLength": 65,
+      "sha256": "4faa6212b73720afb449e8f1fa39e431705e0e1442ed1b08094b8fb552fc61a6"
+    },
+    {
+      "path": "_virtual/modulepreload-polyfill.js",
+      "byteLength": 1193,
+      "sha256": "4073ab5b78d39611424e7ec8243c36ca72681f363d9219990efb3e4806e4ab5e"
+    },
+    {
+      "path": "_virtual/nodeBuffer.js",
+      "byteLength": 71,
+      "sha256": "000aeb1c2bc3f301dbbc2f6cc2fbc11bf698f0d00d94debc2c2a2744f1ddf369"
+    },
+    {
+      "path": "_virtual/pad-ansix923.js",
+      "byteLength": 73,
+      "sha256": "4e5cf72667cf9804d3b135373c76e391f7944f97acce6531348d49b109989e4b"
+    },
+    {
+      "path": "_virtual/pad-iso10126.js",
+      "byteLength": 73,
+      "sha256": "a31562faa037d8ceaa7461c1172c8bc3556cc7343a1e1c5c9f4b136d44935ca9"
+    },
+    {
+      "path": "_virtual/pad-iso97971.js",
+      "byteLength": 73,
+      "sha256": "60ba56a59113a83ba81dd4d5a8f2bc4d559e1a0cb55c2919d32ec7a07cce0a3f"
+    },
+    {
+      "path": "_virtual/pad-nopadding.js",
+      "byteLength": 75,
+      "sha256": "c34a7a45467c5c2a6b0c20dc28edcd3df44eea6e23d06d1be4f404e120e625f1"
+    },
+    {
+      "path": "_virtual/pad-zeropadding.js",
+      "byteLength": 79,
+      "sha256": "5836fce7cef21d502b9274109f1bbf7bef97d844fd885f0342600b8a93d63d8d"
+    },
+    {
+      "path": "_virtual/pbkdf2.js",
+      "byteLength": 63,
+      "sha256": "46bfbe4eaa49fc41626642bca514a265a29242014226c5fd4ad0b5d6bc556a81"
+    },
+    {
+      "path": "_virtual/preload-helper.js",
+      "byteLength": 2286,
+      "sha256": "e2e86234f914dfb001affc57e71b76eb872ba52204c8866268b30ec82f29e985"
+    },
+    {
+      "path": "_virtual/quick-sort.js",
+      "byteLength": 57,
+      "sha256": "c12d8debb90b9abc17892d167fc142ad8a63303ccb25b7c0ba8ec94755e03af7"
+    },
+    {
+      "path": "_virtual/rabbit-legacy.js",
+      "byteLength": 75,
+      "sha256": "266063f4d4a4d9dcb13a42e800f38337e6109de7c5eb9225b04c37cdc4387495"
+    },
+    {
+      "path": "_virtual/rabbit.js",
+      "byteLength": 63,
+      "sha256": "5ca2ac404c97d0e5fe74ceb8230a3221e66a115aaaa19677d6cd9a50ae31a04c"
+    },
+    {
+      "path": "_virtual/rc4.js",
+      "byteLength": 57,
+      "sha256": "183448aaf13df8f93d2ce849483cbbb5f6f4bc5e9d1263d432bb82f7dbea8140"
+    },
+    {
+      "path": "_virtual/ripemd160.js",
+      "byteLength": 69,
+      "sha256": "a7e4468722294047f627251eb3f7d731d2218c64bd11577958c471644c8362db"
+    },
+    {
+      "path": "_virtual/sha1.js",
+      "byteLength": 59,
+      "sha256": "999e39504176f74a070c799ffa6301eb5cd309c6d00e2f31ecc285db1ff2a389"
+    },
+    {
+      "path": "_virtual/sha224.js",
+      "byteLength": 63,
+      "sha256": "7d9bbf8bd07487f3cbf94bfc16ba4330c7494d2d2984de32a2831b48511362b9"
+    },
+    {
+      "path": "_virtual/sha256.js",
+      "byteLength": 63,
+      "sha256": "069518e28bf312e8e7c99f4cd147a8a3658ccdd59211ea9fc3f876828cc53ce3"
+    },
+    {
+      "path": "_virtual/sha3.js",
+      "byteLength": 59,
+      "sha256": "4203e41e9b7b65c6a2f88ca6301c281f0f43ca0be8d3206f03daf7c1d4564025"
+    },
+    {
+      "path": "_virtual/sha384.js",
+      "byteLength": 63,
+      "sha256": "ffb3d48556139406e631e05d2090d6de4c085a7fb6f67f5d28f860f4f5500725"
+    },
+    {
+      "path": "_virtual/sha512.js",
+      "byteLength": 63,
+      "sha256": "b77f0ef511e094151e84d501e38c2f5bbec5ae8a9385701ab69201c242db8ca1"
+    },
+    {
+      "path": "_virtual/signature.js",
+      "byteLength": 57,
+      "sha256": "7fbc780c8c95c799133fc4fd0c49cd8ac9441d0d6cc937598b388af723492cd0"
+    },
+    {
+      "path": "_virtual/source-map-consumer.js",
+      "byteLength": 73,
+      "sha256": "47cefbf2e92b8989041a9fc4515eb21702890e2ae8b7a98dbf79a520d0028372"
+    },
+    {
+      "path": "_virtual/stackframe.js",
+      "byteLength": 352,
+      "sha256": "f7a4707763220fa10fa8a052281a2887478f0714e74851f18b663c77d9356f69"
+    },
+    {
+      "path": "_virtual/stackframe2.js",
+      "byteLength": 71,
+      "sha256": "fad8f7e4db88ddbe4c7e7b2b93dc1f1ddf3a0f6eaecc68cda4be9c54ed94c78a"
+    },
+    {
+      "path": "_virtual/stacktrace-gps.js",
+      "byteLength": 382,
+      "sha256": "041d875999ef5b21565f2157d9d5b22c77b8fdd8f066cdc4962d4091441411fb"
+    },
+    {
+      "path": "_virtual/stacktrace-gps2.js",
+      "byteLength": 77,
+      "sha256": "91787aa7ca96ea14f45605519bc710b2bfe184eedb346bb64d95cbd081080d78"
+    },
+    {
+      "path": "_virtual/strings.js",
+      "byteLength": 53,
+      "sha256": "64aabaa5f288fab7a14ed347b52ff440011c0645dd055d14ab84ada0273d85a4"
+    },
+    {
+      "path": "_virtual/support.js",
+      "byteLength": 53,
+      "sha256": "2243bcd772a14d9d8ec8d7188a8fc99d07a7b8101317c64282c21b7315790868"
+    },
+    {
+      "path": "_virtual/trees.js",
+      "byteLength": 49,
+      "sha256": "6efa44347019a04d301c48f4f4dd0020f5ced8db0e1bab3cddb1e76eed4ec72a"
+    },
+    {
+      "path": "_virtual/tripledes.js",
+      "byteLength": 69,
+      "sha256": "47b5a72bfba553e07d79b9896934cdd32d84556fdecb58f603d2519fa93b3628"
+    },
+    {
+      "path": "_virtual/utf8.js",
+      "byteLength": 47,
+      "sha256": "236b13cbb0f1d20f8aaf8b7e9a333b5251da568db706879bf75a45eee19115fe"
+    },
+    {
+      "path": "_virtual/util.js",
+      "byteLength": 47,
+      "sha256": "8faf0becdc417a22664dc43df7f85460bd7026e67ee091a3dd6f2bf6d5200c72"
+    },
+    {
+      "path": "_virtual/utils.js",
+      "byteLength": 49,
+      "sha256": "9d2b645f4b83c1838f2b01641fb1cf3162fe0ba8a70825274e35c49c4a12847e"
+    },
+    {
+      "path": "_virtual/x64-core.js",
+      "byteLength": 65,
+      "sha256": "ca20484d614178b3b5c7c115d3abf5e2bf08fd5037f2a9342ea928246be072dc"
+    },
+    {
+      "path": "approved-setup.json",
+      "byteLength": 17909,
+      "sha256": "b45f43b946d42ee92b6a9ac0e9bfaede3131826768efc0eb0eec14c73f14f306"
+    },
+    {
+      "path": "card/extra.js",
+      "byteLength": 48224,
+      "sha256": "033aab45adbe8871368cbbfe4d5be8818a02337977c020fb52b93463c681f1c6"
+    },
+    {
+      "path": "card/standard.js",
+      "byteLength": 175443,
+      "sha256": "26d26ff54a708073514cd5b90ff6317480fbda313aad47ca81be7006a5e455ff"
+    },
+    {
+      "path": "character/perfectPairs.js",
+      "byteLength": 4118,
+      "sha256": "81e8ebcbbb813a7dfde049edbdf608274756ae49fb114389c2c8eaf2be12b25e"
+    },
+    {
+      "path": "character/rank.js",
+      "byteLength": 82961,
+      "sha256": "773714e810cfcb75a0c52e4f48bb9d94048b6b52c01d9bcff63776fcc161038e"
+    },
+    {
+      "path": "character/replace.js",
+      "byteLength": 35403,
+      "sha256": "e7a211fde79a24d41e7c2c60d50fa9fe3bbb37d15df6e27b1d150cce63f40e7d"
+    },
+    {
+      "path": "character/shenhua.js",
+      "byteLength": 353457,
+      "sha256": "62f789e336a11a0613c68f3309ebc81640f53b4baf6c07cacde99992284e813e"
+    },
+    {
+      "path": "character/standard.js",
+      "byteLength": 95134,
+      "sha256": "e5d337cb8263bfc71ecbbe667d22b808d4d065a99e2d546bfbb52a4f7f9899c2"
+    },
+    {
+      "path": "character/yijiang.js",
+      "byteLength": 549814,
+      "sha256": "0ce2c5bc41d18efe91ca379201a84fed4cb74e2fea5b1653c07a40e727fcb535"
+    },
+    {
+      "path": "game/asset.js",
+      "byteLength": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "game/asset.json",
+      "byteLength": 444690,
+      "sha256": "494e57384b5781953519aebc846a18a974df3cdd4c49214c35cbdc2ec241658c"
+    },
+    {
+      "path": "game/build-info.json",
+      "byteLength": 101,
+      "sha256": "10d35cc3c4c25730c5fedf0dd64874ebf8cd17ad8e1622b294fdafd13d7731a4"
+    },
+    {
+      "path": "game/config.js",
+      "byteLength": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "game/config.json",
+      "byteLength": 6990,
+      "sha256": "2488a94de85553fed31d8cbbe3e251c5f7b186def6544f963e02eeeafa12c77a"
+    },
+    {
+      "path": "game/dedent.js",
+      "byteLength": 130,
+      "sha256": "e3ccee307c5c4da849aaaafd0358d884467f6c00e1e5d6891934c56469e0a2e2"
+    },
+    {
+      "path": "game/game.js",
+      "byteLength": 3399,
+      "sha256": "4f574a3a79e71987000a783e8c690e52bae0233716064ae0bafd66e404129d7d"
+    },
+    {
+      "path": "game/importmap.js",
+      "byteLength": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "game/keyWords.js",
+      "byteLength": 1330,
+      "sha256": "e3973154e748a5643e7ab6c1f12f3b278e1e79cc5a7a4e7684e66f727c7ec7dd"
+    },
+    {
+      "path": "game/package.js",
+      "byteLength": 3054,
+      "sha256": "41c0f89f59c05a7029043978fa5494c075e751085ba61c8326436790125bc603"
+    },
+    {
+      "path": "game/update.js",
+      "byteLength": 212,
+      "sha256": "4cca26b466464dc47579473646c9d11859f25b502f6f1e831a189a448d135dca"
+    },
+    {
+      "path": "game/vue.esm-browser.js",
+      "byteLength": 124,
+      "sha256": "57a99bfc161acd9f5c313ddfa4d29a2e8b2637c919fae00073fadc9f3d8612be"
+    },
+    {
+      "path": "layout/default/layout.css",
+      "byteLength": 132826,
+      "sha256": "4566c2e3121ef5954655de965c6d2a36fda5c38f3a6937325b9e307000eb0e64"
+    },
+    {
+      "path": "layout/default/menu.css",
+      "byteLength": 42143,
+      "sha256": "18b90a7a7b987da4641c74b8b559cadaf538694d74ae85bb8c5b0127be0b832a"
+    },
+    {
+      "path": "layout/default/newmenu.css",
+      "byteLength": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "layout/default/pagination.css",
+      "byteLength": 1687,
+      "sha256": "54b1407089245d780868fb0093f6e83f2cc31874eae8cb53764163a98b66b790"
+    },
+    {
+      "path": "layout/default/phone.css",
+      "byteLength": 2023,
+      "sha256": "d22c5be0deee52f58530dce63394f476ff40822591658a122df9d59167112800"
+    },
+    {
+      "path": "layout/default/toast.css",
+      "byteLength": 731,
+      "sha256": "012ac6569f42a7d69e790768a0f1c2b023ac41acf7c6dfa258df8a2fdf5187e0"
+    },
+    {
+      "path": "layout/long/layout.css",
+      "byteLength": 14901,
+      "sha256": "7ab56e32c98c1290ae8ca1679fbd347a0cced2b372915825e866afee33e3d545"
+    },
+    {
+      "path": "layout/long2/layout.css",
+      "byteLength": 20240,
+      "sha256": "7d89c36773e080d9933dcdb081d860250dd2d3552ece511edd8bd8222df2966b"
+    },
+    {
+      "path": "layout/mobile/equip.css",
+      "byteLength": 8780,
+      "sha256": "d51785f11578057739d050a2acb6c2c5586fbfc669425d31478be11f214dd4f5"
+    },
+    {
+      "path": "layout/mobile/layout.css",
+      "byteLength": 10161,
+      "sha256": "be5daeae06a073ecb3c08c91c5076e47e97e2653bd01b5cb0800e7e67d54c4c6"
+    },
+    {
+      "path": "layout/mode/boss.css",
+      "byteLength": 3017,
+      "sha256": "b9da03aa373bdb6e42763aa55f972b15fc36ea9b89fbf09a4f5c8c054c29c612"
+    },
+    {
+      "path": "layout/mode/chess.css",
+      "byteLength": 6821,
+      "sha256": "d919e5891a597df29af5aea39d0c91885ae0841332eb02ced4b20c3f2be5ee6f"
+    },
+    {
+      "path": "layout/mode/stone.css",
+      "byteLength": 9746,
+      "sha256": "8372074471301c65b2adac1478a6c500f5be67c0d273c6ad40e8b3078cb4b7dc"
+    },
+    {
+      "path": "layout/mode/story.css",
+      "byteLength": 4461,
+      "sha256": "0a73c7882cf4cd26e4318695da812a17c0e9cf01b9f10cf67d1fde491029249d"
+    },
+    {
+      "path": "layout/mode/tafang.css",
+      "byteLength": 4750,
+      "sha256": "622114fc44ed843ac9be1e432a92ac7e94a382b11df06982709f80dc8b8116cb"
+    },
+    {
+      "path": "layout/newlayout/equip.css",
+      "byteLength": 3701,
+      "sha256": "cd4f9144a26242945da34f6ec98e0b3b4b1c76b61764bfdaf52867d93e59f023"
+    },
+    {
+      "path": "layout/newlayout/global.css",
+      "byteLength": 23471,
+      "sha256": "ce3437b85c36d7e4a3c14c80e3b050080e7009796551d6e1946ca83960b26ae3"
+    },
+    {
+      "path": "layout/newlayout/layout.css",
+      "byteLength": 43,
+      "sha256": "cf1a953176dfa1bc74aed796a1b20f3f5f3ca6ffdbf771290c6622e37869e268"
+    },
+    {
+      "path": "layout/nova/layout.css",
+      "byteLength": 11944,
+      "sha256": "d681b3867dd41c572a4f2a7bfc4132d1f85beff3b27fe6bf01b098b27be11562"
+    },
+    {
+      "path": "layout/others/dialog.css",
+      "byteLength": 6222,
+      "sha256": "e7437f20b229e1527bc03bcd84672e92519bbe9428a6beeebe7bd03ac79c8f09"
+    },
+    {
+      "path": "layout/others/skill.css",
+      "byteLength": 1243,
+      "sha256": "2c17649a4271ed2ba32cdfb231db9eef40c532714c49e71991428359b505a8b9"
+    },
+    {
+      "path": "mode/identity.js",
+      "byteLength": 194015,
+      "sha256": "e57a7561813c334ab542bf65745b56ce804825d52f9ae2858b8dda920602e45f"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_autocomplete@6.20.0/node_modules/@codemirror/autocomplete/dist/index.js",
+      "byteLength": 71911,
+      "sha256": "a8444e7d149b00e81cfa56a24bdf54d7a62d2a8d42269ff68e59a8a872dbeb80"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_commands@6.10.2/node_modules/@codemirror/commands/dist/index.js",
+      "byteLength": 57978,
+      "sha256": "efa5789198dc35cdf3e336b5293163dffb8ae863a75715d3c473ee536a622420"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_lang-css@6.3.1/node_modules/@codemirror/lang-css/dist/index.js",
+      "byteLength": 16304,
+      "sha256": "1297ce548d0182e45a69901eaba4114078e2e30419d59db57a1ef865b334504a"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_lang-html@6.4.11/node_modules/@codemirror/lang-html/dist/index.js",
+      "byteLength": 24067,
+      "sha256": "0d8e1d1023defba6639dfd1ae4368279afdbeff80902f88dfa6fb2f76562fb3e"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_lang-javascript@6.2.4/node_modules/@codemirror/lang-javascript/dist/index.js",
+      "byteLength": 16614,
+      "sha256": "74d62d64f204fdb168b0fa497f2ce351cbb3d6798616efd53b8930498384f59d"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_lang-json@6.0.2/node_modules/@codemirror/lang-json/dist/index.js",
+      "byteLength": 1564,
+      "sha256": "0b180ba36da33e7098187db077182fab9485f9bc10536f50078336e93fdce480"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_lang-markdown@6.5.0/node_modules/@codemirror/lang-markdown/dist/index.js",
+      "byteLength": 17889,
+      "sha256": "05f971dc35fd4478b42f11f96023db9bb41428d60d048592779d8e553d3f4f07"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_lang-vue@0.1.3/node_modules/@codemirror/lang-vue/dist/index.js",
+      "byteLength": 5108,
+      "sha256": "b69e46e1089343a8b53a4f1abcc008038bd8faec15a6c6622918dee428e04a31"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_language@6.12.1/node_modules/@codemirror/language/dist/index.js",
+      "byteLength": 77874,
+      "sha256": "bbd87ba1f72369127674ed29025388c02ad8aa9209c34171f8834300e9d1559e"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_lint@6.9.4/node_modules/@codemirror/lint/dist/index.js",
+      "byteLength": 30150,
+      "sha256": "6119f295cc708aebb07b7aa1bce668a695c1a6defa2b4ee31d86d75f09b4dc13"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_search@6.6.0/node_modules/@codemirror/search/dist/index.js",
+      "byteLength": 39565,
+      "sha256": "118afda7131515dce215af9f1bfe74d41680469be95b821484b5a6799df2feb9"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_state@6.5.4/node_modules/@codemirror/state/dist/index.js",
+      "byteLength": 111588,
+      "sha256": "ee21601d41d974394604a6bc73c413ed34584bc487f186f0b2792681a98aee80"
+    },
+    {
+      "path": "node_modules/.pnpm/@codemirror_view@6.39.14/node_modules/@codemirror/view/dist/index.js",
+      "byteLength": 377008,
+      "sha256": "730ff8cc9fb9a569d1591cfbf65964da9cb97540ce9fade9d342059d446ce420"
+    },
+    {
+      "path": "node_modules/.pnpm/@lezer_common@1.5.1/node_modules/@lezer/common/dist/index.js",
+      "byteLength": 64520,
+      "sha256": "4a9cce7020652f48c3fc35a372a58167cc20310ea92da0642e51e11b8936dc90"
+    },
+    {
+      "path": "node_modules/.pnpm/@lezer_css@1.3.0/node_modules/@lezer/css/dist/index.js",
+      "byteLength": 17269,
+      "sha256": "787ac2db7efe101355c38770a5f7643746d098e26540c6397b3bfabb841eb34d"
+    },
+    {
+      "path": "node_modules/.pnpm/@lezer_highlight@1.2.3/node_modules/@lezer/highlight/dist/index.js",
+      "byteLength": 20600,
+      "sha256": "c7c89c45356fab6834e8664bf8243dab944ff7de77045dd4a64b3aaadc0bb53a"
+    },
+    {
+      "path": "node_modules/.pnpm/@lezer_html@1.3.13/node_modules/@lezer/html/dist/index.js",
+      "byteLength": 20544,
+      "sha256": "6642260a61f01b634ec6fe8956b3c245e7e938e6b4d1ea4aefe933ef8423615a"
+    },
+    {
+      "path": "node_modules/.pnpm/@lezer_javascript@1.5.4/node_modules/@lezer/javascript/dist/index.js",
+      "byteLength": 80794,
+      "sha256": "5c863a2a135ed54ba68914b014623aa82420955302968e4217cfd4b44bfae44d"
+    },
+    {
+      "path": "node_modules/.pnpm/@lezer_json@1.0.3/node_modules/@lezer/json/dist/index.js",
+      "byteLength": 2037,
+      "sha256": "2a708eb95fd414fe8a293507eec434e935b819f104d1a167d406a36d5c3b95e1"
+    },
+    {
+      "path": "node_modules/.pnpm/@lezer_lr@1.4.8/node_modules/@lezer/lr/dist/index.js",
+      "byteLength": 54798,
+      "sha256": "34ed125e87356f454c9c562a41c73b8436bf79da18d2ff3e420ddf108afafcba"
+    },
+    {
+      "path": "node_modules/.pnpm/@lezer_markdown@1.6.3/node_modules/@lezer/markdown/dist/index.js",
+      "byteLength": 69481,
+      "sha256": "1c09ec60caa0bafe69380705168d198ad3c91b4fda680ae4b575954526316764"
+    },
+    {
+      "path": "node_modules/.pnpm/@marijn_find-cluster-break@1.0.2/node_modules/@marijn/find-cluster-break/src/index.js",
+      "byteLength": 3765,
+      "sha256": "c5f84a43d290ef7e2fe6bd9959ca5bd01efb0f976a1c9cec603399b26566ed70"
+    },
+    {
+      "path": "node_modules/.pnpm/codemirror@6.0.2/node_modules/codemirror/dist/index.js",
+      "byteLength": 2216,
+      "sha256": "538c5e9c774e9b58f4bec1c621321653ded637ea3566da741cc00ad9893b1c14"
+    },
+    {
+      "path": "node_modules/.pnpm/core-js-bundle@3.48.0/node_modules/core-js-bundle/index.js",
+      "byteLength": 970129,
+      "sha256": "995a5e1bd17d55a7d570d012199d18c4f89ab04e89a4c5b223ae2cc449e326b8"
+    },
+    {
+      "path": "node_modules/.pnpm/crelt@1.0.6/node_modules/crelt/index.js",
+      "byteLength": 979,
+      "sha256": "912903c3f59ee04d2dce9edf8885e0f0b7c1dde1f85d25d15935c8e262b751c2"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/aes.js",
+      "byteLength": 7354,
+      "sha256": "f03071cc2bd22243fde3043b8ce09a51e9dfb64b8661bcef91047b7d5e4ba230"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/blowfish.js",
+      "byteLength": 29792,
+      "sha256": "56085c3c57d51bd5bf92a6287d1b9d84c919d560a00caab2f21b8326474d76cc"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/cipher-core.js",
+      "byteLength": 25407,
+      "sha256": "00674deac66579db2f1af5a143598621f3dacb745b63bddde037fbfa937d3b7d"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/core.js",
+      "byteLength": 20784,
+      "sha256": "f1326e7c0db266ff8de22dd8420c42ead5bb2fea0134553d47cbf7af1f05195d"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/enc-base64.js",
+      "byteLength": 4185,
+      "sha256": "c2a0bc25924997dcce9f667f488b69ac1c7f82b13d22e0cc395962cd5c6461f1"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/enc-base64url.js",
+      "byteLength": 4729,
+      "sha256": "724caa62dade5c92625341d7a18de7fb4a44370c86be449235762a1d03fbd411"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/enc-utf16.js",
+      "byteLength": 4225,
+      "sha256": "61b24e7059d3cb83693661cff83c7e2e9cd6689c61ce97c50efad6e06748015a"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/evpkdf.js",
+      "byteLength": 3602,
+      "sha256": "d4d7f9a7e0a81920f7c785517e2e470dcb56fc3bf55d8cdf6f63d671ecc82d15"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/format-hex.js",
+      "byteLength": 2380,
+      "sha256": "54191a7038cf4fb11f0fcec8dbcd0b3e341b6b9e4da91d280ef50725758f4ef1"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/hmac.js",
+      "byteLength": 3854,
+      "sha256": "47450b324ddf235b3938b54ebee9702f44baad472de39913f43d8429b70099b5"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/index.js",
+      "byteLength": 4091,
+      "sha256": "7877ee0b2040e5508990eb9c5d443cf796eced640eca04c0e84f656475992e75"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/lib-typedarrays.js",
+      "byteLength": 2271,
+      "sha256": "1156c013626911b36f0268d05557cc99171e0704a96688253253c83421eb7253"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/md5.js",
+      "byteLength": 8150,
+      "sha256": "93a5256dc0c65b9db9031a068659677a4ab12296d1fc8e9fff2573a3d0c3da3c"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/mode-cfb.js",
+      "byteLength": 2245,
+      "sha256": "d4afdf1e5ff411800339e2339955fa5fffbf2cb3cb4629ea072755508633f5da"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/mode-ctr-gladman.js",
+      "byteLength": 2798,
+      "sha256": "d759b10a948f1bdaae52347097e9dfefec684d6bd684815be4591c41c7c15a83"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/mode-ctr.js",
+      "byteLength": 1759,
+      "sha256": "c69625ec3e3626822bf423212b9dd84c9ff8ffbcdff6ae0d0a92c5a393e57a50"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/mode-ecb.js",
+      "byteLength": 1373,
+      "sha256": "08765761fddba06ca927b786eff7e49763b43dc3f8ca1862702ce45e330be494"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/mode-ofb.js",
+      "byteLength": 1652,
+      "sha256": "8e742cf3a2e8585346c57d2e660e8afda69e89ba532db465869428d82834bdc7"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/pad-ansix923.js",
+      "byteLength": 1606,
+      "sha256": "46d8a156220be4bc1beb05482687b3febfddfe4caf322f69b226ba9d33f1d6df"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/pad-iso10126.js",
+      "byteLength": 1486,
+      "sha256": "fcb3271312340a4dcabb2a2fd68a5a4bfe36ac3db40488590e9717fcc41cfce2"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/pad-iso97971.js",
+      "byteLength": 1312,
+      "sha256": "7f32bd9745e4edd1f37f329fbdd177bad128d3bf7d790ad4476799e77ee12c6a"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/pad-nopadding.js",
+      "byteLength": 1106,
+      "sha256": "43121c0f9132212d1b8442773272d3d72b4edcb39029ec4fbfc3bcfb683e917c"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/pad-zeropadding.js",
+      "byteLength": 1602,
+      "sha256": "22c136b71dba2ba880648efc01f58f2f1bb2c3d6f5885925c3dbe3ff210cedc5"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/pbkdf2.js",
+      "byteLength": 4074,
+      "sha256": "ed85606ebebdafeb1e4e30c3e6b63ad09d50c2595fd1176f4ded0ebb7e9d7640"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/rabbit-legacy.js",
+      "byteLength": 5720,
+      "sha256": "eed26b3d1df67a0e98caa3160b4ebbcb907ade2f9d26ba64e1abbc7d592302f5"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/rabbit.js",
+      "byteLength": 5761,
+      "sha256": "8ee021686703e35b04e7a670af4d27004a75d754a99f7fedea5eacf571ae6bc6"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/rc4.js",
+      "byteLength": 3260,
+      "sha256": "8f97371d1695969fb63b85b4cd7c45554b4a0b564f3ad52db2fd6436b29abeac"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/ripemd160.js",
+      "byteLength": 9836,
+      "sha256": "4fe7f8d83f2fb17ed1168ef42efa12eb7c6aafdc00206e6410c39f9cdb744d4b"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/sha1.js",
+      "byteLength": 3278,
+      "sha256": "009b2dd56ca5d81dd09dc3d942f1f2f4ea949ad63b4b35edde6cf2aa973311c2"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/sha224.js",
+      "byteLength": 1713,
+      "sha256": "ce124e8936909bef7cb1cc9ff315bc334a2e87dc53f5e566ef4c9cef02a01b4a"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/sha256.js",
+      "byteLength": 4505,
+      "sha256": "bf037e0bfa69f50504f38944169fa2babf5489e3d8fd49ff900e4295261bbe8b"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/sha3.js",
+      "byteLength": 8160,
+      "sha256": "4fb3a35216c614628333b40bec17e0cbf7c9607edae7feeade8aa3bc88d6df53"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/sha384.js",
+      "byteLength": 2086,
+      "sha256": "7375a8ce82041b56137626f0cc4bdeedcdbb6939d9ef8c22166979274d73329c"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/sha512.js",
+      "byteLength": 12349,
+      "sha256": "8f03a14edb0a2271d7e215f4b5908951ebba7746e26669056f9a9bd9df3818b4"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/tripledes.js",
+      "byteLength": 22843,
+      "sha256": "0083342ed8da36c7f679ef3601fec3b5e0811a6f8546da927bed87a5f14ecb7d"
+    },
+    {
+      "path": "node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js/x64-core.js",
+      "byteLength": 8890,
+      "sha256": "18b9bce6a8ac7fad13e2cfaba7e1ab969e1b137b20b6f9e47bf1053a7b8ae05c"
+    },
+    {
+      "path": "node_modules/.pnpm/dedent@1.7.1/node_modules/dedent/dist/dedent.js",
+      "byteLength": 4040,
+      "sha256": "89d57ff058bd5b85bb92cb6b4a00618e74c8b23725d205b99b19def5cc19bf59"
+    },
+    {
+      "path": "node_modules/.pnpm/error-stack-parser@2.1.4/node_modules/error-stack-parser/error-stack-parser.js",
+      "byteLength": 7746,
+      "sha256": "e934a955980f4d59ea6a8b6b5c1f204dfb0124ffc95f4d2e3c1cb6059eb55665"
+    },
+    {
+      "path": "node_modules/.pnpm/eslint-linter-browserify@9.39.2/node_modules/eslint-linter-browserify/linter.js",
+      "byteLength": 3214354,
+      "sha256": "b05c719de1e85acff4c6caf778313fd541632d716439a765d810fe2cc3b0240f"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/arrayReader.js",
+      "byteLength": 1494,
+      "sha256": "50f209d7f68cbf670e253a1ffeea343c37a2bb54b6c211bf2c51a45c3215ce7a"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/base64.js",
+      "byteLength": 1848,
+      "sha256": "aee5d8f1f4c8aff4cf1140fa7694889b334acc2f84bfdfed59bb5452bd387ccc"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/compressedObject.js",
+      "byteLength": 1094,
+      "sha256": "89fcec82e25574efccfed72e29e687ab14a88a53c1143d6761072a229870dda9"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/compressions.js",
+      "byteLength": 731,
+      "sha256": "9b2579e80aeec91276ab6e790be5d63f050c06d1716fabb1bca79ab8dc2874a9"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/crc32.js",
+      "byteLength": 4893,
+      "sha256": "8ab5c8dfdcec9074c528f203637f2f972190b4ae290def907ca278714634f370"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/dataReader.js",
+      "byteLength": 3546,
+      "sha256": "19e28d3341c6d6c7571975db403d55e67ccd1c9d9d2781c5acf55f1eaf36d3f2"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/defaults.js",
+      "byteLength": 643,
+      "sha256": "751f1cfd91c03054eec66a43afc524ad68fe9ffa2ae8462ffc9c27c1cfa7946e"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/deprecatedPublicUtils.js",
+      "byteLength": 1895,
+      "sha256": "1cc422c022dea5476b4694dd1e04ec0c5b96efa92529c982b22af031aa7d6c6a"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/flate.js",
+      "byteLength": 994,
+      "sha256": "a30b347ae68c95ababd78af12f3ad3aaf6959cc44da7744c24b3d21710f13acf"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/index.js",
+      "byteLength": 1837,
+      "sha256": "adb690c0175eafbae6a79cb82f9d90e3c673f319e6c0a17973fca16ac83915be"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/load.js",
+      "byteLength": 1598,
+      "sha256": "f2710368502cd394ba53a18eddc7887f0ded8a73d10f2282d5be6b1e5b2541a3"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/nodeBuffer.js",
+      "byteLength": 596,
+      "sha256": "8e2ddfb877e0410b5a9027d895c8ffb4b969646b09df17f67f17dc22c387b2fc"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/nodeBufferReader.js",
+      "byteLength": 923,
+      "sha256": "18efb59abfa436d7602031567e3d18ca2945fe03527362d7cf96629ba827d8a2"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/object.js",
+      "byteLength": 20745,
+      "sha256": "680171492fc9feb147f9c7aba2eafacea6f1a9f2c5d9d68ded13923bf524a316"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/signature.js",
+      "byteLength": 626,
+      "sha256": "0ff1f7c472c3fdaabcc6f8356a70cf2b4641cd9a112dda24b31db893044e9d67"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/stringReader.js",
+      "byteLength": 1261,
+      "sha256": "4e8e8e7e6b6da3c34aad850cf84a6708ee2ed0ad3bdc0c55364d5d5e92c151ab"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/stringWriter.js",
+      "byteLength": 931,
+      "sha256": "cd60b0263dcf9f684aa0a6dad19470faa4b123b77847a474bf31988bda770f4f"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/support.js",
+      "byteLength": 1196,
+      "sha256": "22f6382f90071d43ad46ca328bd8b078136c0740ea3f721af192169f016439da"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/uint8ArrayReader.js",
+      "byteLength": 991,
+      "sha256": "689fa05ae2d6a92ded8e6cda0387fb10bba5307da5db3a15d44b15610bda5e9b"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/uint8ArrayWriter.js",
+      "byteLength": 1113,
+      "sha256": "951dcabca5eeb78c3f498cb78b2bdabd06fe11539e55c0ce963185f937e7d8b2"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/utf8.js",
+      "byteLength": 4406,
+      "sha256": "df7c766abd1b2ea5ccc0fe8246fcba458c13b072c38f52ca35745b415ce92675"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/utils.js",
+      "byteLength": 7549,
+      "sha256": "1bff37e0121e00323365154f6927b9f2fe3d3cec0a4ec764e1e92a5f93c2847d"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/zipEntries.js",
+      "byteLength": 9908,
+      "sha256": "3b093a252ad28beac719e64611c5a54d33da3bd541a77eee1aecc875b8c64a8e"
+    },
+    {
+      "path": "node_modules/.pnpm/jszip@2.7.0/node_modules/jszip/lib/zipEntry.js",
+      "byteLength": 10661,
+      "sha256": "943baada1de3171f16b23ce54b00529e045b402a609d554f179968be8ef88d66"
+    },
+    {
+      "path": "node_modules/.pnpm/nosleep.js@0.12.0/node_modules/nosleep.js/src/index.js",
+      "byteLength": 4130,
+      "sha256": "b43a956236318064bfda9288dbab6ce2151e8dfc247114148e1c4352381a99b2"
+    },
+    {
+      "path": "node_modules/.pnpm/nosleep.js@0.12.0/node_modules/nosleep.js/src/media.js",
+      "byteLength": 12764,
+      "sha256": "731fd3a79657a55216d54b5e3bcec243900efb678f3010b3ce49184fb4cb7668"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/index.js",
+      "byteLength": 740,
+      "sha256": "e92d406b75b8b35e281a44fd10065a6b77bbcd1ee3cf8ed00ab893c86a8da4fa"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/deflate.js",
+      "byteLength": 5229,
+      "sha256": "3c2b5f7e43b32079f73a7e2c71542b4566bcf6cb7d28620922fc2d79ba5e751b"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/inflate.js",
+      "byteLength": 6157,
+      "sha256": "6929af5b1324b289420588df009a98e1eb130ac2d01e1abc6ea01d773e62eff0"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/utils/common.js",
+      "byteLength": 2918,
+      "sha256": "af40c27b3d271264055c4f5469bc17c4c0098176749191f34d8c026c9fc37b7c"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/utils/strings.js",
+      "byteLength": 4124,
+      "sha256": "31a9ec6ab5665ceeaef997903aa37db5916744f62ed4711940c3fe298179613f"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/adler32.js",
+      "byteLength": 656,
+      "sha256": "76f3854b10b8845fdeea9ec9f046bea5bb9db739efb0286f9c56f4a302227c68"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/constants.js",
+      "byteLength": 1428,
+      "sha256": "0e3ab5270f8a6878b2beb8e1f3cb28d857fad29f2f1005a3c4b5c5626341b1f0"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/crc32.js",
+      "byteLength": 762,
+      "sha256": "64bfe56fde209a13a552af1b3c4c77eadf01cce8ffd5df8acfc42f9944768f89"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/deflate.js",
+      "byteLength": 32543,
+      "sha256": "260e38a9437c5d0eb8277d2f666fa978bfb6b3d8cf53305ca872113788653e7d"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/gzheader.js",
+      "byteLength": 538,
+      "sha256": "be8486b33e44eae61dfd888bb3ccc9c43ae1d377d797e9bc7e6a78fde94f66b0"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/inffast.js",
+      "byteLength": 7644,
+      "sha256": "9945ba2c764efdb42d7a88f9893cd5295942cd2bd158d94f7ff90b8f2df97523"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/inflate.js",
+      "byteLength": 37548,
+      "sha256": "749c6ea55fa40260151c3487e4daead4e0b9e0a50a93d9452371bbae8a1ee200"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/inftrees.js",
+      "byteLength": 5680,
+      "sha256": "267ec25ca29a109268e63b635e87d9c9e402f5e2188fa2ed34769c7674cd10b1"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/messages.js",
+      "byteLength": 802,
+      "sha256": "d91a87cd8fe6a9c96ea0f8a6aff759e498b0ca74593458c830bcc34431b48529"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/trees.js",
+      "byteLength": 17672,
+      "sha256": "c28d27ccb6e09357c1a1e1f1361604c0c5fd7cdf2b8b118368b7e3b300d67c5c"
+    },
+    {
+      "path": "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/zstream.js",
+      "byteLength": 591,
+      "sha256": "005483b18195884caafe9abdbc47a5051dd43f4eabb33db52c18221fa537fe8d"
+    },
+    {
+      "path": "node_modules/.pnpm/path-browserify-esm@1.0.6/node_modules/path-browserify-esm/index.esm.js",
+      "byteLength": 12050,
+      "sha256": "c63fc893c717e1fc88142f6826a5e354df15edbb8724984c090d6feaf5287c7f"
+    },
+    {
+      "path": "node_modules/.pnpm/pinyin-pro@3.28.0/node_modules/pinyin-pro/dist/index.js",
+      "byteLength": 449383,
+      "sha256": "f578175dfdccf622f349318f36e825498504879ce158b5d06ed1f86cb841fd9e"
+    },
+    {
+      "path": "node_modules/.pnpm/source-map@0.5.6/node_modules/source-map/lib/array-set.js",
+      "byteLength": 1963,
+      "sha256": "2a51ec7d1e4ee3dc251e7eb3d73818dfaf7ebebcfc83e2a02f0e2b54217933a5"
+    },
+    {
+      "path": "node_modules/.pnpm/source-map@0.5.6/node_modules/source-map/lib/base64-vlq.js",
+      "byteLength": 1902,
+      "sha256": "841142dfe73725aac18f07aae5790e3005340739456d30b63e870e5c9d4833a4"
+    },
+    {
+      "path": "node_modules/.pnpm/source-map@0.5.6/node_modules/source-map/lib/base64.js",
+      "byteLength": 1277,
+      "sha256": "e9d1370a2e157a694a293e40d80495947995c090f53745c3d216d5e70169cfe2"
+    },
+    {
+      "path": "node_modules/.pnpm/source-map@0.5.6/node_modules/source-map/lib/binary-search.js",
+      "byteLength": 1882,
+      "sha256": "2d77d9fb414e2540042953a2d70ddd3f06e5bb8bdd2017fb7be7bc6bbfbf892a"
+    },
+    {
+      "path": "node_modules/.pnpm/source-map@0.5.6/node_modules/source-map/lib/quick-sort.js",
+      "byteLength": 1132,
+      "sha256": "bcbd0c1b8f0431ab54cf78cea82d68ad240867cfe044b6b9c05c76e0ba4d74b5"
+    },
+    {
+      "path": "node_modules/.pnpm/source-map@0.5.6/node_modules/source-map/lib/source-map-consumer.js",
+      "byteLength": 23099,
+      "sha256": "5c486c564f80d94693711a6de6fdfc070415787b385dd86eb7cc01ada307aae1"
+    },
+    {
+      "path": "node_modules/.pnpm/source-map@0.5.6/node_modules/source-map/lib/util.js",
+      "byteLength": 7949,
+      "sha256": "8d0b09ed7ec5b2ffe088ae2649621f66a07cdf0116fc9b76c6dacb82ea765260"
+    },
+    {
+      "path": "node_modules/.pnpm/stackframe@1.3.4/node_modules/stackframe/stackframe.js",
+      "byteLength": 5174,
+      "sha256": "44fa695645d89648561de18fdfa3cd6ca50252987c1531184c5454aea533dc60"
+    },
+    {
+      "path": "node_modules/.pnpm/stacktrace-gps@3.1.2/node_modules/stacktrace-gps/stacktrace-gps.js",
+      "byteLength": 11851,
+      "sha256": "a7652bda3e1d8d6164bdfe19461a0911deee01f7bd634802f4af7a03ca45fabd"
+    },
+    {
+      "path": "node_modules/.pnpm/style-mod@4.1.3/node_modules/style-mod/src/style-mod.js",
+      "byteLength": 5165,
+      "sha256": "e0c721cb6727ae7bbb8808f9f63ca6b135e834de8af903c7a196ecd9a1d6050f"
+    },
+    {
+      "path": "node_modules/.pnpm/vue@3.5.28/node_modules/vue/dist/vue.esm-browser.js",
+      "byteLength": 542942,
+      "sha256": "9d9656f265659ea5a3b0037f6926fe64a1457278fa5cf8f2e8f1f581264649c0"
+    },
+    {
+      "path": "node_modules/.pnpm/w3c-keyname@2.2.8/node_modules/w3c-keyname/index.js",
+      "byteLength": 2210,
+      "sha256": "70bce36cb13c563c6a5a11f721e7ebd7547de7c2a518f81dbb1a8548c9b7ddf0"
+    },
+    {
+      "path": "noname.js",
+      "byteLength": 706,
+      "sha256": "26245cd3112a72cae98cb1ca75776fbb17e42482fbfe1c93ca958ff6eeae79e8"
+    },
+    {
+      "path": "noname/ai/basic.js",
+      "byteLength": 7057,
+      "sha256": "fc5f1d9ff981ef3de2c1c85c76d3fbcdfb1148a9f1682c1eca05858d53ff0f57"
+    },
+    {
+      "path": "noname/ai/index.js",
+      "byteLength": 3171,
+      "sha256": "dda00fa3aeea2d13ee92a4edf15a3cf570d8cc90ad16d5a8b637f1ac8efad376"
+    },
+    {
+      "path": "noname/entry.js",
+      "byteLength": 14430,
+      "sha256": "7c97578c88adb29a781f00e8d7d4d8f2882f218fb52c6d8ad2887b97308646c1"
+    },
+    {
+      "path": "noname/game/PauseManager.js",
+      "byteLength": 1851,
+      "sha256": "4d12d572dd25fee8a05e20804e48ba155aca348ebb355e48aae0d58892f46611"
+    },
+    {
+      "path": "noname/game/check.js",
+      "byteLength": 6485,
+      "sha256": "29f9e8bdabe41bec4acac72426faa2cda6c1aeaf194237135d9b63ed1c9a04ba"
+    },
+    {
+      "path": "noname/game/dynamic-style/index.js",
+      "byteLength": 5816,
+      "sha256": "55de49f1f10cc25fc4b4049eaafeafcb43a49f64308d49950efbd7aaca8790ba"
+    },
+    {
+      "path": "noname/game/index.js",
+      "byteLength": 335825,
+      "sha256": "42a73756d3c6e8c84af3c0a84244fe0439862e640a2ad902fd704325c16cf42b"
+    },
+    {
+      "path": "noname/game/promises.js",
+      "byteLength": 5658,
+      "sha256": "855b23a065f12a70ac57dbadd5ab3e2976c5f1750fa1b620ec70f5f040a09c1d"
+    },
+    {
+      "path": "noname/get/audio.js",
+      "byteLength": 13126,
+      "sha256": "de964b3a071b03feef6e50489663fed3e0c62f107cc8ea31a3f62297c41449d1"
+    },
+    {
+      "path": "noname/get/index.js",
+      "byteLength": 239778,
+      "sha256": "907d13b1bb8963b3b569adb2dfc9d20a795624ca68ab1adaba86ae6e1b083f5d"
+    },
+    {
+      "path": "noname/get/is.js",
+      "byteLength": 18956,
+      "sha256": "77602338f4f32f2df0c49ca0b50bf2bdc7e490e2f5af51ba1fe70434a9de7d2d"
+    },
+    {
+      "path": "noname/get/pinyins/noname-dict.js",
+      "byteLength": 4636,
+      "sha256": "19269cde9125f72129088eb6a3f55d229dd66f9dbbebc3001af7f62cd644d92d"
+    },
+    {
+      "path": "noname/get/promises.js",
+      "byteLength": 145,
+      "sha256": "82d44f1e9be2f45116be570ae78960d92e2b82037b1b25d5dd920e99583ce9dd"
+    },
+    {
+      "path": "noname/init/browser.js",
+      "byteLength": 12220,
+      "sha256": "e732f7803781a2599e0565d00011683e12642f5171a233a314b7b65f2047387e"
+    },
+    {
+      "path": "noname/init/compatible.js",
+      "byteLength": 31907,
+      "sha256": "67eb18bb451e1a7364fe5a53f9255db1ee48a3a34cb8e864aa686157bce9ad48"
+    },
+    {
+      "path": "noname/init/cordova.js",
+      "byteLength": 14555,
+      "sha256": "409426db702bb0433dc4a01347d10b3780c4b868753e8cc66433b2bc123dbf5f"
+    },
+    {
+      "path": "noname/init/import.js",
+      "byteLength": 4189,
+      "sha256": "2282c341c9b13d42ed05a8402cf91825d07ac85d070564ae082892770f486abc"
+    },
+    {
+      "path": "noname/init/index.js",
+      "byteLength": 49542,
+      "sha256": "2007d5abb165df65e0661ea50288aedd33b11c813c281277658102b16c1297bc"
+    },
+    {
+      "path": "noname/init/loading.js",
+      "byteLength": 18458,
+      "sha256": "4403ec836d5a586a4164670815027ae920ca19f79ac80c4e3449fb37a0a9150c"
+    },
+    {
+      "path": "noname/init/node.js",
+      "byteLength": 11568,
+      "sha256": "3f5c9bda33f4e63b9f7183d9feccd5ccb71a242aa07b9075a77f7035824ad08b"
+    },
+    {
+      "path": "noname/init/onload/OnloadSplash.vue.js",
+      "byteLength": 83,
+      "sha256": "0dacb2d97f7a97df601a834bbde1e9e794fd399ee16db7a6868f5d474c998f84"
+    },
+    {
+      "path": "noname/init/onload/OnloadSplash.vue2.js",
+      "byteLength": 2529,
+      "sha256": "0c6f98e255b2a5729dd25a2f0bba7a7c1812cc940edcc7cdc7eaf156a3c1784d"
+    },
+    {
+      "path": "noname/init/onload/default-splash.js",
+      "byteLength": 2258,
+      "sha256": "477ed54b23b3a5db203df0af85fb746e69238bc0fb7e231e81d33513c2a01e39"
+    },
+    {
+      "path": "noname/init/onload/index.js",
+      "byteLength": 193,
+      "sha256": "97c311130bf655bc1558271b551e5fa86bc9c6397b2eb9ade2c3540229857375"
+    },
+    {
+      "path": "noname/init/onload/wide-splash.js",
+      "byteLength": 193,
+      "sha256": "0bfd55b34a18747d61b1b141d716ea04d433efa4c26ab8bc9858839a6e5c96eb"
+    },
+    {
+      "path": "noname/init/polyfill.js",
+      "byteLength": 14776,
+      "sha256": "6eb0de6e2d00ce0978735c3c92faf75bbebaf221866fd4e56acbffd8087d8ef0"
+    },
+    {
+      "path": "noname/library/announce/index.js",
+      "byteLength": 3441,
+      "sha256": "c74e5527eb0692cea4afce5a1566202fc289c880b05feac7d2dfedfe0b405c22"
+    },
+    {
+      "path": "noname/library/cache/cacheContext.js",
+      "byteLength": 6518,
+      "sha256": "ae741f8ecdb4daf87bb4b0bb0047467264b9b78e61fa338ebe6c35344895f303"
+    },
+    {
+      "path": "noname/library/cache/childNodesWatcher.js",
+      "byteLength": 715,
+      "sha256": "68bb65a4f287f06161b64b3b576dcdfc1fe00afbd9fdabcdae036aa0abf33b15"
+    },
+    {
+      "path": "noname/library/element/GameEvent/GameEventManager.js",
+      "byteLength": 1439,
+      "sha256": "0ee96cd9d1cce41706e236ca2da1f7c11b22dc1c52c32cc3b5403b746ae547c2"
+    },
+    {
+      "path": "noname/library/element/GameEvent/compilers/ArrayCompiler.js",
+      "byteLength": 1139,
+      "sha256": "64f68f6caebdac7e9ff4fd49593b0f0b8bd816578d5950e2d08b9358a2565be7"
+    },
+    {
+      "path": "noname/library/element/GameEvent/compilers/AsyncCompiler.js",
+      "byteLength": 440,
+      "sha256": "20003309c0380020d0a645974384d137f892d0913c0be24f2f4698f85ad77cfe"
+    },
+    {
+      "path": "noname/library/element/GameEvent/compilers/ContentCompiler.js",
+      "byteLength": 2398,
+      "sha256": "fe4890811d9db02ada0ed75d5e840bf4ac01d45c84130a1ef1a748e629975955"
+    },
+    {
+      "path": "noname/library/element/GameEvent/compilers/ContentCompilerBase.js",
+      "byteLength": 1709,
+      "sha256": "872f8e48008b43fb7d77e5f45c6181dbd537669b11c6932fde4c70654d8c79fa"
+    },
+    {
+      "path": "noname/library/element/GameEvent/compilers/StepCompiler.js",
+      "byteLength": 4092,
+      "sha256": "0cc9033e87005233afadec10bf923652328ddf6c8981d9d2a5bea3f42cfb5584"
+    },
+    {
+      "path": "noname/library/element/button.js",
+      "byteLength": 2087,
+      "sha256": "dda25a6fefa720ad85cde9a92b34645149ce79154dcfd2b100e66a68f1c04d8e"
+    },
+    {
+      "path": "noname/library/element/card.js",
+      "byteLength": 28967,
+      "sha256": "5cd5f91a3b6720eeee5989a854d446bcf181b698499640e9eded94e6aef09de8"
+    },
+    {
+      "path": "noname/library/element/character.js",
+      "byteLength": 12095,
+      "sha256": "4df717ef0483a4e606c07b93857e94dfd1e3ff15fcd21e678195eec6f131af73"
+    },
+    {
+      "path": "noname/library/element/client.js",
+      "byteLength": 2527,
+      "sha256": "4bec05e96d39eb034dd9a9af80103527c85ad3dbdbe30f5767b15b7d7e01562f"
+    },
+    {
+      "path": "noname/library/element/content.js",
+      "byteLength": 436473,
+      "sha256": "7a11e998cb163a2dddbcce1f5fb1217a20978bc351cdb3bd5f0eb80596f87096"
+    },
+    {
+      "path": "noname/library/element/control.js",
+      "byteLength": 4568,
+      "sha256": "9650d63acb2c013d81b103a2a5db0cbfefceeae22bd5886fc4826854cee0c1a8"
+    },
+    {
+      "path": "noname/library/element/dialog.js",
+      "byteLength": 13604,
+      "sha256": "9005c58067f68ed09add5cbc3a664c8d3637023c70a880a9ae8508b893f063aa"
+    },
+    {
+      "path": "noname/library/element/gameEvent.js",
+      "byteLength": 32941,
+      "sha256": "9c6f0633c0df10cab142a65517a56ed7cd5915bc3470fdff8f4c3e0d201b72cf"
+    },
+    {
+      "path": "noname/library/element/index.js",
+      "byteLength": 554,
+      "sha256": "992b4fc673fd2ff22a19f8ea99e7874e7581fff83c1f9d3f10b741c7eadf5e25"
+    },
+    {
+      "path": "noname/library/element/nodeWS.js",
+      "byteLength": 422,
+      "sha256": "14311d5c2b6bcbdad395fb296ead45b88ea05bd3a889b14594e4e8c33b30502e"
+    },
+    {
+      "path": "noname/library/element/player.js",
+      "byteLength": 499714,
+      "sha256": "cd1a7ae31f4442486391aecfc0fa86b89d7ba9f09ba3e659d57c0fc996b1cc87"
+    },
+    {
+      "path": "noname/library/element/vcard.js",
+      "byteLength": 5253,
+      "sha256": "afefbdaafae0c45c356bbdbde2147451999ea1bad32411599615e54ce65dbdba"
+    },
+    {
+      "path": "noname/library/experimental/index.js",
+      "byteLength": 331,
+      "sha256": "d86b7d471e6a74e7a952f7e3fec47e08bc273997e6ffd9f76061f3c79784d160"
+    },
+    {
+      "path": "noname/library/experimental/symbol.js",
+      "byteLength": 96,
+      "sha256": "1e852045eec7ae994eb8113f685cc2df4808b9faeada4f72914305c897a4f8aa"
+    },
+    {
+      "path": "noname/library/fs/adapter.js",
+      "byteLength": 814,
+      "sha256": "667ecd546df96be771945dfc8812e3e921fb90627ff4d074962e7241fc37bdd2"
+    },
+    {
+      "path": "noname/library/fs/errors.js",
+      "byteLength": 795,
+      "sha256": "64d89e1084e498f9d95b3c920e4ddb3d295f02bbc791dfb56240e92d91194c8c"
+    },
+    {
+      "path": "noname/library/fs/index.js",
+      "byteLength": 1296,
+      "sha256": "d2331e7ad8e12954dac7583dd5eec012fb8676a2c4e1de92f6043f6ff9d15ca4"
+    },
+    {
+      "path": "noname/library/fs/legacy.js",
+      "byteLength": 5046,
+      "sha256": "75c9e6ec1ae4533882f1d75bde47dfa68faa9e3c81c15e933dd6542b437268f6"
+    },
+    {
+      "path": "noname/library/help/GamePoptip.css",
+      "byteLength": 743,
+      "sha256": "b3564006af162bfb8a7fd72b92c04c3e47493d1f8947a70706dbb07997690c29"
+    },
+    {
+      "path": "noname/library/help/GamePoptip.vue.js",
+      "byteLength": 282,
+      "sha256": "2c8867adc9292b83574f05f97674b5c856aa77a282cea2ae2f278f6b147e1a97"
+    },
+    {
+      "path": "noname/library/help/GamePoptip.vue2.js",
+      "byteLength": 1160,
+      "sha256": "8b633fe1239239171789ed39ffacf95f19f74888c5564ce1959435d14c8e1d10"
+    },
+    {
+      "path": "noname/library/help/about-game.js",
+      "byteLength": 680,
+      "sha256": "b6a89ffbcee3702204d65a4fc1d96d3691d63009f6c9c37e0c5946e632cec40e"
+    },
+    {
+      "path": "noname/library/help/game-api.js",
+      "byteLength": 1765,
+      "sha256": "4ca87e248aaf5ea7137984646aceb3078f9d62cf212f88ec1bff689e65e00e42"
+    },
+    {
+      "path": "noname/library/help/game-controls.js",
+      "byteLength": 822,
+      "sha256": "9898ed7f6587cc9b9b422f9084fb7faf23df55cc424cd26c797fb95944e35e8f"
+    },
+    {
+      "path": "noname/library/help/index.js",
+      "byteLength": 328,
+      "sha256": "c5e891df833101f996817cee697b427372c8d4c473f3b3be358753635ba65505"
+    },
+    {
+      "path": "noname/library/hooks/index.js",
+      "byteLength": 11922,
+      "sha256": "3b1248eda1ca3a037b54a5704d6d2f07ad907f56daf7cc75783723091711cbb4"
+    },
+    {
+      "path": "noname/library/index.js",
+      "byteLength": 485124,
+      "sha256": "39ed5b4ee8492e57e657ea39d10ec22de637f030b62e436cb1f38aeb7512b5be"
+    },
+    {
+      "path": "noname/library/init/index.js",
+      "byteLength": 22595,
+      "sha256": "36ecb4c82a7b9b052bd795f369b9e562ca4d8f318501d1e24feb78c775de93d9"
+    },
+    {
+      "path": "noname/library/init/promises.js",
+      "byteLength": 3607,
+      "sha256": "07a1f2080f08df54dacb38be28aaceae5f6818e8eea452b93ade35c46a38b3ba"
+    },
+    {
+      "path": "noname/library/poptip.js",
+      "byteLength": 14646,
+      "sha256": "ea3613be1801277dd2057a97cf32b4877bcbc69f0db06d5162d621d96571e02e"
+    },
+    {
+      "path": "noname/library/skill.js",
+      "byteLength": 76728,
+      "sha256": "0e1e86054a37044088eb8f2ffe4aa3d779cd1aa836c1fc0c89897cb294a6c60c"
+    },
+    {
+      "path": "noname/library/update-urls.js",
+      "byteLength": 169,
+      "sha256": "16b1d0c88bfbff99a3537f038f75cdc25e01d3f1f923dbb7994a4baec812ed2e"
+    },
+    {
+      "path": "noname/library/update.js",
+      "byteLength": 13200,
+      "sha256": "c86bb21a012b9a57baf431280618e359beabdf36a226182f01df14ce3f8b7fc9"
+    },
+    {
+      "path": "noname/library/zhanfa.js",
+      "byteLength": 86542,
+      "sha256": "6f2075931c35b44dbaece78775ad5f24a59e9cf988af819b43fc5d18e52ad012"
+    },
+    {
+      "path": "noname/status/index.js",
+      "byteLength": 3610,
+      "sha256": "96ea11359cf6ff0e02a863d80c7317f87db18383ecad96ff9ad3ea95e43cc1ca"
+    },
+    {
+      "path": "noname/ui/click/index.js",
+      "byteLength": 165947,
+      "sha256": "804b2c38e730d56650ea237c72184d94dc81ae24cf94c8b405d557f5c763653f"
+    },
+    {
+      "path": "noname/ui/create/index.js",
+      "byteLength": 144248,
+      "sha256": "46b3e89cdfa0ed6aba9043d77242848e65b5c6e1453bfffacc7da990e6ed119f"
+    },
+    {
+      "path": "noname/ui/create/menu/index.js",
+      "byteLength": 15671,
+      "sha256": "27b2460c6dcb751e493625697d1e18965613c791dc0f32cf5afaeb05baaf0ac4"
+    },
+    {
+      "path": "noname/ui/create/menu/pages/cardPackMenu.js",
+      "byteLength": 24266,
+      "sha256": "a66d8f3d7070661a9fc72fc74553445ce3fe3fae64aa86792eaa8e802ffbe07b"
+    },
+    {
+      "path": "noname/ui/create/menu/pages/characterPackMenu.js",
+      "byteLength": 17704,
+      "sha256": "a1835c17b11bbf9f45c66420d625741c910b7cc45082a40e0f520dc04f622deb"
+    },
+    {
+      "path": "noname/ui/create/menu/pages/exetensionMenu.js",
+      "byteLength": 109426,
+      "sha256": "f63dbe1a07f8380b04d9d1465e124dde646130c6b8470c01413c897a36d93594"
+    },
+    {
+      "path": "noname/ui/create/menu/pages/optionsMenu.js",
+      "byteLength": 40156,
+      "sha256": "3b1dbef1ffd2d8770cb07665c6220c4be25652d328ed16c1135e518c801e18fd"
+    },
+    {
+      "path": "noname/ui/create/menu/pages/otherMenu.js",
+      "byteLength": 38548,
+      "sha256": "d268ff1d14633550021cfd1daf0f628dc9ccfbe289cdb35633f945ed12c716f8"
+    },
+    {
+      "path": "noname/ui/create/menu/pages/startMenu.js",
+      "byteLength": 13669,
+      "sha256": "51808d473b41e227a559d26f5250fefc51c67713d15ac769a8c2ee6d0cb30ecb"
+    },
+    {
+      "path": "noname/ui/index.js",
+      "byteLength": 24829,
+      "sha256": "a3fbad96d8d30b858c502f790cd2199e4350a9d662fdc7cfeaf6f955c791e1c6"
+    },
+    {
+      "path": "noname/util/config.js",
+      "byteLength": 2297,
+      "sha256": "770a5bccffbdca9222c735c55cfca2b4363d22d57958222294ce8ed2f39fed6f"
+    },
+    {
+      "path": "noname/util/error.js",
+      "byteLength": 7703,
+      "sha256": "ecb89d6e9fbf2477d541e2e5b72b00395ea80e5f8b73e6066ee44f71ff6e0e19"
+    },
+    {
+      "path": "noname/util/index.js",
+      "byteLength": 1485,
+      "sha256": "0eef7d40049674417ad23a3de6220a7a73ccf3c87aabad27ea944d9a876a17d6"
+    },
+    {
+      "path": "noname/util/meta.js",
+      "byteLength": 1368,
+      "sha256": "487a68923d158ec7a3a0c61aacf274afeee39c900d25305d0f2b69d819c9deb3"
+    },
+    {
+      "path": "noname/util/pagination.js",
+      "byteLength": 12094,
+      "sha256": "21bf414f4c9cbb03bbf5649f72253fc585f6706f1b74c43acae1777a65dd1a51"
+    },
+    {
+      "path": "noname/util/sandbox.js",
+      "byteLength": 294,
+      "sha256": "7502192a91e770a17cc2c2873bb6f87576697027ce1133749c4df4fd346e3db5"
+    },
+    {
+      "path": "noname/util/sandbox/error.js",
+      "byteLength": 7155,
+      "sha256": "193cf90126ac17f59849f6db4e76aba0a771d7de46e990310a8b95bbdf8b10d0"
+    },
+    {
+      "path": "noname/util/sandbox/initRealms.js",
+      "byteLength": 2981,
+      "sha256": "c3a4f45e63b45cb23cc1089d6cd4e09b71bfb30d0d8ffad323a57eb278eabed5"
+    },
+    {
+      "path": "noname/util/sandbox/sandbox.js",
+      "byteLength": 101756,
+      "sha256": "3c6e5d421f66ebdfb286e8bb47e416a7286b29f13a80ce56dc0ef160b3977e62"
+    },
+    {
+      "path": "noname/util/sandbox/security.js",
+      "byteLength": 19495,
+      "sha256": "b02ffb5e8fd22d85b74eb5a4e99ce7a36fcd15edaa0a4456ef241154c0d5483c"
+    },
+    {
+      "path": "noname/util/utils.js",
+      "byteLength": 1571,
+      "sha256": "a0ca16b78b5ff25c14ce9227ad4743a51362631ab70a52aa0a13178ee82f87b5"
+    },
+    {
+      "path": "preload.js",
+      "byteLength": 13475,
+      "sha256": "c85c3c09d65d9fdb2422c71d5c087dc8751c80e688db518d9301a819930d6a48"
+    },
+    {
+      "path": "sandbox-boot.js",
+      "byteLength": 4714,
+      "sha256": "ff5658aa0dca60cfa4b8d0c2bb393a408ad18e0e7c43f5c08dd8909e97f9b72b"
+    },
+    {
+      "path": "sandbox.html",
+      "byteLength": 553,
+      "sha256": "e4395d886382792a79bef34d0f298b92dfc29d16378dd4142babba85a532a431"
+    },
+    {
+      "path": "source.tar.gz",
+      "byteLength": 5950231,
+      "sha256": "f828c44c24324d7cb88f2ca48edbbea8ef4d1fb8685160ea637a0ec69abb7e35"
+    },
+    {
+      "path": "src/card/extra.js",
+      "byteLength": 41795,
+      "sha256": "7ed3c5c5ee25742047671658a1c6d5ae1367b38960fd4c6f2c6c1b4f59d748af"
+    },
+    {
+      "path": "src/card/guozhan.js",
+      "byteLength": 72196,
+      "sha256": "3f1dfb07e216f6788fb6c4e8baea954cfe3ad283406d8d85f330e86792b8024e"
+    },
+    {
+      "path": "src/card/huodong.js",
+      "byteLength": 72536,
+      "sha256": "54004a9974797ec8fdb90be60e1f59594104982bacebdaf35fccf7e661c988fd"
+    },
+    {
+      "path": "src/card/sp.js",
+      "byteLength": 19732,
+      "sha256": "f20a2d4d6174a9efa8b901842717c2248c0651c1b367d5b8f0d9b202a42f799b"
+    },
+    {
+      "path": "src/card/standard.js",
+      "byteLength": 153295,
+      "sha256": "9a33199a05a43ae9b5f5e8f52f5eeb3cf04b291f09f6ce8d9d0efd62e69de9c7"
+    },
+    {
+      "path": "src/card/xianxia.js",
+      "byteLength": 30251,
+      "sha256": "b841fa5dcc1000cafa6b00df4681cc932047963f959648693661b40254eeea1e"
+    },
+    {
+      "path": "src/card/yingbian.js",
+      "byteLength": 33674,
+      "sha256": "897e979fe344f01e97813831b8fc0c65058a5c637fb163533eb91204e069b6c7"
+    },
+    {
+      "path": "src/card/yongjian.js",
+      "byteLength": 27049,
+      "sha256": "f5db88f7ca5e2b182b3ac377c78b9f90a24c94ca4fb2bbfaf10b0e8556512f01"
+    },
+    {
+      "path": "src/card/zhulu.js",
+      "byteLength": 28822,
+      "sha256": "77a77b63e4b26d5a69e2217f13b9b9087317e42fc4c857321fa4a6f9dff34633"
+    },
+    {
+      "path": "src/character/bingshi/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/bingshi/character.js",
+      "byteLength": 3908,
+      "sha256": "95e60c68a7b06aa6d298343d163e44cf8609a828f6e54b63d182f3bc98d8486c"
+    },
+    {
+      "path": "src/character/bingshi/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/bingshi/characterTitle.js",
+      "byteLength": 989,
+      "sha256": "8912c59a298ded5520b156a50ea9fab5486c35c5b09bc3e7f3e42f8427b7e557"
+    },
+    {
+      "path": "src/character/bingshi/dynamicTranslate.js",
+      "byteLength": 2841,
+      "sha256": "d65aa930311d15572a523f0148c2a15dea32ba51f233dcaa68668d2f8a350425"
+    },
+    {
+      "path": "src/character/bingshi/index.js",
+      "byteLength": 1117,
+      "sha256": "5ee146a3f054b0a8273b0908df1ddb21c30423a4dddde1a1550e0ff722424cb5"
+    },
+    {
+      "path": "src/character/bingshi/intro.js",
+      "byteLength": 5298,
+      "sha256": "82d54033e2906392840a0c1bf6f34cbd17f7305cace37b9ca2b7f931cdfa0b5c"
+    },
+    {
+      "path": "src/character/bingshi/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/bingshi/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/bingshi/skill.js",
+      "byteLength": 234525,
+      "sha256": "4a092cb9287ae6c5bd283e41360975f18d8c08a937e6042b98fb5f4b1a9a61ac"
+    },
+    {
+      "path": "src/character/bingshi/sort.js",
+      "byteLength": 802,
+      "sha256": "88024de10d32a9e17ceb5fe1fc232bd7e47d1fa3638db7861dc83ad1c54a8280"
+    },
+    {
+      "path": "src/character/bingshi/translate.js",
+      "byteLength": 27528,
+      "sha256": "a53e929fed3531404dc20dbcbf8a34c26bb5f456ac542f7fde9dd5fd1f62865e"
+    },
+    {
+      "path": "src/character/bingshi/voices.js",
+      "byteLength": 17562,
+      "sha256": "858a280b6f782276c54907ae6dab9bad65cba71dd428207531a6a0f0c034d949"
+    },
+    {
+      "path": "src/character/clan/card.js",
+      "byteLength": 747,
+      "sha256": "fa24cdbb6676680f941ed6a5ad2937a48af25b7dd9f30e64c35f6ea556b222a1"
+    },
+    {
+      "path": "src/character/clan/character.js",
+      "byteLength": 5967,
+      "sha256": "d251f603d145b55a6724e7d2338e2ae387e3d85d314bdd558e0169547fbd284f"
+    },
+    {
+      "path": "src/character/clan/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/clan/characterTitle.js",
+      "byteLength": 1188,
+      "sha256": "3fbfd1532a16819ce2cd8a7b27aae8581dc0003ac425bdd1d148b788f8449aae"
+    },
+    {
+      "path": "src/character/clan/dynamicTranslate.js",
+      "byteLength": 3529,
+      "sha256": "41872f45220401d4ab7b475217c79b0c7b6f3027050a557253d9cf876ef7ac95"
+    },
+    {
+      "path": "src/character/clan/index.js",
+      "byteLength": 1029,
+      "sha256": "290ff6cb2d8c5b0d54b3776261073b9cd8f35d62822cf329f723b4f4601ada52"
+    },
+    {
+      "path": "src/character/clan/intro.js",
+      "byteLength": 11119,
+      "sha256": "3507c83163bbb99864de32951feef65960d434ca13d163eefa72c0281fbdd862"
+    },
+    {
+      "path": "src/character/clan/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/clan/skill.js",
+      "byteLength": 256307,
+      "sha256": "6cdada65ca9db8dcac8f0dde0e449eccb024b391dc52f5a6772cf35f30cf5f14"
+    },
+    {
+      "path": "src/character/clan/sort.js",
+      "byteLength": 1163,
+      "sha256": "b252bc71d03a2f8e22f50c0a1dbb3a60c76b9b03aae8baddb88f11336bbe5614"
+    },
+    {
+      "path": "src/character/clan/translate.js",
+      "byteLength": 26362,
+      "sha256": "eb5dbbf64a47babdd89b8b30c7cc5ee958578b2424fff346785b378e2d8f463e"
+    },
+    {
+      "path": "src/character/clan/voices.js",
+      "byteLength": 16627,
+      "sha256": "baf6b8ec706dc0614fb83c291fd39e7ab54d780a7b1132d6f7a63de148dca954"
+    },
+    {
+      "path": "src/character/collab/card.js",
+      "byteLength": 3157,
+      "sha256": "191739b82ef66e8789f3a7659ea7db015996258bb8ae8fa2a02a2d762759e75d"
+    },
+    {
+      "path": "src/character/collab/character.js",
+      "byteLength": 9453,
+      "sha256": "ed8817d4fe6edb96e9062b67fa7a15f25994c2a6b55a4261ad1036ca4e0fe83b"
+    },
+    {
+      "path": "src/character/collab/characterFilter.js",
+      "byteLength": 360,
+      "sha256": "649f60be9937003ad81a459beed228b9911a20390ae4bc86aaf6632dbfe5ba4d"
+    },
+    {
+      "path": "src/character/collab/characterTitle.js",
+      "byteLength": 2631,
+      "sha256": "62ef6fea2d5c057e8c2e91b560f6e253521106fad64b824cbe6a47f9a9425ae6"
+    },
+    {
+      "path": "src/character/collab/dynamicTranslate.js",
+      "byteLength": 3293,
+      "sha256": "470ca1c0799dab70f36512eb5cbdf83702940efae1e905f43aca512f705326dc"
+    },
+    {
+      "path": "src/character/collab/index.js",
+      "byteLength": 1514,
+      "sha256": "ad306570be3fb7aa3df9e9e6835534a54fe352f405c35656f6bc2bf8ffd9331f"
+    },
+    {
+      "path": "src/character/collab/intro.js",
+      "byteLength": 19469,
+      "sha256": "bfa3ee451c11b7362abe9a6681b8cd0a82a6cc3a6f3cc3453ace03bb4ecc2040"
+    },
+    {
+      "path": "src/character/collab/pinyin.js",
+      "byteLength": 69,
+      "sha256": "5db4501a6b8020c4b7b0c23f2d8182dbc423567626a0b6f677f439d0dc0b20e8"
+    },
+    {
+      "path": "src/character/collab/skill.js",
+      "byteLength": 319971,
+      "sha256": "74de691eaeaf05c55a4fdc9985258ac53d82038961827b9bf51a6ce5af39e43a"
+    },
+    {
+      "path": "src/character/collab/sort.js",
+      "byteLength": 2207,
+      "sha256": "b43b1285dc3d5349335a3d9626cd075d6b5cba38e8f2860e228272d7f83ae52b"
+    },
+    {
+      "path": "src/character/collab/translate.js",
+      "byteLength": 43965,
+      "sha256": "66476eb956d9f873fca7bfb06d281fbb06515c538c4ba18932b27b0557c5f268"
+    },
+    {
+      "path": "src/character/collab/voices.js",
+      "byteLength": 14626,
+      "sha256": "73c50189bee89d1144c9c3935f2e9b2ac31e3056f1f0dd3aade207036de4f421"
+    },
+    {
+      "path": "src/character/diy/card.js",
+      "byteLength": 1614,
+      "sha256": "08301700fc1730cf24f1cbc51e6df48c419ebd6c00df8b038f2038001ff50b96"
+    },
+    {
+      "path": "src/character/diy/character.js",
+      "byteLength": 7272,
+      "sha256": "756c2df43a3c4734d6947966bd64ca292086ff2c1d31eb8cc14f3ea7faa2e49d"
+    },
+    {
+      "path": "src/character/diy/characterFilter.js",
+      "byteLength": 206,
+      "sha256": "c13093a0f48d709a25817e8d691a67f3c191ba28a79f34bd32ef6cb753755eec"
+    },
+    {
+      "path": "src/character/diy/characterTitles.js",
+      "byteLength": 1567,
+      "sha256": "c41a33c025f34d720b2bbddc0d01bb6af6ff8f08a1809069db65a660ad9117bd"
+    },
+    {
+      "path": "src/character/diy/dynamicTranslate.js",
+      "byteLength": 5384,
+      "sha256": "d6d69fec6130e478ccc47383f03ed75b48c1eb5f34ef32d966dee6c941b71723"
+    },
+    {
+      "path": "src/character/diy/index.js",
+      "byteLength": 1268,
+      "sha256": "f806024b66b5d88afa3306401907b013ecdac7ca022849af983c14d66f03b794"
+    },
+    {
+      "path": "src/character/diy/intro.js",
+      "byteLength": 3141,
+      "sha256": "3314a50c1e726eb7ec89998f9260771e6f4a8cc256256ac873675e3f2113cd8f"
+    },
+    {
+      "path": "src/character/diy/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/diy/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/diy/skill.js",
+      "byteLength": 250426,
+      "sha256": "5de3e5f9237fef9354aa6d4ec2da40c1691658d070afc8f8920522424b19bd13"
+    },
+    {
+      "path": "src/character/diy/sort.js",
+      "byteLength": 1432,
+      "sha256": "472bcf0af3bd9aea171e8c3caa0f4963f3e6659bfdb724e4945013d65289a60e"
+    },
+    {
+      "path": "src/character/diy/translate.js",
+      "byteLength": 33328,
+      "sha256": "476fd5c1b48c1b6b6e345e9a3273e9b2ca256d614f66e054d00db284480380b9"
+    },
+    {
+      "path": "src/character/diy/voices.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/extra/card.js",
+      "byteLength": 4816,
+      "sha256": "684246f3f3258cf515e07ba1f22be47e66df1954a9a90ab8df9c66cf98e37cfc"
+    },
+    {
+      "path": "src/character/extra/character.js",
+      "byteLength": 1702,
+      "sha256": "0d65543e9f8764683454bbfeb3de262d9b62b09192322520f7d5cc98ea5f14b6"
+    },
+    {
+      "path": "src/character/extra/characterFilter.js",
+      "byteLength": 123,
+      "sha256": "7dbb36f54837dfe1122ca252f7caab4363ac58d3a0f6b554434b573e5d1ab02f"
+    },
+    {
+      "path": "src/character/extra/characterTitle.js",
+      "byteLength": 410,
+      "sha256": "7c1895e1585d785c6fde5165440454e0b176f8327446e074f5687a2a12850268"
+    },
+    {
+      "path": "src/character/extra/dynamicTranslate.js",
+      "byteLength": 828,
+      "sha256": "27c885724c23d6218e0d8d567b003f83d4e1833c522e0715e6d23c0c34bed1fb"
+    },
+    {
+      "path": "src/character/extra/index.js",
+      "byteLength": 1067,
+      "sha256": "e15505ed27d300579d6a1c9d7f351ee98db8b08981a8e9b9b74d9d50a438e37f"
+    },
+    {
+      "path": "src/character/extra/intro.js",
+      "byteLength": 1488,
+      "sha256": "f22cf0e4cd819359f7783d99c687b91a4d6aad8385f09220f29f05669052764c"
+    },
+    {
+      "path": "src/character/extra/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/extra/skill.js",
+      "byteLength": 111206,
+      "sha256": "0e5091bb755e02195007e14e130c99c0e41520597d755f8c2e1544c23d191700"
+    },
+    {
+      "path": "src/character/extra/sort.js",
+      "byteLength": 652,
+      "sha256": "11a8d965e9cec850e9fc2a2da69d7956759f4a61b400cb47b2c38c0da427d2ca"
+    },
+    {
+      "path": "src/character/extra/translate.js",
+      "byteLength": 15705,
+      "sha256": "6f3b48a4bb38529c439e8e6a70e8866c32d75be1f3b30c407649be98459c7646"
+    },
+    {
+      "path": "src/character/extra/voices.js",
+      "byteLength": 5311,
+      "sha256": "de0e5fcfb7021df3a521ffdb0af51e1d09183530b4bb9f5a38b4894178117d37"
+    },
+    {
+      "path": "src/character/huicui/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/huicui/character.js",
+      "byteLength": 12392,
+      "sha256": "d53250e104d56057c59af9b8495b6880ddc1f37e252c9b6be6122831b8a9db94"
+    },
+    {
+      "path": "src/character/huicui/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/huicui/characterTitle.js",
+      "byteLength": 3413,
+      "sha256": "f86e17b073dd224824dbb72a05264748f5973f7b47988aad086e6a7349195664"
+    },
+    {
+      "path": "src/character/huicui/dynamicTranslate.js",
+      "byteLength": 4791,
+      "sha256": "5f5e3e486d564ae0a6174d1ce8b5f5ef01e3cfbc1c74a6bc6e243c8114fc579b"
+    },
+    {
+      "path": "src/character/huicui/index.js",
+      "byteLength": 1033,
+      "sha256": "fa1343d8b22f188a146c06d8bc0c519356676c23f12313606dccaddd4c5de3df"
+    },
+    {
+      "path": "src/character/huicui/intro.js",
+      "byteLength": 30694,
+      "sha256": "35d38614d617ed7f0906b0f9178c1d7783562dab2ed8d5814ce9fa7289f76311"
+    },
+    {
+      "path": "src/character/huicui/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/huicui/skill.js",
+      "byteLength": 562165,
+      "sha256": "d1e6f368bb1ddeb115995c776edec3d29cfd57f98e3668c7311d78bf627ef0ff"
+    },
+    {
+      "path": "src/character/huicui/sort.js",
+      "byteLength": 2363,
+      "sha256": "b4931124a26192e14f41619991a1c75982b27ffe2ac4c1f15d14bb321f31d496"
+    },
+    {
+      "path": "src/character/huicui/translate.js",
+      "byteLength": 75658,
+      "sha256": "92a3d5bd2d0077daf8dafa4a66ba7a6495ca2aa1d64fcf76499524a4993a0121"
+    },
+    {
+      "path": "src/character/huicui/voices.js",
+      "byteLength": 31286,
+      "sha256": "ce826c9c006436edfaddf814d4c356b29374dcd72e77fa181cf483b81fa8a0f6"
+    },
+    {
+      "path": "src/character/jsrg/card.js",
+      "byteLength": 1346,
+      "sha256": "1813d8359a45b6a8f7aa54516bc40d41d74bfdb8eeadb61179a3bbf0ae90b046"
+    },
+    {
+      "path": "src/character/jsrg/character.js",
+      "byteLength": 9518,
+      "sha256": "731ecbcc2d853dda1ed91d16bc4a689fa57d52c37fd453ce93d05e0b6ea48ffc"
+    },
+    {
+      "path": "src/character/jsrg/characterFilter.js",
+      "byteLength": 303,
+      "sha256": "2617e1281c12fd5aa31f99740d4461ce741f3c2e8ebd7c7e23a0c5051ba223d4"
+    },
+    {
+      "path": "src/character/jsrg/characterTitle.js",
+      "byteLength": 2451,
+      "sha256": "4de1c45ff87d0280166f7d763b9df987905c953c3543faaba391849ae5a7207e"
+    },
+    {
+      "path": "src/character/jsrg/dynamicTranslate.js",
+      "byteLength": 1054,
+      "sha256": "2d3bf8f65171330f1427e8048a4ca78744ed28e09f5db6bc3d13e4f8ce7528f5"
+    },
+    {
+      "path": "src/character/jsrg/index.js",
+      "byteLength": 1106,
+      "sha256": "06a59735d12186e4115b3c3843974619bbd60c18f0e314a351b6929e2de5fb76"
+    },
+    {
+      "path": "src/character/jsrg/intro.js",
+      "byteLength": 17313,
+      "sha256": "4db43c21e82fa6b41ba5d94c1ee7458494d5c5232b1e44c38b7276d03df4d0f8"
+    },
+    {
+      "path": "src/character/jsrg/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/jsrg/skill.js",
+      "byteLength": 395960,
+      "sha256": "b2379ff65ac3c165421b6bb919dc2b4c762901b11dabe3576ce7e4be9bc4efe7"
+    },
+    {
+      "path": "src/character/jsrg/sort.js",
+      "byteLength": 1788,
+      "sha256": "5b79d1b8f763d16071472ccb3cca53775934e260cdfd1ccb624245a39d209a41"
+    },
+    {
+      "path": "src/character/jsrg/translate.js",
+      "byteLength": 49298,
+      "sha256": "2da007d7d0dd95c2690ef7fc14895b27a8242b6625695919edceec844abef6e9"
+    },
+    {
+      "path": "src/character/jsrg/voices.js",
+      "byteLength": 8592,
+      "sha256": "d433d35f93d6541db32fa9aac0b85e7208d2fa9f916163ee2453ee640f60ea40"
+    },
+    {
+      "path": "src/character/key/card.js",
+      "byteLength": 2300,
+      "sha256": "72d0feeaf42e5d2230033cd56c0276f81e36b735425e05dfb57b6b428bf2dff3"
+    },
+    {
+      "path": "src/character/key/character.js",
+      "byteLength": 11971,
+      "sha256": "c493f3def7fdcf49760c426908e71132f3be6a8f246be0dce25d750565fa2600"
+    },
+    {
+      "path": "src/character/key/index.js",
+      "byteLength": 1692,
+      "sha256": "78affb7d3d9f2e47db753940315547dfbb41d1ae472758f2e804e489a199c08c"
+    },
+    {
+      "path": "src/character/key/pinyin.js",
+      "byteLength": 3400,
+      "sha256": "99652474c6709663336b5f5169eb2b911b6db193470991eb2899918d3df95b14"
+    },
+    {
+      "path": "src/character/key/skill.js",
+      "byteLength": 337163,
+      "sha256": "23f48ab3b838d89bd62fa76468fc338d21da98e6a33bb67740ca6138ad658548"
+    },
+    {
+      "path": "src/character/key/sort.js",
+      "byteLength": 1975,
+      "sha256": "3ba8fe201abb7e75ccf5a4a2df1912e65bc5087516a95bcd292d7726fe95453c"
+    },
+    {
+      "path": "src/character/key/translate.js",
+      "byteLength": 60865,
+      "sha256": "ce54116a87c87010ac8c2a8728be5d99d550fbde7e412d7dfb8f73806c15eac5"
+    },
+    {
+      "path": "src/character/key/voices.js",
+      "byteLength": 3910,
+      "sha256": "3acf5aec38c9e0878412cb43ef303332b6cabeaabcfc5be8cddd826a838c78ed"
+    },
+    {
+      "path": "src/character/mobile/card.js",
+      "byteLength": 7260,
+      "sha256": "2f01df2002c65fa4922b48ab69afac212dd4ac7c5e4c18ce3a4416eac06c40a0"
+    },
+    {
+      "path": "src/character/mobile/character.js",
+      "byteLength": 23272,
+      "sha256": "25152352af3887c8b5cdfc7605fe66beafcf6e360fd54e38c22e7f7a2d2aba34"
+    },
+    {
+      "path": "src/character/mobile/characterFilter.js",
+      "byteLength": 306,
+      "sha256": "8bd09b43a50255b344673c2f57482c835a463a2bda4d54a85f61f6b055d0a96d"
+    },
+    {
+      "path": "src/character/mobile/characterTitle.js",
+      "byteLength": 5996,
+      "sha256": "e76e24502c3059065a91a535a23402a17fe20ac254ff4b27346d763a612bdb31"
+    },
+    {
+      "path": "src/character/mobile/dynamicTranslate.js",
+      "byteLength": 6675,
+      "sha256": "c8bae464b7423febb48a2559b8f79811305fbab89a7b3ec4f40f64a392ae5374"
+    },
+    {
+      "path": "src/character/mobile/index.js",
+      "byteLength": 3093,
+      "sha256": "b26eec25d4a4bfceabd72be8677320d7fd8ebeb2e40158ff15dcbbde4cc404ea"
+    },
+    {
+      "path": "src/character/mobile/intro.js",
+      "byteLength": 33466,
+      "sha256": "c606c2f083efb53a704cc2cbe5c2b7d91b972ef31a67f0b7b774015a46d4d535"
+    },
+    {
+      "path": "src/character/mobile/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/mobile/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/mobile/skill.js",
+      "byteLength": 962290,
+      "sha256": "149bbb60e5e4ceae55b559b1252108b4da479eac91ea66deb0491465ce42d508"
+    },
+    {
+      "path": "src/character/mobile/sort.js",
+      "byteLength": 5230,
+      "sha256": "77f77aa068be77e80f5e612b83e62783980081811713c359a72bba631eab9137"
+    },
+    {
+      "path": "src/character/mobile/translate.js",
+      "byteLength": 132867,
+      "sha256": "d580264cb3e13da25f2f22f97819e953534745d526edc98369f1fe0d49f0e0d3"
+    },
+    {
+      "path": "src/character/mobile/voices.js",
+      "byteLength": 58008,
+      "sha256": "b29fd7fd1f0932377c167a0899a4358aba08e180330300f6f25a118fc8b14241"
+    },
+    {
+      "path": "src/character/newjiang/card.js",
+      "byteLength": 2738,
+      "sha256": "54f3f179194de77019137fc88e1c1fd44e4bd696d40734e5956e0e8bf24e55e4"
+    },
+    {
+      "path": "src/character/newjiang/character.js",
+      "byteLength": 4384,
+      "sha256": "122247b84aa3aa4bc05abeca248295b49ea8bb72b77998601d50a553a3ce6e0d"
+    },
+    {
+      "path": "src/character/newjiang/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/newjiang/characterTitle.js",
+      "byteLength": 1294,
+      "sha256": "60c237a617bdee3fa295cdaff5f98cdf196602efbe39595663cd1e5db36ad363"
+    },
+    {
+      "path": "src/character/newjiang/dynamicTranslate.js",
+      "byteLength": 2967,
+      "sha256": "cf3a16707d6c9318930ab11e9b9c3c0eae3c22c00f0bc34bdc9973ae36a859dc"
+    },
+    {
+      "path": "src/character/newjiang/index.js",
+      "byteLength": 1197,
+      "sha256": "b475cb438308dfa92673f35d2f7c37b77f6afdd8f86c960bf2111d7fc4e232da"
+    },
+    {
+      "path": "src/character/newjiang/intro.js",
+      "byteLength": 12034,
+      "sha256": "7140708324334ff37104b55729e062937009681ce4859f97fdd8a2c19c4ca190"
+    },
+    {
+      "path": "src/character/newjiang/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/newjiang/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/newjiang/skill.js",
+      "byteLength": 220314,
+      "sha256": "cf4932ac764bb8c7f23a9aaa35892878641561de3c627436e79cdebcd134ea31"
+    },
+    {
+      "path": "src/character/newjiang/sort.js",
+      "byteLength": 986,
+      "sha256": "deb7dedcd107f5a78fa7cff1575c7861f2c9c5a55ea6f689547be111c6f9e7ea"
+    },
+    {
+      "path": "src/character/newjiang/translate.js",
+      "byteLength": 28677,
+      "sha256": "96572c99af4249c3bc40c75c49f7256128b3547550bfe104fcbfd03ffb38a22d"
+    },
+    {
+      "path": "src/character/newjiang/voices.js",
+      "byteLength": 10914,
+      "sha256": "f168ce1f933012995a2482677a8e617a3e217639cfb8db10b9973a19e4487f49"
+    },
+    {
+      "path": "src/character/offline/card.js",
+      "byteLength": 26520,
+      "sha256": "a6d9efc9494171f67a8cc04b97a162f8a6fcf92d90b29911ec7189eb8472a9f5"
+    },
+    {
+      "path": "src/character/offline/character.js",
+      "byteLength": 47030,
+      "sha256": "4d94107505816cce511dc6c6922f033fe3a30420e59db166eb0cba2bd2273939"
+    },
+    {
+      "path": "src/character/offline/characterFilter.js",
+      "byteLength": 396,
+      "sha256": "c7a0b7601329fe2c0f56a45f2c895b72730fdd8acd07118287e712c2cbcd685f"
+    },
+    {
+      "path": "src/character/offline/characterTitle.js",
+      "byteLength": 12335,
+      "sha256": "2f45ef6736305dc3becb47a885792b60fccf0f71d2a41766654e3d3f731d3ea0"
+    },
+    {
+      "path": "src/character/offline/dynamicTranslate.js",
+      "byteLength": 12080,
+      "sha256": "367c037d7a4ddbb56b139c0a83733f5baadc978d3feb45b4bcce5a5bdee79250"
+    },
+    {
+      "path": "src/character/offline/index.js",
+      "byteLength": 1759,
+      "sha256": "3d7a75ac1021f4ec76ab515b1d37e38e67ae8598ffabaddd9f31327efba88a00"
+    },
+    {
+      "path": "src/character/offline/intro.js",
+      "byteLength": 45426,
+      "sha256": "aff26fdf6bcd756259df838ab21b6fc04ae10960e64f13bfe4b7fc2df4d78a82"
+    },
+    {
+      "path": "src/character/offline/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/offline/skill/extra_offline.js",
+      "byteLength": 109887,
+      "sha256": "79dc09388796525a320cbe9ee85867ffa9f6d62b9261bdfd01480a621f063174"
+    },
+    {
+      "path": "src/character/offline/skill/offline_Europe.js",
+      "byteLength": 17759,
+      "sha256": "2929564710fb00569180e47d68ca2151c2bf08cbe340f0af7193c8197d5daac9"
+    },
+    {
+      "path": "src/character/offline/skill/offline_changan.js",
+      "byteLength": 60359,
+      "sha256": "02927a69527883c25689690794e6ee74179873c6b7e714c67b65a83b7dd8659f"
+    },
+    {
+      "path": "src/character/offline/skill/offline_chunqiu.js",
+      "byteLength": 40144,
+      "sha256": "186e6f753302c8e44e4157974ed625e6b23a09bcd8ef5b7b02fa199712c419d1"
+    },
+    {
+      "path": "src/character/offline/skill/offline_fengyun.js",
+      "byteLength": 16298,
+      "sha256": "3e167bb3342a4e06ff891a17f07d437ac5d768daeece6064deb04e731c182c62"
+    },
+    {
+      "path": "src/character/offline/skill/offline_guansuo.js",
+      "byteLength": 41693,
+      "sha256": "98208ada4cf3556841331de5b1fada8e0964b45c63a97bc84c100533bf8beda0"
+    },
+    {
+      "path": "src/character/offline/skill/offline_hanmo.js",
+      "byteLength": 73162,
+      "sha256": "d1e834325b95ceb52f29497702b91c04e9221d58f59706605809ea871f7289db"
+    },
+    {
+      "path": "src/character/offline/skill/offline_jingxiang.js",
+      "byteLength": 12393,
+      "sha256": "27a5a1e147a347f4a53d2ea3a420fef7f87a6fc93b75b451fb64444d9f63bae0"
+    },
+    {
+      "path": "src/character/offline/skill/offline_jingyang.js",
+      "byteLength": 20417,
+      "sha256": "ca2b5161aa6ac00b358958af61147594e7e077efad070f7c21bcaa38b4b3d110"
+    },
+    {
+      "path": "src/character/offline/skill/offline_jiudin.js",
+      "byteLength": 77371,
+      "sha256": "77f1dc586fc8b92d268442f8fcadc005c860a5cc5f1095decb8fd17686662ede"
+    },
+    {
+      "path": "src/character/offline/skill/offline_juedai.js",
+      "byteLength": 83226,
+      "sha256": "e624b3282ac3b75fe11c97d1ada6dcdbfd5047791c66dcb5cdd9c5b040284a94"
+    },
+    {
+      "path": "src/character/offline/skill/offline_longxuexuanhuang.js",
+      "byteLength": 56490,
+      "sha256": "70d9e0ec7f55fd2643a59ee641efc342d7065704b83646d09d2f7fa03a27f3e7"
+    },
+    {
+      "path": "src/character/offline/skill/offline_longyutao.js",
+      "byteLength": 21032,
+      "sha256": "16da793a2cc52a9d03c3336ed49f3369fdbc9ec803c115671c68d3a3cdd955fe"
+    },
+    {
+      "path": "src/character/offline/skill/offline_luanwu.js",
+      "byteLength": 4488,
+      "sha256": "78cffce4946ef610e3b3c04dcee02e0aa999082f3535fa6b9322af2921f58054"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyE.js",
+      "byteLength": 124553,
+      "sha256": "4ea4b941ff56f2252ba5445bf2b406b065c923900898ca387cc07449c6c60e8d"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyE_hl.js",
+      "byteLength": 24896,
+      "sha256": "dc4ee83e90558c880303b74f3275b5661b7b2419e0bff9f7eb4ada810de70507"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyE_jb.js",
+      "byteLength": 30170,
+      "sha256": "399d87134ddf335399304f9a8866e2584c13aee011a59b9b890be138c6201465"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyE_shenmo.js",
+      "byteLength": 26196,
+      "sha256": "a5bbf0f7db316798d99d509f4f8a11ff73a9fba3c35437d2e3a1180662051440"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyE_xk.js",
+      "byteLength": 26958,
+      "sha256": "3163d37209ca86ed4059914cf516f33dc3935a9c01d0381e46773d72aac891d2"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyE_zy.js",
+      "byteLength": 23300,
+      "sha256": "b4b474a0b81a10b2fd5ccbcbfe017c3355ff4fe8e8c573e766669ee9325ba4a9"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyK.js",
+      "byteLength": 3763,
+      "sha256": "dfe4829d229bbfe01558e12cb779f419be337ff1881ecddcf554310fd9b48f42"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyS.js",
+      "byteLength": 66057,
+      "sha256": "36a831d5b0553bfb785674bd3d7e95cf058bd3054fc95f51231a466f3140662a"
+    },
+    {
+      "path": "src/character/offline/skill/offline_piracyS_shenmo.js",
+      "byteLength": 31682,
+      "sha256": "0c93ec81d25bcbe5168b7a9bd1e479b04d985574fd124e84b4c0a49927b557bf"
+    },
+    {
+      "path": "src/character/offline/skill/offline_prettyDerby.js",
+      "byteLength": 30868,
+      "sha256": "aa3df208119c3bab5add19b3e24092d8dcf5083a16c6efabf04edb210ec3c097"
+    },
+    {
+      "path": "src/character/offline/skill/offline_qingshi.js",
+      "byteLength": 37446,
+      "sha256": "80a3b410e2c5f3dd4b617692cc21ba97662d2fc947025c2e3c87d02bd619547a"
+    },
+    {
+      "path": "src/character/offline/skill/offline_scl.js",
+      "byteLength": 28950,
+      "sha256": "afaa2979f0faa894d7a0dfc3f6b12961d951cd26494a75c1b8c85687da73c439"
+    },
+    {
+      "path": "src/character/offline/skill/offline_shichangshi.js",
+      "byteLength": 25545,
+      "sha256": "2655a38120927c3ee473aacabb76e6727840e755659d2f9efb7d1e63b20b8a9d"
+    },
+    {
+      "path": "src/character/offline/skill/offline_shiningGrils.js",
+      "byteLength": 52993,
+      "sha256": "9860207ade06a01e5b4032fc6d7829f84e3bf61ee0da9820dc2b3910e0d78ff7"
+    },
+    {
+      "path": "src/character/offline/skill/offline_star.js",
+      "byteLength": 40118,
+      "sha256": "72d77b0d3a709c43d74069e8cebd560f21d3f57e01651d625651f304a0c8d4b2"
+    },
+    {
+      "path": "src/character/offline/skill/offline_sticker.js",
+      "byteLength": 15779,
+      "sha256": "dabf1644ed67617cfaeb4e4bb719b18947fcb6ed5501301930ac88b03dd75aac"
+    },
+    {
+      "path": "src/character/offline/skill/offline_taoyuan.js",
+      "byteLength": 88892,
+      "sha256": "b9802626ba5d6e822542a03b5245676959cc8c7941f8f0d8cf5b30e0a08c4b6c"
+    },
+    {
+      "path": "src/character/offline/skill/offline_vtuber.js",
+      "byteLength": 14094,
+      "sha256": "dbf1e4190663d2e37e07fdc6b212daa087e4d08d89613453f18c8b2f92c6ea50"
+    },
+    {
+      "path": "src/character/offline/skill/offline_weinan.js",
+      "byteLength": 25653,
+      "sha256": "0325a4702d5ad6ff44d22464f52aed0a39a0c02ccd751897bfa6e2eccc569239"
+    },
+    {
+      "path": "src/character/offline/skill/offline_wenxindiaolong.js",
+      "byteLength": 50914,
+      "sha256": "49654b36b9e8af48971384cd2a48b0f18ede611f1b1fd8e9372c06572013dabe"
+    },
+    {
+      "path": "src/character/offline/skill/offline_xy.js",
+      "byteLength": 20523,
+      "sha256": "a55955f5b650723ec3bf3b9d70c8600a9b4085b4817a0c9fdd4e38a99b216d11"
+    },
+    {
+      "path": "src/character/offline/skill/offline_yanling.js",
+      "byteLength": 37701,
+      "sha256": "00cf1cdd8b22a70f92c9c3d4e6ff55572d4887870912cca1d31c5c29d5292ebd"
+    },
+    {
+      "path": "src/character/offline/skill/offline_yanyou.js",
+      "byteLength": 16598,
+      "sha256": "90845c2af63a4ae5ef6cd06625d8e9cf828731b398855916b456c1d615ad1a82"
+    },
+    {
+      "path": "src/character/offline/skill/offline_yongjian.js",
+      "byteLength": 28020,
+      "sha256": "8b8ee89039e135b85ffb5c203f38235d8d69c09c515a19a3e62c83b7cdec3c5b"
+    },
+    {
+      "path": "src/character/offline/skill/offline_zc26.js",
+      "byteLength": 22241,
+      "sha256": "58bfe126a83f90ba4295f933dcbafd52cb4b449baf227f7d675f177aafbc9143"
+    },
+    {
+      "path": "src/character/offline/skill/offline_zongheng.js",
+      "byteLength": 5588,
+      "sha256": "9eefeac1828d14d117f462f3ae75c3e10a28d3e5cfc286884234c22038695173"
+    },
+    {
+      "path": "src/character/offline/sort.js",
+      "byteLength": 8646,
+      "sha256": "019720de79d73741fe2fca45123ad6e46ae640426631a22feb0e087c5fff7c51"
+    },
+    {
+      "path": "src/character/offline/translate.js",
+      "byteLength": 215158,
+      "sha256": "dabd4140737559fa9e2bd705a5d44d6b24a238154f8969014777a4db4a804541"
+    },
+    {
+      "path": "src/character/offline/voices.js",
+      "byteLength": 4201,
+      "sha256": "e4a506543d497fe5d51313a364e17a6ca4878672ba3af6df893ed5a43f1f0df5"
+    },
+    {
+      "path": "src/character/old/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/old/character.js",
+      "byteLength": 9868,
+      "sha256": "0f3eaa77c67b2f4f6d72bc6fb2160f8775a72d753a57ca4dbee8c4f3bb2c39fa"
+    },
+    {
+      "path": "src/character/old/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/old/characterTitle.js",
+      "byteLength": 1987,
+      "sha256": "d5bb8e29dd93e966918c1f45129c60e93e5f5b53a04b7b09782e3fb64a036f42"
+    },
+    {
+      "path": "src/character/old/dynamicTranslate.js",
+      "byteLength": 723,
+      "sha256": "cb65481ed65e120f86cce797ac75ab1d5df22833049d31342cc37e27ef935561"
+    },
+    {
+      "path": "src/character/old/index.js",
+      "byteLength": 1027,
+      "sha256": "7d0724944a333471ea011881eb15cd9c15e6a17fd8b2bd341583d78a6270fd28"
+    },
+    {
+      "path": "src/character/old/intro.js",
+      "byteLength": 59,
+      "sha256": "106817548ed643939e5ec291b61b6b6411b724504a92c64112365cdaee628138"
+    },
+    {
+      "path": "src/character/old/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/old/skill.js",
+      "byteLength": 63082,
+      "sha256": "6de6e7ae067cde6ae1634cb578abe3935218a2a9f2b67d58137d359be65d5a9f"
+    },
+    {
+      "path": "src/character/old/sort.js",
+      "byteLength": 1850,
+      "sha256": "cd83ae1f75c0af08cdd53a6bcbea1d3e1f2f35191ed7d418ac9b4d6ce63cf36b"
+    },
+    {
+      "path": "src/character/old/translate.js",
+      "byteLength": 9519,
+      "sha256": "b121d5393e76e4fce25ae8c728c418ab182c793fe3c22783acd424b18e4f527e"
+    },
+    {
+      "path": "src/character/old/voices.js",
+      "byteLength": 3850,
+      "sha256": "dbeabfd3749fb26e2d5a3cf6958dca29973292527ca27975d0dda3f662f1eccc"
+    },
+    {
+      "path": "src/character/onlyOL/card.js",
+      "byteLength": 2574,
+      "sha256": "c043ac83ac058978efb58e2a0a33a2b45d0e93b7ae6d824386bdbee7bf995d26"
+    },
+    {
+      "path": "src/character/onlyOL/character.js",
+      "byteLength": 9788,
+      "sha256": "6deb7cb620e90603063dbb3b8c87f3af32202bd5c762b526b800cacb8cc16202"
+    },
+    {
+      "path": "src/character/onlyOL/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/onlyOL/characterTitle.js",
+      "byteLength": 3076,
+      "sha256": "b41f2b1dd0be84f74844462759986293eec2edf7c7fcb8ec0a7fc0a71b5944d5"
+    },
+    {
+      "path": "src/character/onlyOL/dynamicTranslate.js",
+      "byteLength": 3384,
+      "sha256": "0b477e1152e80f7d03333b9613eaa883da9b8650b125c6d00e60ed982965a936"
+    },
+    {
+      "path": "src/character/onlyOL/index.js",
+      "byteLength": 1403,
+      "sha256": "b8fe58c0216bec83d24bb809e56aa10468b87fe7eaa4365738760bb4fdb85425"
+    },
+    {
+      "path": "src/character/onlyOL/intro.js",
+      "byteLength": 59,
+      "sha256": "106817548ed643939e5ec291b61b6b6411b724504a92c64112365cdaee628138"
+    },
+    {
+      "path": "src/character/onlyOL/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/onlyOL/skill.js",
+      "byteLength": 461594,
+      "sha256": "8e3263a780f17c69d2f060e421289b353b8ba58e7bb43e9d938cf6bede5609c1"
+    },
+    {
+      "path": "src/character/onlyOL/sort.js",
+      "byteLength": 2564,
+      "sha256": "bfc1ab25af9ddb20a5b7fca1f2f84fe9121ced842a59322a6a669d0a75adf748"
+    },
+    {
+      "path": "src/character/onlyOL/translate.js",
+      "byteLength": 55659,
+      "sha256": "92b756b297f6269178d8166c3d58409da9652276289d26bcb907c1e6b8d6aea0"
+    },
+    {
+      "path": "src/character/onlyOL/voices.js",
+      "byteLength": 26617,
+      "sha256": "204dd23ac7deed8f53c1cc62dfa0833e6200200b95731807fa600baeaafb1ff5"
+    },
+    {
+      "path": "src/character/refresh/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/refresh/character.js",
+      "byteLength": 13581,
+      "sha256": "ac5045f6c9eda9a074c6e21954872fad9a017f82e6c9d34d19a94df9a33b716d"
+    },
+    {
+      "path": "src/character/refresh/characterFilter.js",
+      "byteLength": 173,
+      "sha256": "e818176ca28a4d3384598f0d6bb5c8f58b3a66396d89da05ddd552a8c0e7d5b7"
+    },
+    {
+      "path": "src/character/refresh/characterTitle.js",
+      "byteLength": 3838,
+      "sha256": "f0ada98a5e3e660ed4297f645e0a7ed8b7b510d12bb7d7ab4453eadc70806eed"
+    },
+    {
+      "path": "src/character/refresh/dynamicTranslate.js",
+      "byteLength": 1298,
+      "sha256": "40c35b62db31499b8f2dfcefad1257a261c46bf998f4acedf5323a51cc72f80f"
+    },
+    {
+      "path": "src/character/refresh/index.js",
+      "byteLength": 1117,
+      "sha256": "2189ddad117154eda491003b7fc3815f933f4fc1152fc2e81c32a5e430d22e24"
+    },
+    {
+      "path": "src/character/refresh/intro.js",
+      "byteLength": 781,
+      "sha256": "3891c23b7adf12468200eb70a218e978c1075e49ae9dcb0a04a2134f7f84e3be"
+    },
+    {
+      "path": "src/character/refresh/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/refresh/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/refresh/skill.js",
+      "byteLength": 488161,
+      "sha256": "4334aab9c83677e0a79a1fcac82f3660ca2bb2f05eaf313ed36df93b8aa80f10"
+    },
+    {
+      "path": "src/character/refresh/sort.js",
+      "byteLength": 2670,
+      "sha256": "5f009f9b2d9abfdf0408783312dab0ea697ae66af7d5be062f17495610a67df1"
+    },
+    {
+      "path": "src/character/refresh/translate.js",
+      "byteLength": 69935,
+      "sha256": "289681f65786e9c9e71f4fcf920911a1cca622c2bd6c664dd247a5d545bb619b"
+    },
+    {
+      "path": "src/character/refresh/voices.js",
+      "byteLength": 35857,
+      "sha256": "8dd9d2415068e6b008c7a457769453333d103f308e7fc8baa80b783f3634cabf"
+    },
+    {
+      "path": "src/character/sb/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/sb/character.js",
+      "byteLength": 6013,
+      "sha256": "f761e925e8296910f64546202d484218cba923335342d3f69cf71e239e58fa7b"
+    },
+    {
+      "path": "src/character/sb/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/sb/characterTitle.js",
+      "byteLength": 1596,
+      "sha256": "d7bcc80560c3d8da7caed8c18b1a9afbe5857ecd73567b06f912cf8f34e975ad"
+    },
+    {
+      "path": "src/character/sb/dynamicTranslate.js",
+      "byteLength": 4306,
+      "sha256": "088d33a0de2ccbfc0edb89d5f152ce16cac63348ce5e704a463079e3d0bb27a6"
+    },
+    {
+      "path": "src/character/sb/index.js",
+      "byteLength": 1156,
+      "sha256": "8e5b23520fdf99eb6bce7331f4e1537b7e659c271ee2048479bbef81c95e0cbb"
+    },
+    {
+      "path": "src/character/sb/intro.js",
+      "byteLength": 59,
+      "sha256": "106817548ed643939e5ec291b61b6b6411b724504a92c64112365cdaee628138"
+    },
+    {
+      "path": "src/character/sb/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/sb/skill.js",
+      "byteLength": 335868,
+      "sha256": "d60fdab91a26c4fad46baa98c3c4791a096e2ed10da1d6bfc687a43d52aa080b"
+    },
+    {
+      "path": "src/character/sb/sort.js",
+      "byteLength": 1147,
+      "sha256": "68b73f882b457f628724a1089b3777000b62459f9762c6a02999582ac444eeb6"
+    },
+    {
+      "path": "src/character/sb/translate.js",
+      "byteLength": 45925,
+      "sha256": "e7c66c83b2f2f9d5d791ae66f79590ed7e48a9fe6211dc98b8d058bacdabe498"
+    },
+    {
+      "path": "src/character/sb/voices.js",
+      "byteLength": 19117,
+      "sha256": "9a3b077634a64f49b79c6c0f4e6f07a2c9ff43ebf99292249f71ea138e5dbd94"
+    },
+    {
+      "path": "src/character/shenhua/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/shenhua/character.js",
+      "byteLength": 5274,
+      "sha256": "2b615c4533ef3068a36cf234145f4908a349fe8bff430dd04acf877f58cad515"
+    },
+    {
+      "path": "src/character/shenhua/characterFilter.js",
+      "byteLength": 170,
+      "sha256": "12f6fc1b9f3807a9e3d09adc45e46feeafbf86f9cd344c671a4e0fd39a19a613"
+    },
+    {
+      "path": "src/character/shenhua/characterTitle.js",
+      "byteLength": 1626,
+      "sha256": "284345c9651479b9587b4c26155d6fad35e64b7a7ad82a3bf3b022064f6fd122"
+    },
+    {
+      "path": "src/character/shenhua/dynamicTranslate.js",
+      "byteLength": 2764,
+      "sha256": "6ef396a3d6b2638efbeb9bf2f17c34ec386015a9df0545911df07ebbb81e2d46"
+    },
+    {
+      "path": "src/character/shenhua/index.js",
+      "byteLength": 1117,
+      "sha256": "d0de0b6bd0690e013b92a3c5b0c856dd1c9905bfb5aaa18a7c034095d531c08d"
+    },
+    {
+      "path": "src/character/shenhua/intro.js",
+      "byteLength": 16434,
+      "sha256": "53180494efadb9b18669651f38f986b090da4b0f86b4cc119aa7c669335fa587"
+    },
+    {
+      "path": "src/character/shenhua/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/shenhua/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/shenhua/skill.js",
+      "byteLength": 253528,
+      "sha256": "8a3412279fb82aef60f226d2e5d034605459036aabed0290d4a7146dca8e369f"
+    },
+    {
+      "path": "src/character/shenhua/sort.js",
+      "byteLength": 1005,
+      "sha256": "a26e178c440871dfcd083d09a298b529425c1e78b7b059e6d3120f0dc47d431c"
+    },
+    {
+      "path": "src/character/shenhua/translate.js",
+      "byteLength": 31175,
+      "sha256": "0b6b0ecff56397e830bbd6353ce8ce69621882d5afcb179102021337d93a1db0"
+    },
+    {
+      "path": "src/character/shenhua/voices.js",
+      "byteLength": 14160,
+      "sha256": "2e00766a34d40c1eecc97cf894c2a4523630029d880158287ad5c119e3de80fa"
+    },
+    {
+      "path": "src/character/shiji/card.js",
+      "byteLength": 10792,
+      "sha256": "bb89862ceaa5645933cee6c7d1fc9f2ebb55e22e67ad99f15c2b9ddc3635f264"
+    },
+    {
+      "path": "src/character/shiji/character.js",
+      "byteLength": 5232,
+      "sha256": "fc72a309e484e58427b719e0515b4652d4b372496c42988f122497167a986bc9"
+    },
+    {
+      "path": "src/character/shiji/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/shiji/characterTitle.js",
+      "byteLength": 1437,
+      "sha256": "ac06f5cc5eaa43b9899e7d370f80694e681f7924cb56f50b0b3301b777a781f0"
+    },
+    {
+      "path": "src/character/shiji/dynamicTranslate.js",
+      "byteLength": 469,
+      "sha256": "5bba034e9a1ae4c3eae7b6ae905c253805ee697ea1393e7a7e448bafdbdd23fc"
+    },
+    {
+      "path": "src/character/shiji/index.js",
+      "byteLength": 1113,
+      "sha256": "2c2c16c8d2639b302c196290b2fc09cd6ce48a83d4193208dbd4a1693ef4c371"
+    },
+    {
+      "path": "src/character/shiji/intro.js",
+      "byteLength": 8174,
+      "sha256": "cc24b0738e70bc8e678b95ef06707425dc87753cccac2683dbfb00c331cb0933"
+    },
+    {
+      "path": "src/character/shiji/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/shiji/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/shiji/skill.js",
+      "byteLength": 303860,
+      "sha256": "5041d442172ddbf4796a709b5d6f8e1e62164e0dac843dde19a788a001c90892"
+    },
+    {
+      "path": "src/character/shiji/sort.js",
+      "byteLength": 1058,
+      "sha256": "e5031fa6044b472f93158f21dccf8b69cbcccb0e8f0f73838b9a5b39a15c2b43"
+    },
+    {
+      "path": "src/character/shiji/translate.js",
+      "byteLength": 45862,
+      "sha256": "22c60f5e91e30ad9430079a517f58876cb3fa81c887c2ec4215c0cf17950ea99"
+    },
+    {
+      "path": "src/character/shiji/voices.js",
+      "byteLength": 17906,
+      "sha256": "bc4335ed1e30247099d8c82a92727b87211737aa58e7229fc86a195245823506"
+    },
+    {
+      "path": "src/character/sixiang/card.js",
+      "byteLength": 1461,
+      "sha256": "c3bde1e9ec2ad1963299980628426a9ea77b6a67f3b939f16a0fabcdbca8e120"
+    },
+    {
+      "path": "src/character/sixiang/character.js",
+      "byteLength": 10516,
+      "sha256": "fbe1d8fb0ac6f85c2f2366704746fd84e22d90dceefec12eee195031bcc15e4c"
+    },
+    {
+      "path": "src/character/sixiang/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/sixiang/characterTitle.js",
+      "byteLength": 2970,
+      "sha256": "2e8c990568aa0654d617b20585271592cc91c5b1832bdcefdbba1b8f1ef6028b"
+    },
+    {
+      "path": "src/character/sixiang/dynamicTranslate.js",
+      "byteLength": 123,
+      "sha256": "469b4130dab0dc7f6a7ff2837b9b0d9c825f9c4ccbf11a658737cc4a4a7adeca"
+    },
+    {
+      "path": "src/character/sixiang/index.js",
+      "byteLength": 1117,
+      "sha256": "fcbb29c1827b95fbdd6ac4f124de2a04a0728959e3b5e75214a0dbf8090d9111"
+    },
+    {
+      "path": "src/character/sixiang/intro.js",
+      "byteLength": 2979,
+      "sha256": "7c1928bbac71d73e0e8e5ace401499287a0d7839430025083ff6f46458d7b3a8"
+    },
+    {
+      "path": "src/character/sixiang/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/sixiang/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/sixiang/skill.js",
+      "byteLength": 189598,
+      "sha256": "ba5e90b67f43554ae2c2b05494c125b7760151d0ee3106b6bac465fb70106149"
+    },
+    {
+      "path": "src/character/sixiang/sort.js",
+      "byteLength": 2352,
+      "sha256": "7b0680117dba6ac6d7bd37882f74a82e31eba25eb45220ab33ff74e0e5305089"
+    },
+    {
+      "path": "src/character/sixiang/translate.js",
+      "byteLength": 34586,
+      "sha256": "256e0d3d42cc8c470d4c46db38735d27ef957bfdbc39c3240488b2a89fe5b4c8"
+    },
+    {
+      "path": "src/character/sixiang/voices.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/sp/card.js",
+      "byteLength": 8674,
+      "sha256": "b9b37fb02c330e9d49a11a6534f54ecf12284634db088adaf5077579c1cd46b6"
+    },
+    {
+      "path": "src/character/sp/character.js",
+      "byteLength": 21676,
+      "sha256": "cc4582deab8da12f814afb3970299bd41a49106695d39d99f2e0210c981b97d1"
+    },
+    {
+      "path": "src/character/sp/characterFilter.js",
+      "byteLength": 260,
+      "sha256": "1eff9b0bda73aaa5129239e890c9dbc50385d283ae19fb1ebeb2317b9728a3ba"
+    },
+    {
+      "path": "src/character/sp/characterTitle.js",
+      "byteLength": 6667,
+      "sha256": "e221094c7491e4dddd49431d7b865871495cfbf99d44ef94929102fd0454cb57"
+    },
+    {
+      "path": "src/character/sp/dynamicTranslate.js",
+      "byteLength": 11013,
+      "sha256": "fb4c19ca036176a72d6d16ab8053e5e6857801b73620e14160e958d8c509b2a4"
+    },
+    {
+      "path": "src/character/sp/index.js",
+      "byteLength": 1203,
+      "sha256": "a3053a189ea76eb8d546d75a56aea4dd0ed369365266be38c32d929fbac42b84"
+    },
+    {
+      "path": "src/character/sp/intro.js",
+      "byteLength": 74260,
+      "sha256": "5b3376b894c273027ac2a1cd8a0d38fac6e3411a587ebdae1a2f34f431572f8d"
+    },
+    {
+      "path": "src/character/sp/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/sp/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/sp/skill.js",
+      "byteLength": 1349495,
+      "sha256": "7599a644f4941b5b0c1ea17ef4cd6137765df564fd627c8161189ade31dd3582"
+    },
+    {
+      "path": "src/character/sp/sort.js",
+      "byteLength": 3538,
+      "sha256": "ffb162b6d255fab6b28e9ffd5d1907f63f63a70432c0daef3344228959d23823"
+    },
+    {
+      "path": "src/character/sp/translate.js",
+      "byteLength": 168058,
+      "sha256": "b17da3f9c2659526b5576c076a71d03f7f4ac8fe56af091878d0dae863de083f"
+    },
+    {
+      "path": "src/character/sp/voices.js",
+      "byteLength": 59855,
+      "sha256": "d7abaa62d3da747c0c3671f02eaba8421bc8885629aebadeaefcf89b6d2472d1"
+    },
+    {
+      "path": "src/character/sp2/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/sp2/character.js",
+      "byteLength": 11506,
+      "sha256": "d6d50e53f9b2a2e86cabb22e49c3be4c636751ffbd91e0cb46e16c02781be233"
+    },
+    {
+      "path": "src/character/sp2/characterFilter.js",
+      "byteLength": 299,
+      "sha256": "d8ddd290e1c96047eb2b3060101a2c99e8d1be028f4898935ef0abe60977910d"
+    },
+    {
+      "path": "src/character/sp2/characterTitle.js",
+      "byteLength": 3260,
+      "sha256": "53119bb784549e843d643ec3aabed77fbc036d4d6d1a0328d4272a9cb3ef7b46"
+    },
+    {
+      "path": "src/character/sp2/dynamicTranslate.js",
+      "byteLength": 3105,
+      "sha256": "055273692768274cd193fe3d7ab667fe1841c4d2801cbb97fd89825806561de6"
+    },
+    {
+      "path": "src/character/sp2/index.js",
+      "byteLength": 1109,
+      "sha256": "8b1a13d463fe59ad48f55301c5bbb36724db500327cb092cc6fe6918bb5f1ac5"
+    },
+    {
+      "path": "src/character/sp2/intro.js",
+      "byteLength": 33654,
+      "sha256": "d169346f294162bd1fc77db04c7f7470344aeff7f3252b76c3abe2811f8cdda6"
+    },
+    {
+      "path": "src/character/sp2/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/sp2/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/sp2/skill.js",
+      "byteLength": 478804,
+      "sha256": "a1b50dc042e033064e41eb602d00280416c0741956cfbb5180869bdf2fb16ead"
+    },
+    {
+      "path": "src/character/sp2/sort.js",
+      "byteLength": 3099,
+      "sha256": "574d0da1186155e6d095467bf196abc9588ed8e534b01f0fc3df94ef3d626595"
+    },
+    {
+      "path": "src/character/sp2/translate.js",
+      "byteLength": 69631,
+      "sha256": "da35156d99b8b646f0af589aa69335b6162454a6c8a46cca5bd7fd63c1735fe6"
+    },
+    {
+      "path": "src/character/sp2/voices.js",
+      "byteLength": 28235,
+      "sha256": "50bccc63d092db6923cfc3defefafcfe86cf3c5186750b8d4e9e6168a3494903"
+    },
+    {
+      "path": "src/character/standard/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/standard/character.js",
+      "byteLength": 3269,
+      "sha256": "943620d557dadb30e254d088ba1dc6cd317103007d8e362fa7788d4b440fb419"
+    },
+    {
+      "path": "src/character/standard/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/standard/characterTitle.js",
+      "byteLength": 923,
+      "sha256": "a28b8d6c3a804db75718faf7c9c6091ce75d5ed5620f20fdfe816073f9fbfca7"
+    },
+    {
+      "path": "src/character/standard/dynamicTranslate.js",
+      "byteLength": 123,
+      "sha256": "469b4130dab0dc7f6a7ff2837b9b0d9c825f9c4ccbf11a658737cc4a4a7adeca"
+    },
+    {
+      "path": "src/character/standard/index.js",
+      "byteLength": 1119,
+      "sha256": "a96e3c4fcd8a72785c8f07b53c84233ddc67aee0af348c7813c3686c6fcb8c09"
+    },
+    {
+      "path": "src/character/standard/intro.js",
+      "byteLength": 5390,
+      "sha256": "688565603843e8b9c7fad8801316c02b837b397888f75c3964e303a80c80867e"
+    },
+    {
+      "path": "src/character/standard/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/standard/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/standard/skill.js",
+      "byteLength": 61332,
+      "sha256": "4537088581d86d221081c74ad8122fbe59c1010e6c515461a5b04a77ca7eabfa"
+    },
+    {
+      "path": "src/character/standard/sort.js",
+      "byteLength": 718,
+      "sha256": "3242b4dc04a75287569d5f474c1cc0b65265ce9a6828943360c4d6f3dbe698ec"
+    },
+    {
+      "path": "src/character/standard/translate.js",
+      "byteLength": 9867,
+      "sha256": "e707194277de0fe2ac9ce7142d3cb5a7765bda395a33e6c55a1465a384d34dd8"
+    },
+    {
+      "path": "src/character/standard/voices.js",
+      "byteLength": 5222,
+      "sha256": "a2d05e5aaaa7c92e8525e376b9be1c3e40a5c021e80589415d5871f2a818ce99"
+    },
+    {
+      "path": "src/character/sxrm/card.js",
+      "byteLength": 99,
+      "sha256": "14567c63bc51ae2082899ebfcda63b6649cac8543fa73a73989a26c49a946c37"
+    },
+    {
+      "path": "src/character/sxrm/character.js",
+      "byteLength": 3006,
+      "sha256": "fca7843b02b10d7072a25977296aae1095812581b87ebc43a8e82f45a37c0d18"
+    },
+    {
+      "path": "src/character/sxrm/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/sxrm/characterTitle.js",
+      "byteLength": 857,
+      "sha256": "97f20bc9b145d29ea4e0a5b1a8eea1eaf578843af0e35b9853e10cb98611cbcd"
+    },
+    {
+      "path": "src/character/sxrm/dynamicTranslate.js",
+      "byteLength": 2719,
+      "sha256": "069cad4874b7ab8c1262cb84f15615b475bea4bbf0a391a9895a1811279429d6"
+    },
+    {
+      "path": "src/character/sxrm/index.js",
+      "byteLength": 1056,
+      "sha256": "be35ed518f67037b0301b209e1739e6fa669828d3a545392c1ae9ee53a7d69c5"
+    },
+    {
+      "path": "src/character/sxrm/intro.js",
+      "byteLength": 1242,
+      "sha256": "f5f373eff8d683b82bbd47321bd4a1e5d2d024e71b8a6b980be26a643bb62390"
+    },
+    {
+      "path": "src/character/sxrm/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/sxrm/skill.js",
+      "byteLength": 138575,
+      "sha256": "234bbc998d18b309695a0e38eb76d431a4cf8a21ff7074d08ae2ba7712406719"
+    },
+    {
+      "path": "src/character/sxrm/sort.js",
+      "byteLength": 719,
+      "sha256": "6879d9bd77cf439fe6a991c02129a8641e693a1e22a8e006fdde7ac9788651c0"
+    },
+    {
+      "path": "src/character/sxrm/translate.js",
+      "byteLength": 15082,
+      "sha256": "19e19b21dd2562a9063aea48d6465785cc8e032a727720ef22d72911f3cdac87"
+    },
+    {
+      "path": "src/character/sxrm/voices.js",
+      "byteLength": 2416,
+      "sha256": "641f073cf5d02109d2b0da568567597100b4df9c85caa3e3c1cbed5960c7e1bc"
+    },
+    {
+      "path": "src/character/tw/card.js",
+      "byteLength": 2358,
+      "sha256": "e279dbc79c63e5d37c036ad8e52213a9052afc7d871e1fdc014d5bc40491dd88"
+    },
+    {
+      "path": "src/character/tw/character.js",
+      "byteLength": 20166,
+      "sha256": "e932075b71502c3d59584ee2e3230c6efeafd2398392d0e2547ef2835f2c247d"
+    },
+    {
+      "path": "src/character/tw/characterFilter.js",
+      "byteLength": 225,
+      "sha256": "2ed7217f2b923abb4e5a8773afdbfc2ddd5a0470fc1fb390cb2ca0adb50aeaa5"
+    },
+    {
+      "path": "src/character/tw/characterTitle.js",
+      "byteLength": 5421,
+      "sha256": "08a69e3d874c60b0695f5261530e92457153f81de3fcf0b987cc084db2fcccbd"
+    },
+    {
+      "path": "src/character/tw/dynamicTranslate.js",
+      "byteLength": 6477,
+      "sha256": "b6206bd76fe410e174e79f20e4c9b757d7b162f6ea5fb7cac5364be2fe33a12a"
+    },
+    {
+      "path": "src/character/tw/index.js",
+      "byteLength": 1330,
+      "sha256": "b4ec926289d4f6e1119440a540c772efa439361e11a099c0bc97130276b5d9f2"
+    },
+    {
+      "path": "src/character/tw/intro.js",
+      "byteLength": 44835,
+      "sha256": "1788037414387fb0dd0b651200fe4d6f9857f6edd1e8714cc09e5d4535e028c4"
+    },
+    {
+      "path": "src/character/tw/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/tw/pinyin.js",
+      "byteLength": 91,
+      "sha256": "dd5cde3bf9f0c92f7b9a2fcb79e79ff993adb7369c072c563f5134bcc534a887"
+    },
+    {
+      "path": "src/character/tw/skill.js",
+      "byteLength": 884324,
+      "sha256": "dcc514be5bffb264186eb641f485a72118a5959edc3e458a3b9cee6d4d00831b"
+    },
+    {
+      "path": "src/character/tw/sort.js",
+      "byteLength": 4823,
+      "sha256": "0ede7a2b22efe8acd90fe924fb0cebd3c8fbd1ff24cca2a4f72bd4e11f5e378d"
+    },
+    {
+      "path": "src/character/tw/translate.js",
+      "byteLength": 113196,
+      "sha256": "ab1fec4d0fecf7b94dda0a2d3c853f06941284f78a368aebc952432240c64e62"
+    },
+    {
+      "path": "src/character/tw/voices.js",
+      "byteLength": 30403,
+      "sha256": "c7b39ebd503113d7b7f13f044cab09c6f93cd18e506b70828e0a4da5bd2548ab"
+    },
+    {
+      "path": "src/character/xianding/card.js",
+      "byteLength": 7273,
+      "sha256": "b68d1a83c98e26ab657eab30484b0daffe0edd27f2db2889ebe62ebeec5e98b7"
+    },
+    {
+      "path": "src/character/xianding/character.js",
+      "byteLength": 24103,
+      "sha256": "b94616fc2162561c40693007701114648bd2a788255bcfe66b7bab465c3277e9"
+    },
+    {
+      "path": "src/character/xianding/characterFilter.js",
+      "byteLength": 468,
+      "sha256": "edd5714e5bc6bf7fac0e52203ccf4760af932c833fa3c2039a61dab5e0094832"
+    },
+    {
+      "path": "src/character/xianding/characterTitle.js",
+      "byteLength": 6458,
+      "sha256": "11a0c93ac42df9657ce3afa97024e4cf16be20ed144ba7bb0dc3acc197cea0dc"
+    },
+    {
+      "path": "src/character/xianding/dynamicTranslate.js",
+      "byteLength": 17146,
+      "sha256": "fa6cd947b76f553825a2378a5fff6dd9eafb861aa2ccffbab3e10fc5b71283a3"
+    },
+    {
+      "path": "src/character/xianding/index.js",
+      "byteLength": 1693,
+      "sha256": "0aae1bce5572f5b2ea61eae2f20866431b679be3ff883e6066e038528eeab475"
+    },
+    {
+      "path": "src/character/xianding/intro.js",
+      "byteLength": 40079,
+      "sha256": "1ccf011919b27646ad50fea4fb4796c1c77ea849aef09ff957e486b9fa472917"
+    },
+    {
+      "path": "src/character/xianding/perfectPairs.js",
+      "byteLength": 18,
+      "sha256": "9f085b1079ab38f776bbb3930dfd067a838ca3e0483aff8625f88837e8ed964c"
+    },
+    {
+      "path": "src/character/xianding/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/xianding/skill.js",
+      "byteLength": 1351161,
+      "sha256": "de064fdf16dcf022730ff4e6189d0ac3c691625576ceba0bacde695d95e227fb"
+    },
+    {
+      "path": "src/character/xianding/sort.js",
+      "byteLength": 4504,
+      "sha256": "7f25aadeb228031f5f59de4aefa3605017b8f9aa5ebb4a91152ee4311629d0b2"
+    },
+    {
+      "path": "src/character/xianding/translate.js",
+      "byteLength": 158738,
+      "sha256": "6400c4a114b17125e9d3c850fbad8dcb06254f6c102e79ced059a40512e0de6f"
+    },
+    {
+      "path": "src/character/xianding/voices.js",
+      "byteLength": 66387,
+      "sha256": "da2e0d1e5ee009dcfa9d19c995f859a71db3cfbdd206ba4a33468ffde1cdfe2f"
+    },
+    {
+      "path": "src/character/yijiang/card.js",
+      "byteLength": 100,
+      "sha256": "c17652d37c3b66d28ab94b8cd5a402ac7f5fd2d155464b8082026f39c46756a9"
+    },
+    {
+      "path": "src/character/yijiang/character.js",
+      "byteLength": 7074,
+      "sha256": "f6bb73cd615fd5b603566341c27396f9cf1bdbe9439124dabc59ff76fce9479c"
+    },
+    {
+      "path": "src/character/yijiang/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/yijiang/characterTitle.js",
+      "byteLength": 2103,
+      "sha256": "5d5951fee44e3463fecfa23f375e0d93ddaefbc8a83c4bf4d6e174d50d74fcba"
+    },
+    {
+      "path": "src/character/yijiang/dynamicTranslate.js",
+      "byteLength": 2815,
+      "sha256": "905f429fc17777aee448b0ccf0c913b3100b14a4e0960b3a588aaf04a797072d"
+    },
+    {
+      "path": "src/character/yijiang/index.js",
+      "byteLength": 1174,
+      "sha256": "af011e3bb433bfbb1268e3c904e04c6eea96bbd2a3a142c65c422196094519a1"
+    },
+    {
+      "path": "src/character/yijiang/intro.js",
+      "byteLength": 22929,
+      "sha256": "799bc744bb3b93b730570580be5dbfebaf50212b2cbb22acf0dcdb6070cada24"
+    },
+    {
+      "path": "src/character/yijiang/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/yijiang/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/yijiang/skill.js",
+      "byteLength": 395128,
+      "sha256": "fbe2cdc6ee3cd79bb179dac149cd2642d7d84a01f59fb97fa754e8a0bfb616cb"
+    },
+    {
+      "path": "src/character/yijiang/sort.js",
+      "byteLength": 1328,
+      "sha256": "0731f427359c53044ae3918468e0ecd5028c424f72449f4f1026b55c1961c9a0"
+    },
+    {
+      "path": "src/character/yijiang/translate.js",
+      "byteLength": 52911,
+      "sha256": "ccad4ad8dec1d3e4c426b203e81dbe57c696650b6eac15cd916e03e6b0940603"
+    },
+    {
+      "path": "src/character/yijiang/voices.js",
+      "byteLength": 17650,
+      "sha256": "71272f094979dd43576f65fbd788876c3cbbb6cab399890295fbce2a0c76a69b"
+    },
+    {
+      "path": "src/character/yingbian/card.js",
+      "byteLength": 720,
+      "sha256": "4580e558ae912d58c2b3d844bdfecb98d342042b22367cfc2d1cbe69c50246f1"
+    },
+    {
+      "path": "src/character/yingbian/character.js",
+      "byteLength": 2845,
+      "sha256": "e032c8ae974a3cc04dfe6c1aa357c2e6852087fb8ab6e70e8cc354de276c315f"
+    },
+    {
+      "path": "src/character/yingbian/characterFilter.js",
+      "byteLength": 122,
+      "sha256": "ad4091d14b41c32498bf0a5a4437bd305c0f2378b989d7b8a4a2b40fa12c3f93"
+    },
+    {
+      "path": "src/character/yingbian/characterTitle.js",
+      "byteLength": 1028,
+      "sha256": "e20fad82d021693e49c713f1597f13cd84910abb8d363a7b6657164e440076a6"
+    },
+    {
+      "path": "src/character/yingbian/dynamicTranslate.js",
+      "byteLength": 123,
+      "sha256": "469b4130dab0dc7f6a7ff2837b9b0d9c825f9c4ccbf11a658737cc4a4a7adeca"
+    },
+    {
+      "path": "src/character/yingbian/index.js",
+      "byteLength": 1119,
+      "sha256": "492bcb694cc6a4351b3175fb72b4b68ed6fc576147e45b18b9a75443c2e973e3"
+    },
+    {
+      "path": "src/character/yingbian/intro.js",
+      "byteLength": 8859,
+      "sha256": "8ffca0c34257b49a1eada114fe51df539a3a561ab88a967bbf8fa3088391c784"
+    },
+    {
+      "path": "src/character/yingbian/perfectPairs.js",
+      "byteLength": 19,
+      "sha256": "450f0af4f4c1ecc4c7180f2e364c8a59bfed69dd350fb6b47bce8641c2a37786"
+    },
+    {
+      "path": "src/character/yingbian/pinyin.js",
+      "byteLength": 44,
+      "sha256": "3eeec4dada791d0ef522345b2cecbd35a0ffcc5c8d95eb725c84761c2e43c829"
+    },
+    {
+      "path": "src/character/yingbian/skill.js",
+      "byteLength": 132250,
+      "sha256": "56db2a40939c03da24c95c8dda0f69cf84010e6c4b85820f9ae05761bbb423c6"
+    },
+    {
+      "path": "src/character/yingbian/sort.js",
+      "byteLength": 720,
+      "sha256": "af2bc138674b19ec84362c7ae81fae620ad4c9f62b9a56f8babb5d5c09fb63b7"
+    },
+    {
+      "path": "src/character/yingbian/translate.js",
+      "byteLength": 20174,
+      "sha256": "0fca99e00aae03d0405701a0022b582e3ac4b1903a107450326d2f5042283ad9"
+    },
+    {
+      "path": "src/character/yingbian/voices.js",
+      "byteLength": 6737,
+      "sha256": "0994da5c9f60f4ae8cf0da42b6bc44347da9be6a6d54c20819743dc61b666706"
+    },
+    {
+      "path": "src/mode/doudizhu.js",
+      "byteLength": 126224,
+      "sha256": "a316b1c6994335cb6d2277d7bf53bb02bf51cef02d1f53de3f37840430e73336"
+    },
+    {
+      "path": "src/mode/identity.js",
+      "byteLength": 167584,
+      "sha256": "075077921ffccdee6c0a68fe22bb4d7f4023bbe469f2372bc575f92ea9af468c"
+    },
+    {
+      "path": "src/noname.js",
+      "byteLength": 526,
+      "sha256": "f1a7dc506e66ffcff8f6fc55f193c624a161dbfff63831b56cf8cd80cb2bd5ed"
+    },
+    {
+      "path": "src/noname/ai/basic.js",
+      "byteLength": 6464,
+      "sha256": "c32e43e690563d685929838635a40878baeb3333f52a2f585638fbe37655d83d"
+    },
+    {
+      "path": "src/noname/ai/index.js",
+      "byteLength": 2947,
+      "sha256": "dd610296519794926ed86805834ca9987deb9f0d09ac9303ef68c624289c2508"
+    },
+    {
+      "path": "src/noname/game/check.js",
+      "byteLength": 5787,
+      "sha256": "802b65210f6dc7eb76e22af82e8f95706b445f9c3b15c297750f6202ec287c9d"
+    },
+    {
+      "path": "src/noname/game/dynamic-style/index.js",
+      "byteLength": 5543,
+      "sha256": "017e5191f0472e3b77e2848e1415fbe49c891a3f5201128c3b521b5c442c92af"
+    },
+    {
+      "path": "src/noname/game/index.js",
+      "byteLength": 312075,
+      "sha256": "cf8ab1744e5c01620b7e62276db01f26b06b51fa221d965eaf97c5cf14cc3265"
+    },
+    {
+      "path": "src/noname/game/promises.js",
+      "byteLength": 5559,
+      "sha256": "96376bafa7b73096f951477830c46535b1aa57e229055eb9bdb92586e6239e76"
+    },
+    {
+      "path": "src/noname/get/index.js",
+      "byteLength": 226389,
+      "sha256": "8515ed7242d2638720180507a778cb273d8f33743eac12c5237d2f50e805823d"
+    },
+    {
+      "path": "src/noname/get/is.js",
+      "byteLength": 17612,
+      "sha256": "cf0d2018b41e7af07a49dc26d690c68181c95cd8c8bf82dc40b19dae66f0b932"
+    },
+    {
+      "path": "src/noname/get/pinyins/index.js",
+      "byteLength": 146,
+      "sha256": "c9c0bcf45cca36d75b3e3b26e657d975d984fc965b74a518b9467ef5fa9e4556"
+    },
+    {
+      "path": "src/noname/get/pinyins/noname-dict.js",
+      "byteLength": 4457,
+      "sha256": "80c668954fbce96e473d5b05d96faa4215b2ffcacab33d9f2b590ca9dd529e3f"
+    },
+    {
+      "path": "src/noname/init/browser.js",
+      "byteLength": 11777,
+      "sha256": "37961aac40e72a76d6d62d529a73ec959165a0a911c4db9dffad9f6b209b7843"
+    },
+    {
+      "path": "src/noname/init/compatible.js",
+      "byteLength": 29256,
+      "sha256": "dfa73a60473f61bd6be48a40fe6110eba119768fe96f90e845ce3a4980276979"
+    },
+    {
+      "path": "src/noname/init/cordova.js",
+      "byteLength": 13901,
+      "sha256": "a0e4397e0b913f27f21cab6242d857020b38fbb48353d9ac367128b753e312af"
+    },
+    {
+      "path": "src/noname/init/node.js",
+      "byteLength": 12992,
+      "sha256": "108b51f82dfc2840f19013dda9a8bfe56e43ab46438a1fde704e72dd5c337f15"
+    },
+    {
+      "path": "src/noname/library/announce/index.js",
+      "byteLength": 4421,
+      "sha256": "cac4ade5415bdb751ab601f83b794bc6ded6b3d25eaf694b84bd31fef1d76fab"
+    },
+    {
+      "path": "src/noname/library/cache/cacheContext.js",
+      "byteLength": 6442,
+      "sha256": "5198a5b7fbea8618265f036f26c039c179039e3c96769cc039c83c8e429ef48d"
+    },
+    {
+      "path": "src/noname/library/cache/childNodesWatcher.js",
+      "byteLength": 753,
+      "sha256": "4fb5fd07f210bbb1d96e9a5e4571b4d75acacf1e0b71f0dc289e99e564ac7b10"
+    },
+    {
+      "path": "src/noname/library/element/button.js",
+      "byteLength": 1869,
+      "sha256": "a6d14019e080385e37e8419850ee70c13960472b7e8b0d3c030e938db8ea0f09"
+    },
+    {
+      "path": "src/noname/library/element/card.js",
+      "byteLength": 27681,
+      "sha256": "5d3a07fadafa1c5661ec197edb8c71f613b3db1129933fdf7d8aa311f5811f8d"
+    },
+    {
+      "path": "src/noname/library/element/character.js",
+      "byteLength": 11171,
+      "sha256": "b34752d5808e7019c999e0d09a3ee774cabe6ce83912f336ecffece96eea2f8e"
+    },
+    {
+      "path": "src/noname/library/element/client.js",
+      "byteLength": 2477,
+      "sha256": "d1dbbb1c3354bc9224e31d5191803cf7237377bed8c47339c061f25441183d3f"
+    },
+    {
+      "path": "src/noname/library/element/control.js",
+      "byteLength": 4219,
+      "sha256": "e4af81a3674c27b104c9b03b3b81e9fc1428419b374b2e70468441f59dd2727d"
+    },
+    {
+      "path": "src/noname/library/element/dialog.js",
+      "byteLength": 13613,
+      "sha256": "24893150df03829703e56c3156f63c784d536f42d1168d77674a167124521b03"
+    },
+    {
+      "path": "src/noname/library/element/index.js",
+      "byteLength": 428,
+      "sha256": "8a0245cf4988aad5b3361f46accadb529e83a742aadc2b21f05b0e5f19e5848d"
+    },
+    {
+      "path": "src/noname/library/element/nodeWS.js",
+      "byteLength": 357,
+      "sha256": "20eab687e449241b59a2497b6266aef7e4f4429a17e4db25583d73011b96642a"
+    },
+    {
+      "path": "src/noname/library/element/player.js",
+      "byteLength": 462808,
+      "sha256": "01a50eda1cf94c58016a5d8206847f5e5f476d37fef7479aa0978cfc2fbc5873"
+    },
+    {
+      "path": "src/noname/library/element/vcard.js",
+      "byteLength": 5145,
+      "sha256": "fa7dd2b7d239847553a1df50bf11f46a6bd379bcbdb68af30190437d65ce9c5c"
+    },
+    {
+      "path": "src/noname/library/experimental/index.js",
+      "byteLength": 333,
+      "sha256": "19de7cad30a9f7efbf7f4548248f17954afb9198d8e2ecc61e666187f2be42d2"
+    },
+    {
+      "path": "src/noname/library/experimental/symbol.js",
+      "byteLength": 63,
+      "sha256": "a851ac7d6006c1efebd9d6b6ea19bbda0ddc15231484844cfa56c0286001871d"
+    },
+    {
+      "path": "src/noname/library/index.js",
+      "byteLength": 419428,
+      "sha256": "b1f03d472b7c2d02351d36e83b6ab22a4620079bd9767dd678c26a997c200686"
+    },
+    {
+      "path": "src/noname/library/init/index.js",
+      "byteLength": 21069,
+      "sha256": "ac141bcb394d971145840d370ca4b8326191765d8dcc54fb008d787d5a975f04"
+    },
+    {
+      "path": "src/noname/library/init/promises.js",
+      "byteLength": 3449,
+      "sha256": "0a912492f10097eb16b2d20d69e892bd6d38d3757653d5067f8c8483e456b1e6"
+    },
+    {
+      "path": "src/noname/library/poptip.js",
+      "byteLength": 14327,
+      "sha256": "7191f1fca020f5e80168cb183a4a4e02ca2147b9fc3785ba227285a7eab8a7ef"
+    },
+    {
+      "path": "src/noname/library/skill.js",
+      "byteLength": 68050,
+      "sha256": "0a7d8d2eba36cf0a60146b5286ad133d9fe5cb7cb2cdf21bf747757332754b2d"
+    },
+    {
+      "path": "src/noname/library/update-urls.js",
+      "byteLength": 150,
+      "sha256": "77a87b6ce821a0e8a7ab014ef22db6b6e0313ab6df6533fc228fca4be087a53f"
+    },
+    {
+      "path": "src/noname/library/update.js",
+      "byteLength": 19810,
+      "sha256": "d8f4f3d91b901583187a7489a02d894560917321a3ecfacf0c061cba46050ee2"
+    },
+    {
+      "path": "src/noname/library/zhanfa.js",
+      "byteLength": 79239,
+      "sha256": "efe2b4fdb9046e0411f1b329fb619a3e6d111a8f3f2ca641a0980340097100da"
+    },
+    {
+      "path": "src/noname/status/index.js",
+      "byteLength": 3433,
+      "sha256": "96a6298500c6630d10accb4f230819bcddb83acbad5089fdf825564d8ded9612"
+    },
+    {
+      "path": "src/noname/ui/click/index.js",
+      "byteLength": 153589,
+      "sha256": "6c85a0c7a1ecf7bc23534349fb82de18a1c2f436b882189dae5341fa5e6d69e1"
+    },
+    {
+      "path": "src/noname/ui/create/index.js",
+      "byteLength": 126709,
+      "sha256": "da0ac6569a1ce5b4c98826ac048bbcc413ef45fb96c8a0a86cf48e89f1b593dc"
+    },
+    {
+      "path": "src/noname/ui/create/menu/index.js",
+      "byteLength": 15558,
+      "sha256": "82ed281d54c8fa7169dff5e4916d085cf025e86a32287e3ef53500d27be5ed5d"
+    },
+    {
+      "path": "src/noname/ui/create/menu/new.js",
+      "byteLength": 4403,
+      "sha256": "0c6d9a1fac586d16184f1113dd336d2eaabbebc0a16d91d849aa2f05cd31c069"
+    },
+    {
+      "path": "src/noname/ui/create/menu/nonameConfig.js",
+      "byteLength": 7382,
+      "sha256": "010a9475490c911a460c6eb8c5b5dfaf366140207694226b13711ba12a5d4d13"
+    },
+    {
+      "path": "src/noname/ui/create/menu/pages/cardPackMenu.js",
+      "byteLength": 22233,
+      "sha256": "73638793ca3be96cc383bb0f4fb4face8172b9e82e018a4a0706702f182df23d"
+    },
+    {
+      "path": "src/noname/ui/create/menu/pages/characterPackMenu.js",
+      "byteLength": 16890,
+      "sha256": "ff29ca635e41eec47c5afbce5f37c4f502103f77b9ddaee6df0a33e4ef0cf777"
+    },
+    {
+      "path": "src/noname/ui/create/menu/pages/exetensionMenu.js",
+      "byteLength": 96731,
+      "sha256": "b3788c6a14bd0607ee7e37b070dfc5e6f1f9a7a752e844bbb129f2f3fb6c74b1"
+    },
+    {
+      "path": "src/noname/ui/create/menu/pages/optionsMenu.js",
+      "byteLength": 35131,
+      "sha256": "e107481a8bbf45b5663088887633f0933842ff473c30cf04a72b7e0ed3d37eea"
+    },
+    {
+      "path": "src/noname/ui/create/menu/pages/otherMenu.js",
+      "byteLength": 35737,
+      "sha256": "0da5971481f91944651322e4ce8b63e51075704a62c71be65826bbc6f5d41b2f"
+    },
+    {
+      "path": "src/noname/ui/create/menu/pages/startMenu.js",
+      "byteLength": 12037,
+      "sha256": "316ce4143d453656905dcec171def66d11f7e6e8966f8ab478511c59f02723db"
+    },
+    {
+      "path": "src/noname/ui/create/menu/startMenu.js",
+      "byteLength": 6028,
+      "sha256": "b848582e191f19896deff48470fc6a026be2824f46b6710193c4dff00c7b53d8"
+    },
+    {
+      "path": "src/noname/ui/index.js",
+      "byteLength": 23384,
+      "sha256": "e7176f0c0fb2b9698b5ad6c9001b724d2dbe44d8f9c577bc57844ced31831aab"
+    },
+    {
+      "path": "src/noname/util/config.js",
+      "byteLength": 3527,
+      "sha256": "4869d1305e31cf403c8e317f7c0fe241f0cfdaae67ccf11bb1744a6b45147dd6"
+    },
+    {
+      "path": "src/noname/util/index.js",
+      "byteLength": 2225,
+      "sha256": "a4ca41b8ebf8acd1d4bb6d4711fea8c915da28d3854401b745aee38a3940afab"
+    },
+    {
+      "path": "src/noname/util/pagination.js",
+      "byteLength": 12630,
+      "sha256": "2d8c5277620899537833f39aa72943fbe5195b3f0855c8fefb74cdd15951b39a"
+    },
+    {
+      "path": "src/noname/util/sandbox/initRealms.js",
+      "byteLength": 4302,
+      "sha256": "890a98543e823a5c8a418131509175bae4600ba0e7929ea78fe99f564751a4f2"
+    },
+    {
+      "path": "src/noname/util/sandbox/sandbox.js",
+      "byteLength": 111013,
+      "sha256": "74fe53ef70bcaa5e4d57db9d6cc462dc93db63c7122007d59e9cae65c8ffd176"
+    },
+    {
+      "path": "src/noname/util/sandbox/security.js",
+      "byteLength": 27398,
+      "sha256": "e0e369ebee3214d70953693cdaab65e9f38927d701c04a0b01733fbe6e45b80f"
+    },
+    {
+      "path": "static-files.json",
+      "byteLength": 39484,
+      "sha256": "cab3762a8f9fbba363e26a18cdb0bda537ff8e22f9873f4f2719318344808353"
+    },
+    {
+      "path": "theme/music/style.css",
+      "byteLength": 4330,
+      "sha256": "d8eca5f7888bf1c28b614a7deacccb67bd66a1ff9d891cd663627b2ad1352aaa"
+    },
+    {
+      "path": "theme/simple/style.css",
+      "byteLength": 6517,
+      "sha256": "1c32ad7f97e38c4945616f5ede5b597808c5e161f1f70399dfc79f644c0d8c03"
+    },
+    {
+      "path": "theme/style/card/custom.css",
+      "byteLength": 925,
+      "sha256": "fb1e5a342313b49a1d789120afb254c2b9f30fde3f34ea5459a057218d6a71f2"
+    },
+    {
+      "path": "theme/style/card/default.css",
+      "byteLength": 12,
+      "sha256": "e390f18222a7af5ba6ed52f477659608d5b897083c5caf890e0e1cb1f7d4a453"
+    },
+    {
+      "path": "theme/style/card/music.css",
+      "byteLength": 550,
+      "sha256": "51e2e5c86f513c1615548e57f94cb6990a4596895d6aab944508f6dd0cc1d760"
+    },
+    {
+      "path": "theme/style/card/new.css",
+      "byteLength": 960,
+      "sha256": "29b2a5709e97e8c34da6b7ae433951d60b24c12998eb84e5abb5b3a9196d2475"
+    },
+    {
+      "path": "theme/style/card/ol.css",
+      "byteLength": 959,
+      "sha256": "9536298237833f81ac3291fb7fc2d8913b61daa834817546c8641b1cd4a76231"
+    },
+    {
+      "path": "theme/style/card/simple.css",
+      "byteLength": 968,
+      "sha256": "dddd7fd2c1faef731b32546958b9ca37f2e23b5bbea2b7a6d01ad24e518a883b"
+    },
+    {
+      "path": "theme/style/card/wood.css",
+      "byteLength": 551,
+      "sha256": "f92170534ee1624cacb5a9c7c922a669e9bfd41aa146ea3ed11799b11ba9015a"
+    },
+    {
+      "path": "theme/style/cardback/custom.css",
+      "byteLength": 128,
+      "sha256": "451779de2a457937376b1100e5cc48983cb14dc01fbf0f555d88e78fcb5247b1"
+    },
+    {
+      "path": "theme/style/cardback/default.css",
+      "byteLength": 12,
+      "sha256": "e390f18222a7af5ba6ed52f477659608d5b897083c5caf890e0e1cb1f7d4a453"
+    },
+    {
+      "path": "theme/style/cardback/feicheng.css",
+      "byteLength": 209,
+      "sha256": "69b18c8ad625e9f2d219d7150beca6da0231eed88c143633015979d2848a4bb7"
+    },
+    {
+      "path": "theme/style/cardback/liusha.css",
+      "byteLength": 205,
+      "sha256": "75e2ccd1eec12b8c4e42fad747a8a66ddfed97b09cc819fa64f3ee56e5c83cdf"
+    },
+    {
+      "path": "theme/style/cardback/music.css",
+      "byteLength": 146,
+      "sha256": "b1daae04a2fd06bd0a93c74f262c25dfc3ec557d201dbf3780ad5f4908c90261"
+    },
+    {
+      "path": "theme/style/cardback/new.css",
+      "byteLength": 199,
+      "sha256": "2793ae2dcc0ada3256a22621167bfdafb441a18c027bb81ad50cfbf7cd068d80"
+    },
+    {
+      "path": "theme/style/cardback/official.css",
+      "byteLength": 209,
+      "sha256": "a8282192aedf92f632b20e31318757c0e941e60a3e1febe7915c8cc5b000fdc0"
+    },
+    {
+      "path": "theme/style/cardback/ol.css",
+      "byteLength": 197,
+      "sha256": "4191d89dec3bfa1e1235d4eb139838dee642b9b89196be713ab7ce8d3fc2ee1b"
+    },
+    {
+      "path": "theme/style/cardback/wood.css",
+      "byteLength": 147,
+      "sha256": "be7f9725dcceb3c10501b41940a444b78366d097497aeed882e851d0537b9cf5"
+    },
+    {
+      "path": "theme/style/hp/custom.css",
+      "byteLength": 1797,
+      "sha256": "3a6b23d629f884b0a67ccbe0c0ab6e2acec3a074a4b86f49fd0fc09e3a2ce107"
+    },
+    {
+      "path": "theme/style/hp/default.css",
+      "byteLength": 12,
+      "sha256": "e390f18222a7af5ba6ed52f477659608d5b897083c5caf890e0e1cb1f7d4a453"
+    },
+    {
+      "path": "theme/style/hp/emotion.css",
+      "byteLength": 2032,
+      "sha256": "f004f1b546bba24d1853f1f43ccfaf858c6703542c7633c76f1cbf13743598b9"
+    },
+    {
+      "path": "theme/style/hp/glass.css",
+      "byteLength": 1949,
+      "sha256": "eafa57f1711c6a9805118c1eee5d9e09ce3134ed356e7c40efd304bcf0b0c1b7"
+    },
+    {
+      "path": "theme/style/hp/official.css",
+      "byteLength": 1892,
+      "sha256": "7aa8fd81546310ec84aad5fc46989f4a39fee6b9bf11e5372459162898ce5faf"
+    },
+    {
+      "path": "theme/style/hp/ol.css",
+      "byteLength": 1989,
+      "sha256": "8399b63db378940908acb8ab31b9e59a4fd3ab34e942d23588535bb76efd8029"
+    },
+    {
+      "path": "theme/style/hp/round.css",
+      "byteLength": 1949,
+      "sha256": "7018a298a0061057b7ce444d2615c6b6fd14ec22cf59bf4c4eb745bc48e0b15a"
+    },
+    {
+      "path": "theme/style/hp/xinglass.css",
+      "byteLength": 1964,
+      "sha256": "8f52506b311f2e6cbb30db848daca033ada1072c9d25b8c54385eb3791783593"
+    },
+    {
+      "path": "theme/style/hp/xinround.css",
+      "byteLength": 1961,
+      "sha256": "b1856a481618606d46d448866d9b594af844b85749c4e3eded735caf83403942"
+    },
+    {
+      "path": "theme/woodden/style.css",
+      "byteLength": 7942,
+      "sha256": "42119acf79b94689aa523d640b327b7e4ffe1240f6a4dd127e6b73ae6e2f9dd4"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBCursor.js",
+      "byteLength": 15824,
+      "sha256": "525914ffc7a506c1f6343325fe45ab2cec35a89dd0b2804eb710c4236d49275d"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBCursorWithValue.js",
+      "byteLength": 311,
+      "sha256": "df0387f379445153120e3e7e87ef01f463984d91890b2f9e68827911c5f38dc8"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBDatabase.js",
+      "byteLength": 7297,
+      "sha256": "4ace3585a0df384db8ba5319c88230bbe357a630c4af0750a8cdef00330fecfd"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBFactory.js",
+      "byteLength": 15392,
+      "sha256": "5781ee55b81de34969b7f636859142844da57719c22ce394450aa564d98ee024"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBIndex.js",
+      "byteLength": 7709,
+      "sha256": "9090153289181c0f34071e47a2e8a14a95694a6c1244dfc3ccbc8b72758314ce"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBKeyRange.js",
+      "byteLength": 2045,
+      "sha256": "d0560ebcefad8c0e220bb7146940d5d7f42932fe946e7e72a2cff8d7b07bc8f3"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBObjectStore.js",
+      "byteLength": 14977,
+      "sha256": "0c7a13359542f5e7abfcd6d1f548b93c189f979d7f45835dde69cce862f43b02"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBOpenDBRequest.js",
+      "byteLength": 232,
+      "sha256": "08de83ff7455795bfa17b4ff6811d6adf926aa2235c743a0890e27d1d6928b3e"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBRecord.js",
+      "byteLength": 493,
+      "sha256": "f311f89d9252f0fdbaf5c5d1ed4e6fb9e24db0b719e21256662eccad144f896c"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBRequest.js",
+      "byteLength": 738,
+      "sha256": "4d87b9c1971258c20e07261ded65bfc82962181bda5f3dcb9f32e935062f9c96"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBTransaction.js",
+      "byteLength": 8365,
+      "sha256": "08efb1faf8b1f36c835296ba2513cc3d7828e6894a12f3764d6c16c3c9c417a1"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/FDBVersionChangeEvent.js",
+      "byteLength": 439,
+      "sha256": "3ef84fd543dd0fb14d478a9ac9b6f3a932e08e907081584fbb39d19410ddaaa2"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/fakeIndexedDB.js",
+      "byteLength": 111,
+      "sha256": "d5e976278c38b011fd4264152b55b3a86cee0bcfaa10edc41e57c3a4f9b7e6ba"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/forceCloseDatabase.js",
+      "byteLength": 774,
+      "sha256": "be73dfaa8eda15064dbba36dfbc15f6948fa61ddbf85852f50894aec44ddbd13"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/index.js",
+      "byteLength": 935,
+      "sha256": "45791e33b9247a10f52e8aecb3358adef073505ea0abf3368e2dd1367b1df651"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/Database.js",
+      "byteLength": 2238,
+      "sha256": "0211ed0b35daea3fcaaec6cfce37e3e467ed77d9c51fbf1e8c3a1274c97a2ac5"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/FakeDOMStringList.js",
+      "byteLength": 1000,
+      "sha256": "21227f286a754746088dfa7a099f2899183baacc1b4aa629054e66ace8d53aef"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/FakeEvent.js",
+      "byteLength": 925,
+      "sha256": "532189b1e822d267cd90720dda2b545ad7bb6f7f9ba84aa2ea9bc5c3681f0f4b"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/FakeEventTarget.js",
+      "byteLength": 3509,
+      "sha256": "0e171720c1a4d76db05a083b8491a87a2d674afe88c4c4060d8449dda1fdad8e"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/Index.js",
+      "byteLength": 5295,
+      "sha256": "639bf36888401763b619b1f82816211eddb005061ccb9498b946d67d93be87f9"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/KeyGenerator.js",
+      "byteLength": 576,
+      "sha256": "d3784ea3d14fab523d670235886d600383c047c5106a89a90e5e308c6aac1e3d"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/ObjectStore.js",
+      "byteLength": 8151,
+      "sha256": "703e0ef89c9650fd600051233d8f4e9f829efe77c39ead93fadba2726db18300"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/RecordStore.js",
+      "byteLength": 3657,
+      "sha256": "301d0f824ea68ab593cf9b8bce4e86c3569c0785622225a99710ec8a12d65202"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/binarySearchTree.js",
+      "byteLength": 9945,
+      "sha256": "a1f5fdef0842c338e0636ed8f7db994e39581c18276c27871cf183a8eb72b142"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/canInjectKey.js",
+      "byteLength": 886,
+      "sha256": "4f5edc82747f9fefe5adfda9409c7a9d23c91d1289132378eee14ebd2873d08e"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/cloneValueForInsertion.js",
+      "byteLength": 1062,
+      "sha256": "48db0f9802a0310599a795c8911517efb8dc634638b04ed20da53f5ad1d43f19"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/closeConnection.js",
+      "byteLength": 935,
+      "sha256": "3980e6cc75d681e332e8884e205629b99ca79c88b0ae7ec2374056d127eba70e"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/cmp.js",
+      "byteLength": 1761,
+      "sha256": "bed134465533a67c32385d513bb0eb53cd3f0c345a810f03acec76f9a9d2cd38"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/enforceRange.js",
+      "byteLength": 335,
+      "sha256": "dd4b01502533d5355f6fd8e347ad57ac21862b82d7fa8cef4f262b3a28dcac2d"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/errors.js",
+      "byteLength": 3591,
+      "sha256": "1e388f274166cdda947d59e711dc530528da07fce2805258867dc1935ea37969"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/extractGetAllOptions.js",
+      "byteLength": 1101,
+      "sha256": "e79524b8a783907f4654e039fb98afcb2de43dafee1fdcc0ebe2355cba1c31f7"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/extractKey.js",
+      "byteLength": 1897,
+      "sha256": "0e49ff5cc3d9dd24aa23cbdf31a8538835e4ac919f15e9ff64e0620b4893deff"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/getKeyPath.js",
+      "byteLength": 550,
+      "sha256": "6a08ea6a49ca4f39ff8040b06bd07f9d67fe6dab8249491370d4a2ae99cf46ef"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/intersection.js",
+      "byteLength": 396,
+      "sha256": "f9751ee9da6f0e9510a90c868b53be4a4c828fa3f97c13486cee1ff64ffbc650"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/isPotentiallyValidKeyRange.js",
+      "byteLength": 616,
+      "sha256": "71a3be7b6c73c6a8a77384dc560d47ff55454c9a48dd6b577e60f1382fc91e02"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/isSharedArrayBuffer.js",
+      "byteLength": 143,
+      "sha256": "2905b2c5472cc389c3bcb2a2ecd9f2f1694d522277c377fe83e730a6a6d1eb8a"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/scheduling.js",
+      "byteLength": 2101,
+      "sha256": "ccec4db00f46f5fdc1c3d20c01c0e2be57ddf4eb2546acfc5785f12b857f8bfa"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/types.js",
+      "byteLength": 10,
+      "sha256": "2e29cd9a98755c46896f7a2d56524db2d6d96b248e36db46de14c30bf47c8d05"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/validateKeyPath.js",
+      "byteLength": 11082,
+      "sha256": "fc27ce74444a2693e8b259b1abca4411542c33544b92a350f6694abeba5bd5c1"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/validateRequiredArguments.js",
+      "byteLength": 484,
+      "sha256": "8e7edeaf1b27b3afd79413e396f2163213605cbae87d0f8ebf6f0a1683795e7b"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/valueToKey.js",
+      "byteLength": 639,
+      "sha256": "b1b14fe186f2129d5ce812ab8f91bbcf2b336f2a89cff9bf764047ac02997222"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/valueToKeyRange.js",
+      "byteLength": 599,
+      "sha256": "e8ba602f7a0fdd98a21106ef82361d7618dbf9dbe453ff07303986af4e134285"
+    },
+    {
+      "path": "vendor/fake-indexeddb-6.2.4/lib/valueToKeyWithoutThrowing.js",
+      "byteLength": 3876,
+      "sha256": "672e630cade58dce5bf35e1a1bd08492698d0a1038131392f4a073027c9813a9"
+    }
+  ]
+}
