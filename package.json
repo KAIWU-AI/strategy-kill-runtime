@@ -1,12 +1,12 @@
 {
   "name": "@kaiwu-ai/strategy-kill-runtime",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Pinned Strategy Kill browser runtime and corresponding source",
   "type": "module",
   "license": "GPL-3.0-only",
   "repository": { "type": "git", "url": "https://github.com/KAIWU-AI/strategy-kill-runtime" },
   "engines": { "node": ">=20" },
-  "exports": { ".": { "types": "./index.d.ts", "default": "./index.js" } },
-  "files": ["index.js", "index.d.ts", "lib/", "data/", "LICENSE", "README.md", "vendor/strategy-kill/BUILD.txt", "vendor/strategy-kill/UPSTREAM-README.md", "vendor/strategy-kill/LICENSE", "vendor/strategy-kill/licenses/", "vendor/strategy-kill/adapter-source/", "vendor/strategy-kill/upstream-source.tar.gz", "vendor/strategy-kill/source-manifest.json", "vendor/strategy-kill/poc-integrity.json", "vendor/strategy-kill/fake-indexeddb-LICENSE.txt", "vendor/strategy-kill/assemble.py"],
-  "scripts": { "build": "node scripts/build.mjs", "test": "node --test test/*.test.mjs", "test:pack": "node scripts/verify-pack.mjs" }
+  "exports": { ".": { "types": "./index.d.ts", "default": "./index.js" }, "./browser": { "types": "./browser.d.ts", "default": "./browser.js" } },
+  "files": ["index.js", "index.d.ts", "browser.js", "browser.d.ts", "lib/", "data/", "LICENSE", "README.md", "vendor/strategy-kill/BUILD.txt", "vendor/strategy-kill/UPSTREAM-README.md", "vendor/strategy-kill/LICENSE", "vendor/strategy-kill/licenses/", "vendor/strategy-kill/adapter-source/", "vendor/strategy-kill/upstream-source.tar.gz", "vendor/strategy-kill/source-manifest.json", "vendor/strategy-kill/poc-integrity.json", "vendor/strategy-kill/fake-indexeddb-LICENSE.txt", "vendor/strategy-kill/assemble.py"],
+  "scripts": { "build": "node scripts/build.mjs", "test": "node --test test/*.test.mjs", "test:pack": "node scripts/verify-pack.mjs", "test:native": "node scripts/verify-native.mjs", "test:browser": "node scripts/verify-browser.mjs" }
 }

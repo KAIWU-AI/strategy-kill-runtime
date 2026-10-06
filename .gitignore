@@ -3,3 +3,6 @@
 /*.tgz
 /node_modules/
 .DS_Store
+/.native-evidence/
+/.browser-evidence/
+/artifacts/

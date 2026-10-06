@@ -3,19 +3,22 @@ import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { lstatSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
-import { join, resolve } from 'node:path';
+import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const output = resolve(process.argv[2] || join(tmpdir(), 'strategy-kill-pack'));
 mkdirSync(output, { recursive: true });
-const run = (command, args, cwd = root) => execFileSync(command, args, { cwd, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
+// npm.cmd cannot be execFile'd on Windows. Invoke the current npm CLI with the
+// selected Node executable; no shell, globally configured npm, or new dependency.
+const npmCLI = process.env.npm_execpath || join(dirname(process.execPath), 'node_modules/npm/bin/npm-cli.js');
+const run = (command, args, cwd = root) => execFileSync(command === 'npm' ? process.execPath : command, command === 'npm' ? [npmCLI, ...args] : args, { cwd, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
 console.log(run('npm', ['run', 'build']).trim());
 const [pack] = JSON.parse(run('npm', ['pack', '--json', '--ignore-scripts', '--pack-destination', output]));
 const tarball = join(output, pack.filename);
 const config = JSON.parse(readFileSync(join(root, 'package.json')));
 assert.equal(config.name, '@kaiwu-ai/strategy-kill-runtime');
-assert.equal(config.version, '0.1.0');
+assert.equal(config.version, '0.2.0');
 assert.equal(config.license, 'GPL-3.0-only');
 assert.equal(Object.keys(config.dependencies || {}).length, 0);
 for (const hook of ['preinstall', 'install', 'postinstall', 'prepare', 'prepack', 'postpack']) assert.equal(config.scripts[hook], undefined);
@@ -31,6 +34,8 @@ const expected = new Set(['package.json', ...config.files.flatMap(path => walk(j
 const actual = pack.files.map(file => file.path).sort();
 assert.deepEqual(actual, [...expected].sort());
 assert.ok(actual.every(path => !path.includes('node_modules') && !path.includes('..') && !path.startsWith('/')));
+assert.ok(!actual.includes('LOCAL-IMPLEMENTATION.md'));
+assert.deepEqual(config.exports['./browser'], { types: './browser.d.ts', default: './browser.js' });
 
 const clean = mkdtempSync(join(tmpdir(), 'strategy-kill-install-'));
 let result;
@@ -48,6 +53,8 @@ try {
     import { join } from 'node:path';
     import { createHash } from 'node:crypto';
     import { runtimeManifest, readRuntimeAsset } from '@kaiwu-ai/strategy-kill-runtime';
+    import { StrategyRuntimeController } from '@kaiwu-ai/strategy-kill-runtime/browser';
+    assert.equal(typeof StrategyRuntimeController, 'function');
     const source = process.argv[1];
     const manifest = JSON.parse(readFileSync(join(source, 'manifest.json')));
     assert.deepEqual(runtimeManifest, manifest);

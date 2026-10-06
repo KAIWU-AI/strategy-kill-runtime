@@ -41,7 +41,7 @@ Product assembly
 The repository's buildStrategySetup('H01') is the authority for
 adapter-source/approved-setup.json. The selected player may vary per game;
 the child validates all 31 character records against this approved mapping.
-Run python3 third_party/strategy-kill/assemble.py from the product checkout.
+In the runtime repository run python vendor/strategy-kill/assemble.py.
 It copies approved adapters, packages source.tar.gz and notices, then writes
 manifest.json containing version=1, entry=sandbox.html, path/byteLength/sha256.
 The two product Vite builds emit those exact bytes. The server exposes only
@@ -54,3 +54,16 @@ pnpm --filter @agent-v/cloud-server build:knowledge-card
 pnpm exec tsx --test server/test/strategy-runtime.test.ts server/test/strategy-kill.browser.test.ts
 The product browser tests exercise actual UI and the upstream engine. Native
 AI termination is not replaced by a fabricated finished message or game.over.
+
+Local 0.1.1 adapter verification (2026-10-06)
+Upstream runtime inventory and character mapping are unchanged. The adapter
+reserves native table lanes, keeps a bounded 200-row public log view, corrects
+compact equipment contrast, labels own equipment outside engine-owned equips,
+and adds a separate keyboard-accessible current-public-skill help dialog.
+Boot pause ownership includes host desiredPaused, visibility and native help;
+the configure/pause/resume message whitelist and opaque sandbox are unchanged.
+Run npm test and npm run test:pack -- /absolute/artifacts/path.
+Set STRATEGY_BROWSER_TOOLS to an existing package.json resolving playwright-core
+and run npm run test:native -- /absolute/evidence/path (existing Edge on Windows).
+Tests use the approved engine and synthetic public fixtures, never private user
+inputs or forced termination. This is a local package, not a public release.

@@ -1679,13 +1679,13 @@
     },
     {
       "path": "preload.js",
-      "byteLength": 13475,
-      "sha256": "c85c3c09d65d9fdb2422c71d5c087dc8751c80e688db518d9301a819930d6a48"
+      "byteLength": 26902,
+      "sha256": "290bd17878e596baf1ab47478e6e6c807e202900c566428a94d019596771236e"
     },
     {
       "path": "sandbox-boot.js",
-      "byteLength": 4714,
-      "sha256": "ff5658aa0dca60cfa4b8d0c2bb393a408ad18e0e7c43f5c08dd8909e97f9b72b"
+      "byteLength": 5277,
+      "sha256": "299b53e1bc340a6fadf177e91b0f03f254cbb6de346a4b7f46648272cdacc46f"
     },
     {
       "path": "sandbox.html",
@@ -1694,8 +1694,8 @@
     },
     {
       "path": "source.tar.gz",
-      "byteLength": 5950231,
-      "sha256": "f828c44c24324d7cb88f2ca48edbbea8ef4d1fb8685160ea637a0ec69abb7e35"
+      "byteLength": 5954372,
+      "sha256": "9d34a6a7cd67a5c279c8386bd745b8db27baa42ec86e655684b0f535d7e8ed7b"
     },
     {
       "path": "src/card/extra.js",

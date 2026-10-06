@@ -28,7 +28,7 @@ def pack(files):
 
 
 def assemble():
-    inventory = json.loads((ROOT / 'poc-integrity.json').read_text())
+    inventory = json.loads((ROOT / 'poc-integrity.json').read_text(encoding='utf-8'))
     adapter_names = ('preload.js', 'sandbox-boot.js', 'sandbox.html', 'approved-setup.json')
     for name, meta in inventory.items():
         if name in ('host.html', 'host.js') or name in adapter_names:
@@ -41,9 +41,9 @@ def assemble():
     notices = []
     for path in sorted((ROOT / 'licenses').rglob('*')):
         if path.is_file() and path.name != 'manifest.json':
-            notices.append('\n=== ' + path.relative_to(ROOT).as_posix() + ' ===\n' + path.read_text())
-    notices.append('\n=== fake-indexeddb 6.2.4 ===\n' + (ROOT / 'fake-indexeddb-LICENSE.txt').read_text())
-    (RUNTIME / 'THIRD-PARTY-NOTICES.txt').write_text('\n'.join(notices))
+            notices.append('\n=== ' + path.relative_to(ROOT).as_posix() + ' ===\n' + path.read_text(encoding='utf-8'))
+    notices.append('\n=== fake-indexeddb 6.2.4 ===\n' + (ROOT / 'fake-indexeddb-LICENSE.txt').read_text(encoding='utf-8'))
+    (RUNTIME / 'THIRD-PARTY-NOTICES.txt').write_text('\n'.join(notices), encoding='utf-8', newline='\n')
     (RUNTIME / 'LICENSE.txt').write_bytes((ROOT / 'LICENSE').read_bytes())
     sources = {}
     for name in ('upstream-source.tar.gz', 'source-manifest.json', 'poc-integrity.json', 'LICENSE', 'UPSTREAM-README.md', 'BUILD.txt', 'assemble.py', 'fake-indexeddb-LICENSE.txt'):
@@ -67,7 +67,7 @@ def assemble():
             raise ValueError('Runtime symlink: ' + name)
         data = path.read_bytes()
         files.append({'path': name, 'byteLength': len(data), 'sha256': hashlib.sha256(data).hexdigest()})
-    (ROOT / 'manifest.json').write_text(json.dumps({'version': 1, 'entry': 'sandbox.html', 'files': files}, indent=2) + '\n')
+    (ROOT / 'manifest.json').write_text(json.dumps({'version': 1, 'entry': 'sandbox.html', 'files': files}, indent=2) + '\n', encoding='utf-8', newline='\n')
     print(json.dumps({'files': len(files), 'bytes': sum(f['byteLength'] for f in files)}))
 
 

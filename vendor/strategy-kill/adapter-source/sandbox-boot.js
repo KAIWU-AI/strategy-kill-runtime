@@ -6,7 +6,12 @@ Object.defineProperty(window,'caches',{value:undefined});
 const createElement=document.createElement.bind(document);document.createElement=function(tag,...args){const el=createElement(tag,...args);if(['script','link','img'].includes(tag.toLowerCase()))el.crossOrigin='anonymous';return el;};
 const hash=new URLSearchParams(location.hash.slice(1)),session=hash.get('session'),parentOrigin=hash.get('parentOrigin');
 const validHost=parent!==window && /^[a-f0-9]{32,128}$/.test(session??'') && /^https?:\/\/[^/]+$/.test(parentOrigin??'');
-let configured=false,engine,desiredPaused=false,finished=false;
+let configured=false,engine,engineStatus,desiredPaused=false,finished=false,helpOpen=false,helpInheritedPause=false;
+const mustPause=()=>desiredPaused||helpOpen||document.hidden||finished;
+const syncPause=()=>{if(mustPause())engine?.pause2();else engine?.resume2();};
+const openHelp=()=>{helpInheritedPause=!!engineStatus?.paused2&&!desiredPaused&&!document.hidden;helpOpen=true;syncPause();};
+const closeHelp=()=>{helpOpen=false;if(mustPause())engine?.pause2();else if(!helpInheritedPause)engine?.resume2();helpInheritedPause=false;};
+document.addEventListener('visibilitychange',syncPause);
 const send=(type,extra={})=>{if(validHost)parent.postMessage({channel:'strategy-kill/v1',session,type,...extra},parentOrigin)};
 const fail=code=>send('failed',{code});
 window.addEventListener('error',()=>fail('RUNTIME_FAILED'));
@@ -43,12 +48,12 @@ window.addEventListener('message',async event=>{
    if(!validate(m,approved)){fail('INVALID_CONFIG');return;}
    // Translations are authoritative approved plain text, not executable markup from a message.
    const setup={...approved,selectedCharacter:m.setup.selectedCharacter,playerCount:m.setup.playerCount};
-   const api=await import('./noname.js');engine=api.game;if(desiredPaused)engine.pause2();
+   const api=await import('./noname.js');engine=api.game;engineStatus=api._status;if(mustPause())engine.pause2();
    const {default:preload}=await import('./preload.js');
-   await preload(api,{setup,portraits:m.portraits??{},cardBack:m.cardBack,notify:(type,extra)=>{if(type==='running'&&desiredPaused)engine.pause2();if(type==='finished')finished=true;send(type,extra);if(type==='running'&&desiredPaused)send('paused');}});
+   await preload(api,{setup,portraits:m.portraits??{},cardBack:m.cardBack,openHelp,closeHelp,notify:(type,extra)=>{if(type==='running'&&mustPause())engine.pause2();if(type==='finished')finished=true;send(type,extra);if(type==='running'&&desiredPaused)send('paused');}});
    const {boot}=await import('./noname/init/index.js');await boot();
   }catch(e){console.error(e);fail('BOOT_FAILED');}
  }else if(m.type==='pause'&&!finished){desiredPaused=true;engine?.pause2();send('paused');}
- else if(m.type==='resume'&&!finished){desiredPaused=false;engine?.resume2();send('resumed');}
+ else if(m.type==='resume'&&!finished){desiredPaused=false;syncPause();send('resumed');}
 });
 if(validHost)send('ready');else document.body.textContent='This runtime requires an opaque host frame.';
